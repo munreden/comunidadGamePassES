@@ -1,9 +1,9 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="es">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Munreden - Comunidad Game Pass España - Calendario de Lanzamientos</title>
+    <title>Munreden - Comunidad Game Pass España - creador de JSON</title>
     <link href="../utils/images/favicon.ico" rel="icon">
     <link rel="stylesheet" href="../utils/css/jsonCreator.css">
     <!-- Font CDN -->
@@ -16,7 +16,68 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
   </head>
   <body>
-    <div class="container"></div>
-  <!-- <script src="../utils/js/calendar.js"></script> -->
+    <div class="container shadow">
+      <h1 class="text-center mb-4">COMUNIDAD GAME PASS - FORMULARIO DE ENTRADA/SALIDA DE JUEGOS</h1>
+      <form id="gameForm">
+        <div class="row mb-3">
+          <div class="col-md-6">
+            <span class="bubble-badge"></span>
+            <label for="name" class="form-label">Nombre del juego:</label>
+            <input type="text" class="form-control" id="name" required>
+          </div>
+          <div class="col-md-6">
+            <span class="bubble-badge"></span>
+            <label for="date" class="form-label">Fecha de lanzaminento/salida:</label>
+            <input type="date" class="form-control" id="date" required>
+          </div>
+        </div>
+        <div class="mb-3">
+          <span class="bubble-badge"></span>
+          <label for="url" class="form-label">URL de la tienda de XBOX:</label>
+          <input type="url" class="form-control" id="url" required>
+        </div>
+        <div class="mb-3">
+          <span class="bubble-badge"></span>
+          <label for="cover" class="form-label">URL de la imagen de la portada del juego:</label>
+          <input type="url" class="form-control" id="cover" required>
+        </div>
+        <div class="row mb-3">
+          <div class="col-md-6">
+            <span class="bubble-badge"></span>
+            <label class="form-label">Plataformas</label>
+            <div class="form-check">
+              <div class="form-check form-check-inline">
+                <input class="form-check-input" type="checkbox" value="xbox" name="platforms" id="platformXbox" checked>
+                <label class="form-check-label" for="platformXbox">Xbox</label>
+              </div>
+              <div class="form-check form-check-inline">
+                <input class="form-check-input" type="checkbox" value="pc" name="platforms" id="platformPc" checked>
+                <label class="form-check-label" for="platformPc">PC</label>
+              </div>
+              <div class="form-check form-check-inline">
+                <input class="form-check-input" type="checkbox" value="cloud" name="platforms" id="platformCloud" checked>
+                <label class="form-check-label" for="platformCloud">Nube</label>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <span class="bubble-badge"></span>
+            <label for="type" class="form-label">Tipo de juego</label>
+            <select id="type" class="form-select" required>
+              <option value="" disabled selected>Selecciona un tipo de juego</option>
+              <option value="release">Nueva entrada</option>
+              <option value="leaving">Nueva salida</option>
+            </select>
+          </div>
+        </div>
+        <div class="d-flex justify-content-center">
+          <button type="submit" class="btn btn-danger mt-3">Generar JSON</button>
+          <button type="button" class="btn btn-danger mt-3" onclick="clearStorage()">Limpiar JSON</button>
+        </div>
+      </form>
+      <h2 class="mt-4">JSON generado:</h2>
+      <pre id="jsonOutput" class="bg-light p-3 border rounded"></pre>
+    </div>
+    <script src="../utils/js/jsonCreator.js"></script>
   </body>
 </html>
