@@ -1,367 +1,84 @@
 :root {
   /* Font sizes */
-  --font-size-calendar-title: 3em;
-  --font-size-social-media: 1.7em;
-  --font-size-week-days: 1.5em;
-  --font-size-week-columns: 1.7em;
-  --font-size-calendar-days: 1.5em;
-  --font-size-new-games-badge: 0.8em;
-  --font-size-new-games-title: 0.8em;
+  --font-size-form-label: 1.2em;
 
-  /* Border radius */
-  --border-radius-calendar: 15px;
-  --border-radius-day-active: 1em;
-  --border-radius-new-games-badge: 50%;
-  --border-radius-cover: 10px;
+  /* Paddings */
+  --padding-container: 1em;
+  --padding-form-label: 10px 10px;
 
-  /* Margin */
-  --margin-footer-elements: 1em;
-  --margin-platforms-i: 0 0.3em;
-
-  /* Padding */
-  --padding-calendar-title: 0.2em;
-  --padding-calendar-days: 10px;
-  --padding-week-days: 10px;
-
-  /* Sizes */
-  --width-calendar-days: 14.28%;
-  --height-calendar-days: 12vh;
-  --width-new-games-badge: 40px;
-  --cover-width: 8em;
-  --font-size-footer: 1em;
+  /* Margins */
+  --margin-container: 40px;
 
   /* Colors */
-  --color-background: #dfebed;
-  --color-calendar-background: #1d1d1d;
-  --color-active-day: #107c10;
-  --color-new-games-badge: #750000;
+  --background-color-body: #e8e8e8;
+  --background-color-container: #1d1d1d;
+  --color-container: #ffff;
+  --color-bubble-badge: #750000;
+
+  /* Widths & Heights */
+  --bubble-badge-size: 0.7em;
+
 }
 
 /* Global Styles */
 * {
   font-family: 'Generic Mobile System Nuevo', sans-serif;
-  color: #ffffff;
 }
 
-a {
-  text-decoration: none !important;
+body{
+  background-color: var(--background-color-body)!important;
 }
 
-body {
-  background-color: var(--color-calendar-background)!important;
+.container{
+  padding: var(--padding-container);
+  margin: var(--margin-container);
+  background-color: var(--background-color-container);
+  border-radius: 20px;
+  color: var(--color-container);
 }
 
-/* Calendar Styles */
-.calendar {
-  background-color: var(--color-calendar-background);
-  padding: 5px;
-}
-
-.calendar-title {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-between;
-  padding: var(--padding-calendar-title);
-  font-size: var(--font-size-calendar-title);
-  text-align: center;
-  text-transform: uppercase;
-}
-
-.calendar-title span {
-  padding: var(--padding-calendar-title) !important;
-}
-
-/* Social Media */
-.social-media {
-  font-size: var(--font-size-social-media);
-  padding: var(--padding-calendar-title) 0;
-  text-align: center;
-  margin-left: 1em;
-}
-
-.social-media a:hover i {
-  color: #ffffffcb;
-}
-
-/* Calendar Week & Days */
-.week-row {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-}
-
-.week-columns {
-  font-size: var(--font-size-week-columns);
-  width: var(--width-calendar-days);
-  text-align: center;
-  padding: var(--padding-week-days);
-  border-top: 1px solid #cfcfcf;
-  border-bottom: 1px solid #cfcfcf;
-}
-
-.day, .day-active {
-  font-size: var(--font-size-week-days);
+.bubble-badge {
   display: inline-block;
-  width: var(--width-calendar-days);
-  height: var(--height-calendar-days);
-  text-align: center;
-  padding: var(--padding-calendar-days);
-  position: relative;
+  width: var(--bubble-badge-size);
+  height: var(--bubble-badge-size);
+  border-radius: 50%;
+  background-color: var(--color-bubble-badge);
 }
 
-.day:hover {
-  background-color: #3a3a3a;
-  border-radius: var(--border-radius-day-active);
+.form-label{
+  font-size: var(--font-size-form-label);
+  padding: var(--padding-form-label);
 }
 
-.day-active {
-  background: var(--color-active-day);
-  border-radius: var(--border-radius-day-active);
+.btn-danger{
+  background-color: var(--color-bubble-badge)!important;
+  margin-right: 1em; 
 }
 
-/* Badge */
-.new-games-badge {
-  margin-left: 0.5em;
-  position: absolute;
-  width: 0.8em;
-  height: 0.8em;
-  border-radius: var(--border-radius-new-games-badge);
-  background-color: var(--color-new-games-badge);
-  font-size: var(--font-size-new-games-badge);
-}
-
-.new-games-title {
-  font-size: var(--font-size-new-games-title);
-  text-align: center;
-}
-
-.new-games-badge-footer {
-  margin: 0.2em 1em;
-  width: 1em;
-  height: 1em;
-  border-radius: var(--border-radius-new-games-badge);
-  background-color: var(--color-new-games-badge);
-}
-
-/* Modal Styles */
-.btn-close {
-  display: none;
-}
-
-.modal-dialog {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  max-width: 90%;
-  margin: 1.75rem auto;
-}
-
-.modal-content {
-  background-color: var(--color-calendar-background) !important;
-  border-radius: var(--border-radius-calendar)!important;
-  text-align: center!important;
-  align-items: center!important;
-  justify-content: center!important;
-}
-
-.modal-header, .modal-body, .modal-footer {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-}
-
-.modal-header {
-  border-bottom: none;
-}
-
-.modal-body {
-  padding: 1rem;
-}
-
-.modal-footer {
-  border-top: none;
-  padding: 1rem;
-}
-
-.games-entry {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  align-items: center;
-  flex-wrap: wrap;
-}
-
-.platforms i{
-  margin: var(--margin-platforms-i);
-}
-
-.game-entry {
-  text-align: center;
-  padding: 1em;
-}
-
-.game-name{
-  font-size: 1.3em;
-}
-
-.cover {
-  border-radius: var(--border-radius-cover);
-  width: var(--cover-width);
-  height: auto;
-  margin: 0 auto;
-}
-
-/* Footer */
-.footer {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-  font-size: var(--font-size-footer);
-}
-
-.footer i {
-  margin-right: var(--margin-footer-elements);
+#jsonOutput{
+  color: black!important;
 }
 
 /* Responsive Styles */
 @media (max-width: 1600px) {
   :root {
-    --font-size-calendar-title: 1.5em;
-    --font-size-social-media: 1em;
-    --font-size-footer: 0.65em;
-    --font-size-week-days: 0.9em;
-    --font-size-week-columns: 1em;
-    --font-size-new-games-title: 0.8em;
-    --padding-calendar-days: 2px;
-    --padding-week-days: 2px;
-    --cover-width: 6em;
-    --height-calendar-days: 10vh;
-  }
-
-  .social-media i{
-    padding: 1em 1em 
-  }
-
-  .calendar{
-    height: 100vh;
-    width: 100vw;
-  }
-
-  .calendar-title {
-    display: flex;
-    flex-direction: row;
-    padding: 0.5em 0.2em;
-    font-size: var(--font-size-calendar-title);
-  }
-
-  .modal-title{
-    font-size: 1.4em;
-  }
-
-  .game-name{
-    font-size: 1em;
-  }
-
-  h3{
-    font-size: 1em;
+    --margin-container: 30px;
   }
 }
 
 @media (max-width: 920px) {
   :root {
-    --font-size-calendar-title: 1.2em;
-    --font-size-social-media: 1em;
-    --font-size-footer: 0.65em;
-    --font-size-week-days: 0.9em;
-    --font-size-week-columns: 1em;
-    --font-size-new-games-title: 0.8em;
-    --padding-calendar-days: 2px;
-    --padding-week-days: 2px;
-    --margin-platforms-i: 0.2em;
-
-    --cover-width: 6em;
-    --height-calendar-days: 12vh;
-  }
-
-  .social-media i{
-    padding: 1em 1em 
-  }
-
-  .calendar{
-    height: 100vh;
-    width: 100vw;
-  }
-
-  .calendar-title {
-    display: flex;
-    flex-direction: row;
-    padding: 0.5em 0.2em;
-    font-size: var(--font-size-calendar-title);
-  }
-
-  .modal-title{
-    font-size: 1.4em;
-  }
-
-  .game-name{
-    font-size: 1em;
-  }
-
-  h3{
-    font-size: 1em;
+    --margin-container: 20px;
   }
 }
 
 @media (max-width: 480px) {
   :root {
-    --font-size-calendar-title: 1.2em;
-    --font-size-social-media: 1em;
-    --font-size-footer: 0.65em;
-    --font-size-week-days: 0.9em;
-    --font-size-week-columns: 1em;
-    --font-size-new-games-title: 0.8em;
-    --padding-calendar-days: 2px;
-    --padding-week-days: 2px;
-    --margin-platforms-i: 0.2em;
-    --cover-width: 4.3em;
-    --height-calendar-days: 10vh;
+    --margin-container: 10px;
   }
-
-  .social-media i{
-    padding: 1em 1em 
-  }
-
-  .calendar{
-    height: 100vh;
-    width: 100vw;
-  }
-
-  .calendar-title {
-    display: flex;
-    flex-direction: row;
-    padding: 0.5em 0.2em;
-    font-size: var(--font-size-calendar-title);
-  }
-
-  div#gameModal.modal.fade.show{
-    display: flex!important;
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .modal-title{
-    font-size: 1.4em;
-  }
-
-  .game-name{
-    font-size: 1em;
-  }
-
-  h3{
-    font-size: 1em;
+  .container{
+    width: 98%!important;
+    /* margin-right: 0!important;
+    margin-left: 0!important; */
   }
 }
