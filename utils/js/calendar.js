@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", async function() {
-  const jsonFileName = 'https://munreden.github.io/comunidadgamepassES/data.json'; 
+  const jsonFileName = 'https://munreden.github.io/comunidadGamePassES/releasesCalendar/data.json'; 
 
   try {
     const gamesData = await readJson(jsonFileName);
