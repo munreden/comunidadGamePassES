@@ -54,6 +54,24 @@
         "pc",
         "cloud"
       ]
+    },
+    {
+      "name": "Frostpunk 2",
+      "date": "2024-09-20",
+      "url": "https://www.xbox.com/es-ES/games/store/frostpunk-2/9n0kn24fwp6b",
+      "cover": "https://store-images.s-microsoft.com/image/apps.4430.13923668312910701.01edfea1-db44-49e5-8fd9-8f546040b4b7.9bb1a96f-07fb-4b50-9506-21ef028813fc?q=90&w=177&h=265",
+      "platforms": [
+        "pc"
+      ]
+    },
+    {
+      "name": "Ara: History Untold",
+      "date": "2024-09-24",
+      "url": "https://www.xbox.com/es-es/games/store/ara-history-untold/9pddrvkpf6kg",
+      "cover": "https://store-images.s-microsoft.com/image/apps.55443.14155779103420171.4ad205b4-35aa-4860-b985-7e3ad92d5cbd.417657f7-9a02-4ba9-9f5f-9eb1bbae81a3?q=90&w=177&h=265",
+      "platforms": [
+        "pc"
+      ]
     }
   ],
   "leavingGames": [
