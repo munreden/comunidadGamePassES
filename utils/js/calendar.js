@@ -10,15 +10,55 @@ document.addEventListener("DOMContentLoaded", async function() {
     const monthNames = ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"];
 
     const currentDate = new Date();
-    const currentDay = currentDate.getDate();
     const currentMonth = currentDate.getMonth();
     const currentYear = currentDate.getFullYear();
+    
+    let displayedMonth = currentMonth;
+    let displayedYear = currentYear;
+
+    // Máximo de 6 meses adelante
+    const maxMonth = (currentMonth + 6) % 12;
+    const maxYear = currentYear + Math.floor((currentMonth + 6) / 12);
 
     // Inicializar calendario
-    initializeCalendar(currentYear, currentMonth);
+    initializeCalendar(displayedYear, displayedMonth);
 
-    // Lógica del modal
-    initializeModal(releaseGames, leavingGames, monthNames);
+    // Botones de navegación
+    document.getElementById("prevMonth").addEventListener("click", function() {
+      if (canNavigatePrev()) {
+        displayedMonth--;
+        if (displayedMonth < 0) {
+          displayedMonth = 11;
+          displayedYear--;
+        }
+        initializeCalendar(displayedYear, displayedMonth);
+      }
+    });
+
+    document.getElementById("nextMonth").addEventListener("click", function() {
+      if (canNavigateNext()) {
+        displayedMonth++;
+        if (displayedMonth > 11) {
+          displayedMonth = 0;
+          displayedYear++;
+        }
+        initializeCalendar(displayedYear, displayedMonth);
+      }
+    });
+
+    /**
+     * Comprueba si se puede navegar al mes anterior.
+     */
+    function canNavigatePrev() {
+      return !(displayedYear === currentYear && displayedMonth === currentMonth);
+    }
+
+    /**
+     * Comprueba si se puede navegar al siguiente mes.
+     */
+    function canNavigateNext() {
+      return !(displayedYear === maxYear && displayedMonth === maxMonth);
+    }
 
     /**
      * Inicializa el calendario para el año y mes actuales.
@@ -52,6 +92,20 @@ document.addEventListener("DOMContentLoaded", async function() {
       calendarHTML += '</div>';
 
       document.getElementById("calendarDays").innerHTML = calendarHTML;
+
+      // Después de renderizar el calendario, inicializamos el modal
+      initializeModal(releaseGames, leavingGames, monthNames);
+
+      // Actualizar botones de navegación
+      updateNavigationButtons();
+    }
+
+    /**
+     * Actualiza el estado de los botones de navegación.
+     */
+    function updateNavigationButtons() {
+      document.getElementById("prevMonth").disabled = !canNavigatePrev();
+      document.getElementById("nextMonth").disabled = !canNavigateNext();
     }
 
     /**
@@ -66,23 +120,20 @@ document.addEventListener("DOMContentLoaded", async function() {
       return html;
     }
 
-    /**
-     * Genera el HTML de un día específico en el calendario.
-     * @param {number} day - Día del mes.
-     * @param {string} formattedDate - Fecha formateada en "YYYY-MM-DD".
-     * @param {number} adjustedFirstDay - Ajuste para el primer día del mes.
-     */
     function generateDayHTML(day, formattedDate, adjustedFirstDay) {
       const gamesForThisDay = releaseGames.filter(game => game.date === formattedDate);
       const gamesLeavingThisDay = leavingGames.filter(game => game.date === formattedDate);
-      let dayContent = `<span class="${day === currentDay ? 'day-active' : 'day'}" data-date="${formattedDate}">${day}`;
 
+      const isToday = displayedYear === currentYear && displayedMonth === currentMonth && day === currentDate.getDate();
+    
+      let dayContent = `<span class="${isToday ? 'day-active' : 'day'}" data-date="${formattedDate}">${day}`;
+    
       if (gamesForThisDay.length > 0 || gamesLeavingThisDay.length > 0) {
         dayContent += generateBadgeHTML(gamesForThisDay, gamesLeavingThisDay);
       }
-
+    
       dayContent += `</span>`;
-
+    
       if ((day + adjustedFirstDay) % 7 === 0) {
         dayContent += `</div><div class="week-row">`;
       }
