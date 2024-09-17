@@ -99,7 +99,7 @@ document.addEventListener("DOMContentLoaded", async function() {
           <span class="new-games-title">
             ${gamesForThisDay.length > 0 ? `${gamesForThisDay.length} ${gamesForThisDay.length > 1 ? 'juegos entran' : 'juego entra'}` : ''}
             ${gamesForThisDay.length > 0 && gamesLeavingThisDay.length > 0 ? ', ' : ''}
-            ${gamesLeavingThisDay.length > 0 ? `${gamesLeavingThisDay.length > 1 ? 'juegos salen' : 'juego sale'}` : ''}
+            ${gamesLeavingThisDay.length > 0 ? `${gamesLeavingThisDay.length} ${gamesLeavingThisDay.length > 1 ? 'juegos salen' : 'juego sale'}` : ''}
           </span>
         </div>`;
     }
