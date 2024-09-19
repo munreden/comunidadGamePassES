@@ -5,6 +5,7 @@ document.addEventListener("DOMContentLoaded", async function() {
     const gamesData = await readJson(jsonFileName);
     const releaseGames = gamesData.releaseGames;
     const leavingGames = gamesData.leavingGames;
+    const freePlayDaysGames = gamesData.freePlayDays; // Modificado aquí
 
     const weekDays = ["Lun", "Mar", "Mié", "Jue", "Vie", "Sáb", "Dom"];
     const monthNames = ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"];
@@ -46,25 +47,14 @@ document.addEventListener("DOMContentLoaded", async function() {
       }
     });
 
-    /**
-     * Comprueba si se puede navegar al mes anterior.
-     */
     function canNavigatePrev() {
       return !(displayedYear === currentYear && displayedMonth === currentMonth);
     }
 
-    /**
-     * Comprueba si se puede navegar al siguiente mes.
-     */
     function canNavigateNext() {
       return !(displayedYear === maxYear && displayedMonth === maxMonth);
     }
 
-    /**
-     * Inicializa el calendario para el año y mes actuales.
-     * @param {number} year - Año actual.
-     * @param {number} month - Mes actual (0-indexado).
-     */
     function initializeCalendar(year, month) {
       const daysInMonth = new Date(year, month + 1, 0).getDate();
       const firstDayOfMonth = new Date(year, month, 1).getDay();
@@ -94,23 +84,17 @@ document.addEventListener("DOMContentLoaded", async function() {
       document.getElementById("calendarDays").innerHTML = calendarHTML;
 
       // Después de renderizar el calendario, inicializamos el modal
-      initializeModal(releaseGames, leavingGames, monthNames);
+      initializeModal(releaseGames, leavingGames, freePlayDaysGames, monthNames);
 
       // Actualizar botones de navegación
       updateNavigationButtons();
     }
 
-    /**
-     * Actualiza el estado de los botones de navegación.
-     */
     function updateNavigationButtons() {
       document.getElementById("prevMonth").disabled = !canNavigatePrev();
       document.getElementById("nextMonth").disabled = !canNavigateNext();
     }
 
-    /**
-     * Genera el HTML para los días de la semana.
-     */
     function generateWeekDaysHTML() {
       let html = '<div class="week-row">';
       weekDays.forEach(day => {
@@ -123,13 +107,14 @@ document.addEventListener("DOMContentLoaded", async function() {
     function generateDayHTML(day, formattedDate, adjustedFirstDay) {
       const gamesForThisDay = releaseGames.filter(game => game.date === formattedDate);
       const gamesLeavingThisDay = leavingGames.filter(game => game.date === formattedDate);
+      const freePlayDaysForThisDay = freePlayDaysGames.filter(game => game.date === formattedDate);
 
       const isToday = displayedYear === currentYear && displayedMonth === currentMonth && day === currentDate.getDate();
     
       let dayContent = `<span class="${isToday ? 'day-active' : 'day'}" data-date="${formattedDate}">${day}`;
     
-      if (gamesForThisDay.length > 0 || gamesLeavingThisDay.length > 0) {
-        dayContent += generateBadgeHTML(gamesForThisDay, gamesLeavingThisDay);
+      if (gamesForThisDay.length > 0 || gamesLeavingThisDay.length > 0 || freePlayDaysForThisDay.length > 0) {
+        dayContent += generateBadgeHTML(gamesForThisDay, gamesLeavingThisDay, freePlayDaysForThisDay);
       }
     
       dayContent += `</span>`;
@@ -140,24 +125,19 @@ document.addEventListener("DOMContentLoaded", async function() {
       return dayContent;
     }
 
-    /**
-     * Genera la insignia con los detalles de los juegos entrantes o salientes.
-     */
-    function generateBadgeHTML(gamesForThisDay, gamesLeavingThisDay) {
+    function generateBadgeHTML(gamesForThisDay, gamesLeavingThisDay, freePlayDaysForThisDay) {
       return `
         <span class="new-games-badge"></span>
         <div>
           <span class="new-games-title">
-            ${gamesForThisDay.length > 0 ? `${gamesForThisDay.length} ${gamesForThisDay.length > 1 ? 'juegos entran' : 'juego entra'}` : ''}
+            ${gamesForThisDay.length > 0 ? `${gamesForThisDay.length} ${gamesForThisDay.length > 1 ? ' entran' : ' entra'}` : ''}
             ${gamesForThisDay.length > 0 && gamesLeavingThisDay.length > 0 ? ', ' : ''}
-            ${gamesLeavingThisDay.length > 0 ? `${gamesLeavingThisDay.length} ${gamesLeavingThisDay.length > 1 ? 'juegos salen' : 'juego sale'}` : ''}
+            ${gamesLeavingThisDay.length > 0 ? `${gamesLeavingThisDay.length} ${gamesLeavingThisDay.length > 1 ? ' salen' : ' sale'}` : ''}
+            ${freePlayDaysForThisDay.length > 0 ? (gamesForThisDay.length > 0 || gamesLeavingThisDay.length > 0 ? ' ' : '') + '<div><span class="xfpd"><i class="bi bi-xbox"></i> FREE PLAY DAYS</span></div>' : ''}
           </span>
         </div>`;
-    }
+    }    
 
-    /**
-     * Completa la última fila de la semana en el calendario con espacios vacíos.
-     */
     function completeLastWeek(totalDays) {
       const remainingSpaces = (7 - (totalDays % 7)) % 7;
       let html = '';
@@ -167,24 +147,22 @@ document.addEventListener("DOMContentLoaded", async function() {
       return html;
     }
 
-    /**
-     * Inicializa el modal con los juegos correspondientes al día seleccionado.
-     */
-    function initializeModal(releaseGames, leavingGames, monthNames) {
+    function initializeModal(releaseGames, leavingGames, freePlayDaysGames, monthNames) {
       const modal = document.getElementById("gameModal");
       const modalBody = document.getElementById("modal-body");
       const modalTitle = document.getElementById("modal-title");
-
+    
       document.querySelectorAll(".day, .day-active").forEach(day => {
         day.addEventListener("click", function() {
           const date = this.getAttribute("data-date");
           const gamesForThisDay = releaseGames.filter(game => game.date === date);
           const gamesLeavingThisDay = leavingGames.filter(game => game.date === date);
-
-          if (gamesForThisDay.length > 0 || gamesLeavingThisDay.length > 0) {
+          const freePlayDaysForThisDay = freePlayDaysGames.filter(game => game.date === date);
+    
+          if (gamesForThisDay.length > 0 || gamesLeavingThisDay.length > 0 || freePlayDaysForThisDay.length > 0) {
             const formattedDate = formatDateForModal(date, monthNames);
-            modalTitle.textContent = `Lanzamientos del ${formattedDate}`.toUpperCase();
-
+            modalTitle.textContent = `Juegos del ${formattedDate}`.toUpperCase();
+    
             let modalContent = '<div class="games-container">';
             if (gamesForThisDay.length > 0) {
               modalContent += `<h3>ENTRAN</h3>${generateGamesEntry(gamesForThisDay)}`;
@@ -192,8 +170,17 @@ document.addEventListener("DOMContentLoaded", async function() {
             if (gamesLeavingThisDay.length > 0) {
               modalContent += `<h3>SALEN</h3>${generateGamesEntry(gamesLeavingThisDay)}`;
             }
+            if (freePlayDaysForThisDay.length > 0) {
+              const freePlayDateLeaving = freePlayDaysForThisDay[0].dateLeaving;
+              const formattedFreePlayDate = new Date(freePlayDateLeaving).toLocaleDateString('es-ES', {
+                day: 'numeric',
+                month: 'long',
+                year: 'numeric'
+              });
+              modalContent += `<h3>XBOX FREE PLAY DAYS (hasta ${formattedFreePlayDate})</h3>${generateGamesEntry(freePlayDaysForThisDay)}`;
+            }
             modalContent += '</div>';
-
+    
             modalBody.innerHTML = modalContent;
             const modalInstance = new bootstrap.Modal(modal);
             modalInstance.show();
@@ -201,10 +188,7 @@ document.addEventListener("DOMContentLoaded", async function() {
         });
       });
     }
-
-    /**
-     * Genera el HTML para las entradas de juegos en el modal.
-     */
+    
     function generateGamesEntry(games) {
       return `
         <div class="games-entry">
@@ -220,9 +204,6 @@ document.addEventListener("DOMContentLoaded", async function() {
         </div>`;
     }
 
-    /**
-     * Genera el HTML para las plataformas de juegos en el modal.
-     */
     function generatePlatformsIcons(platforms) {
       let platformsHTML = '<div class="platforms">';
 
@@ -242,17 +223,11 @@ document.addEventListener("DOMContentLoaded", async function() {
       return platformsHTML;
     }
 
-    /**
-     * Formatea la fecha para mostrar en el modal.
-     */
     function formatDateForModal(date, monthNames) {
       const dateObj = new Date(date);
       return `${dateObj.getDate()} de ${monthNames[dateObj.getMonth()]}`;
     }
 
-    /**
-     * Lee el archivo JSON con los juegos a modo de DB.
-     */
     async function readJson(jsonFileName) {
       try {
         const response = await fetch(jsonFileName);

@@ -6,7 +6,9 @@
   --font-size-week-columns: 1.7em;
   --font-size-calendar-days: 1.5em;
   --font-size-new-games-badge: 0.8em;
-  --font-size-new-games-title: 0.8em;
+  --font-size-new-games-title: 0.7em;
+  --font-size-xfpd: 0.7em;
+
 
   /* Border radius */
   --border-radius-calendar: 15px;
@@ -134,6 +136,11 @@ body {
 .new-games-title {
   font-size: var(--font-size-new-games-title);
   text-align: center;
+}
+
+.xfpd{
+  background-color: var(--color-active-day);
+  border-radius: var(--border-radius-day-active);
 }
 
 .new-games-badge-footer {
