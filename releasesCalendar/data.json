@@ -1,76 +1,273 @@
 {
-    "releaseGames": [
-      {
-        "name": "Star Trucker",
-        "date": "2024-09-03",
-        "url": "https://www.xbox.com/es-ES/games/store/star-trucker/9mt19q3crmqz",
-        "cover": "https://store-images.s-microsoft.com/image/apps.44532.13821700683757810.93b2f721-fab5-4d3d-b441-a854a8efa421.7556908b-9456-422f-8836-10c24c5e5e2d?q=90&w=177&h=265",
-        "platforms": ["xbox", "pc", "cloud"]
-      },
-      {
-        "name": "Age of Mythology: Retold",
-        "date": "2024-09-04",
-        "url": "https://www.xbox.com/es-es/games/store/age-of-mythology-retold-standard-edition/9npkgvxpfrsx",
-        "cover": "https://store-images.s-microsoft.com/image/apps.11603.13792255792507479.e5089564-b472-427d-a39f-9e97ae74bf23.022933e1-6a30-4a52-8c02-0b9400857d8e?q=90&w=177&h=265",
-        "platforms": ["xbox", "pc", "cloud"]
-      },
-      {
-        "name": "Expeditions: A MudRunner Game",
-        "date": "2024-09-05",
-        "url": "https://www.xbox.com/es-es/games/store/expeditions-a-mudrunner-game/9np9j3t0jwrl",
-        "cover": "https://store-images.s-microsoft.com/image/apps.43838.13722712109789879.88e97562-5a57-4b39-9426-9595fa771f98.49ef35c8-d6df-4a9b-941f-380ad5d035bd?q=90&w=177&h=265",
-        "platforms": ["xbox", "pc", "cloud"]
-      },
-      {
-        "name": "Riders Republic",
-        "date": "2024-09-11",
-        "url": "https://www.xbox.com/es-es/games/store/riders-republic/9P1RPXHWZ1C7",
-        "cover": "https://store-images.s-microsoft.com/image/apps.65212.14501696194323418.5696fcf1-5727-45da-a94c-1fdd9ad791ae.2779a381-3f89-4cbf-b4c3-d736c980e7de?q=90&w=177&h=265",
-        "platforms": ["xbox", "pc", "cloud"]
-      },
-      {
-        "name": "Train Sim World 5",
-        "date": "2024-09-17",
-        "url": "https://www.xbox.com/es-ES/games/store/train-sim-world-5-standard-edition/9P663VGP3638/0017",
-        "cover": "https://store-images.s-microsoft.com/image/apps.40169.13533673129408975.95f4b180-e431-4714-922e-b555f8c6879d.9433236d-417c-4930-9bb0-16ebc5cf6be1?q=90&w=177&h=265",
-        "platforms": ["xbox", "pc", "cloud"]
-      }
-    ],
-    "leavingGames": [
-      {
-        "name": "FIFA 23",
-        "date": "2024-09-15",
-        "url": "https://www.xbox.com/es-es/games/store/ea-sports-fifa-23-standard-edition-para-xbox-series-x-s/9n4k3f9558rp",
-        "cover": "https://store-images.s-microsoft.com/image/apps.28530.13981706901537608.82cbb8a4-4b3e-4b23-a32a-ab7e825c9944.ddf36d5f-89ba-4ef8-bd11-dfe066fd1b8f?q=90&w=177&h=265",
-        "platforms": ["xbox", "pc", "cloud"]
-      },
-      {
-        "name": "Payday 3",
-        "date": "2024-09-15",
-        "url": "https://www.microsoft.com/es-es/p/payday-3/9npzvdch73sx",
-        "cover": "https://store-images.s-microsoft.com/image/apps.41648.13779457877292855.4803a4b4-94cc-4b12-bf91-ad49bcb0c65c.f14df05b-5717-4af8-a8ab-6201e4159608?q=90&w=177&h=265",
-        "platforms": ["xbox", "pc", "cloud"]
-      },
-      {
-        "name": "Slime Rancher 2",
-        "date": "2024-09-15",
-        "url": "https://www.xbox.com/es-es/games/store/slime-rancher-2/9phfj0n31nv1",
-        "cover": "https://store-images.s-microsoft.com/image/apps.52896.14232893733292770.c4910fc1-e043-4370-be7c-79114ae9c0cf.985937bf-3384-4e42-935a-8cbe2e57efcc?q=90&w=177&h=265",
-        "platforms": ["xbox", "pc", "cloud"]
-      },
-      {
-        "name": "SpiderHeck",
-        "date": "2024-09-15",
-        "url": "https://www.xbox.com/es-es/games/store/spiderheck/9n0trf57smqh",
-        "cover": "https://store-images.s-microsoft.com/image/apps.19160.13918689285493336.0819ed4c-c94e-42c7-bd95-af9916211f52.f0608ff7-aa51-48de-9261-b4668ef7a641?q=90&w=177&h=265",
-        "platforms": ["xbox", "pc", "cloud"]
-      },
-      {
-        "name": "You Suck at Parking",
-        "date": "2024-09-15",
-        "url": "https://www.xbox.com/es-es/games/store/you-suck-at-parking-complete-edition/9ncf3mrq8480",
-        "cover": "https://store-images.s-microsoft.com/image/apps.46094.13565037407534311.2d70b855-0c14-4a55-b5be-f782acdaf07f.53ed98f4-6eb7-4e0d-ab6c-57972d4eb22f?q=90&w=177&h=265",
-        "platforms": ["xbox", "pc", "cloud"]
-      }
-    ]
+  "releaseGames": [
+    {
+      "name": "Star Trucker",
+      "date": "2024-09-03",
+      "url": "https://www.xbox.com/es-ES/games/store/star-trucker/9mt19q3crmqz",
+      "cover": "https://store-images.s-microsoft.com/image/apps.44532.13821700683757810.93b2f721-fab5-4d3d-b441-a854a8efa421.7556908b-9456-422f-8836-10c24c5e5e2d?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Age of Mythology: Retold",
+      "date": "2024-09-04",
+      "url": "https://www.xbox.com/es-es/games/store/age-of-mythology-retold-standard-edition/9npkgvxpfrsx",
+      "cover": "https://store-images.s-microsoft.com/image/apps.11603.13792255792507479.e5089564-b472-427d-a39f-9e97ae74bf23.022933e1-6a30-4a52-8c02-0b9400857d8e?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Expeditions: A MudRunner Game",
+      "date": "2024-09-05",
+      "url": "https://www.xbox.com/es-es/games/store/expeditions-a-mudrunner-game/9np9j3t0jwrl",
+      "cover": "https://store-images.s-microsoft.com/image/apps.43838.13722712109789879.88e97562-5a57-4b39-9426-9595fa771f98.49ef35c8-d6df-4a9b-941f-380ad5d035bd?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Riders Republic",
+      "date": "2024-09-11",
+      "url": "https://www.xbox.com/es-es/games/store/riders-republic/9P1RPXHWZ1C7",
+      "cover": "https://store-images.s-microsoft.com/image/apps.65212.14501696194323418.5696fcf1-5727-45da-a94c-1fdd9ad791ae.2779a381-3f89-4cbf-b4c3-d736c980e7de?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Train Sim World 5",
+      "date": "2024-09-17",
+      "url": "https://www.xbox.com/es-ES/games/store/train-sim-world-5-standard-edition/9P663VGP3638/0017",
+      "cover": "https://store-images.s-microsoft.com/image/apps.40169.13533673129408975.95f4b180-e431-4714-922e-b555f8c6879d.9433236d-417c-4930-9bb0-16ebc5cf6be1?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Wargroove 2",
+      "date": "2024-09-19",
+      "url": "https://www.xbox.com/es-es/games/store/wargroove-2/9pbkcff2fvb4",
+      "cover": "https://store-images.s-microsoft.com/image/apps.50139.14122007479841687.7c6d6098-a1de-4d4a-9dfd-39d728fa4f28.1dcd2e95-9db8-4fcc-88fd-e464028a4326?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Frostpunk 2",
+      "date": "2024-09-20",
+      "url": "https://www.xbox.com/es-ES/games/store/frostpunk-2/9n0kn24fwp6b",
+      "cover": "https://store-images.s-microsoft.com/image/apps.4430.13923668312910701.01edfea1-db44-49e5-8fd9-8f546040b4b7.9bb1a96f-07fb-4b50-9506-21ef028813fc?q=90&w=177&h=265",
+      "platforms": [
+        "pc"
+      ]
+    },
+    {
+      "name": "Ara: History Untold",
+      "date": "2024-09-24",
+      "url": "https://www.xbox.com/es-es/games/store/ara-history-untold/9pddrvkpf6kg",
+      "cover": "https://store-images.s-microsoft.com/image/apps.55443.14155779103420171.4ad205b4-35aa-4860-b985-7e3ad92d5cbd.417657f7-9a02-4ba9-9f5f-9eb1bbae81a3?q=90&w=177&h=265",
+      "platforms": [
+        "pc"
+      ]
+    },
+    {
+      "name": "Call of Duty®: Black Ops 6",
+      "date": "2024-10-25",
+      "url": "https://www.xbox.com/es-ES/games/store/call-of-duty-black-ops-6-edicion-estandar/9N58QRBG9WDG/0017",
+      "cover": "https://store-images.s-microsoft.com/image/apps.10491.13971870865497245.c2434eda-3849-46f0-86f5-08277c1abf9d.f1d04bed-70e1-4dfc-8b57-e808b2f27aa5?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Indiana Jones y el Gran Círculo",
+      "date": "2024-12-09",
+      "url": "https://www.xbox.com/es-es/games/store/indiana-jones-y-el-gran-circulo/9n8fq28z6qx3",
+      "cover": "https://store-images.s-microsoft.com/image/apps.394.14050533476382116.9ce9be62-6690-4c40-8e76-7e5af2a256fb.23519966-541f-46af-94a3-68d956e7cf85?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    }
+  ],
+  "leavingGames": [
+    {
+      "name": "FIFA 23",
+      "date": "2024-09-15",
+      "url": "https://www.xbox.com/es-es/games/store/ea-sports-fifa-23-standard-edition-para-xbox-series-x-s/9n4k3f9558rp",
+      "cover": "https://store-images.s-microsoft.com/image/apps.28530.13981706901537608.82cbb8a4-4b3e-4b23-a32a-ab7e825c9944.ddf36d5f-89ba-4ef8-bd11-dfe066fd1b8f?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Payday 3",
+      "date": "2024-09-15",
+      "url": "https://www.microsoft.com/es-es/p/payday-3/9npzvdch73sx",
+      "cover": "https://store-images.s-microsoft.com/image/apps.41648.13779457877292855.4803a4b4-94cc-4b12-bf91-ad49bcb0c65c.f14df05b-5717-4af8-a8ab-6201e4159608?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Slime Rancher 2",
+      "date": "2024-09-15",
+      "url": "https://www.xbox.com/es-es/games/store/slime-rancher-2/9phfj0n31nv1",
+      "cover": "https://store-images.s-microsoft.com/image/apps.52896.14232893733292770.c4910fc1-e043-4370-be7c-79114ae9c0cf.985937bf-3384-4e42-935a-8cbe2e57efcc?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "SpiderHeck",
+      "date": "2024-09-15",
+      "url": "https://www.xbox.com/es-es/games/store/spiderheck/9n0trf57smqh",
+      "cover": "https://store-images.s-microsoft.com/image/apps.19160.13918689285493336.0819ed4c-c94e-42c7-bd95-af9916211f52.f0608ff7-aa51-48de-9261-b4668ef7a641?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "You Suck at Parking",
+      "date": "2024-09-15",
+      "url": "https://www.xbox.com/es-es/games/store/you-suck-at-parking-complete-edition/9ncf3mrq8480",
+      "cover": "https://store-images.s-microsoft.com/image/apps.46094.13565037407534311.2d70b855-0c14-4a55-b5be-f782acdaf07f.53ed98f4-6eb7-4e0d-ab6c-57972d4eb22f?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Ashes of the Singularity: Escalation",
+      "date": "2024-09-15",
+      "url": "https://www.xbox.com/es-ES/games/store/ashes-of-the-singularity-escalation/9PD4G4N5HT9H/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.37626.14161170943848382.2f684838-f6f6-46ef-b508-9c52ff9b96b8.f349490d-41d5-4980-a00b-6bfb673ff347?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "My Time At Portia",
+      "date": "2024-10-01",
+      "url": "https://www.xbox.com/es-es/games/store/my-time-at-portia/bx1fzx1x4132",
+      "cover": "https://store-images.s-microsoft.com/image/apps.48888.63380265586365831.1555bbb7-7743-4e40-af30-9522b68b2b3c.db5596a2-c912-46a5-ac57-72579e2f6b37?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "The Walking Dead: Season 1 (PC)",
+      "date": "2024-10-01",
+      "url": "https://www.xbox.com/es-es/games/store/the-walking-dead-season-1/9nblggh4vxrw",
+      "cover": "https://store-images.s-microsoft.com/image/apps.17295.13510798887515946.2617407e-c07a-473a-90e9-826e4255a1d4.50da9250-f2d4-4e0a-9a8f-effb9e9878c2?q=90&w=177&h=265",
+      "platforms": [
+        "pc"
+      ]
+    },
+    {
+      "name": "The Walking Dead: Season 2 (PC)",
+      "date": "2024-10-01",
+      "url": "https://www.xbox.com/es-es/games/store/the-walking-dead-season-2/9nblggh4vxs7",
+      "cover": "https://store-images.s-microsoft.com/image/apps.3070.13510798887515952.c8e8147d-1620-4d97-a877-a27f62a6096b.39cd07f8-5cb6-4e66-b53d-13e612d2ebe0?q=90&w=177&h=265",
+      "platforms": [
+        "pc"
+      ]
+    },
+    {
+      "name": "Valheim",
+      "date": "2024-10-01",
+      "url": "https://www.xbox.com/es-es/games/store/valheim-version-preliminar-del-juego/9ncbl78cg9n7",
+      "cover": "https://store-images.s-microsoft.com/image/apps.63084.13571084888216164.36662f68-6598-4726-a32e-049a0335e9dc.83a60a40-26ad-4f66-9f39-d1cb088ba052?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "La Patrulla Canina: Grand Prix",
+      "date": "2024-10-01",
+      "url": "https://www.xbox.com/es-es/games/store/la-patrulla-canina-grand-prix/9mwbt3hfcz3z",
+      "cover": "https://store-images.s-microsoft.com/image/apps.56160.13842132658396836.fba80705-9bc9-45ad-84f9-621f75fe99ec.d269763f-fe3d-45ba-bdc7-d8c48ba279be?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Phoenix Wright: Ace Attorney Trilogy",
+      "date": "2024-10-01",
+      "url": "https://www.xbox.com/es-es/games/store/phoenix-wright-ace-attorney-trilogy/c4r4rb3sb1nn",
+      "cover": "https://store-images.s-microsoft.com/image/apps.615.67362291782661543.eb0267ee-9235-487a-b697-5cc49c0703c1.327dcfde-8472-4f0e-b91e-9b4856238352?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": " Loop Hero",
+      "date": "2024-10-01",
+      "url": "https://www.xbox.com/es-es/games/store/loop-hero/9nwnqc8h80rv",
+      "cover": "https://store-images.s-microsoft.com/image/apps.59038.14445738564377947.babca878-ccaa-48f3-b55f-6477a548f887.0858f75d-a848-4bb1-97d3-96fa57fa3703?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Gotham Knights",
+      "date": "2024-10-01",
+      "url": "https://www.xbox.com/es-es/games/store/gotham-knights/bt3611gr00cq",
+      "cover": "https://store-images.s-microsoft.com/image/apps.27843.70676690581893559.a37ccc27-65ef-4e47-856a-9fcdd0c1017f.3166464c-271b-42c6-b052-0f1aa9432426?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Let's Build a Zoo",
+      "date": "2024-10-01",
+      "url": "https://www.xbox.com/es-es/games/store/lets-build-a-zoo/9p8n66dtg10t",
+      "cover": "https://store-images.s-microsoft.com/image/apps.20459.14084512162357210.0d6eea09-167f-4aad-97d7-d4d17f848799.62f31931-db5c-44b3-9fbd-396ee6065bb8?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    }
+  ]
 }

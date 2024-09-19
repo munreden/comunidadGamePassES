@@ -187,11 +187,9 @@ body {
 }
 
 .games-entry {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  align-items: center;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 1em;
 }
 
 .platforms i{
@@ -201,6 +199,8 @@ body {
 .game-entry {
   text-align: center;
   padding: 1em;
+  width: 100%;
+  max-width: 150px;
 }
 
 .game-name{
@@ -242,11 +242,16 @@ body {
     --height-calendar-days: 10vh;
   }
 
-  .social-media i{
-    padding: 1em 1em 
+  .games-entry {
+    grid-template-columns: repeat(6, 1fr); /* Se mantiene en 6 columnas para pantallas grandes */
+    gap: 0.5em;
   }
 
-  .calendar{
+  .social-media i {
+    padding: 1em 1em;
+  }
+
+  .calendar {
     height: 100vh;
     width: 100vw;
   }
@@ -258,20 +263,27 @@ body {
     font-size: var(--font-size-calendar-title);
   }
 
-  .modal-title{
+  .modal-title {
     font-size: 1.4em;
   }
 
-  .game-name{
+  .game-name {
     font-size: 1em;
   }
 
-  h3{
+  h3 {
     font-size: 1em;
   }
 }
 
-@media (max-width: 920px) {
+@media (max-width: 1200px) {
+  .games-entry {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0.3em;
+  }
+}
+
+@media (max-width: 990px) {
   :root {
     --font-size-calendar-title: 1.2em;
     --font-size-social-media: 1em;
@@ -287,11 +299,16 @@ body {
     --height-calendar-days: 12vh;
   }
 
-  .social-media i{
-    padding: 1em 1em 
+  .games-entry {
+    grid-template-columns: repeat(3, 1fr); /* Se ajusta a 4 columnas en pantallas medianas */
+    gap: 0.2em;
   }
 
-  .calendar{
+  .social-media i {
+    padding: 1em 1em;
+  }
+
+  .calendar {
     height: 100vh;
     width: 100vw;
   }
@@ -303,15 +320,15 @@ body {
     font-size: var(--font-size-calendar-title);
   }
 
-  .modal-title{
+  .modal-title {
     font-size: 1.4em;
   }
 
-  .game-name{
+  .game-name {
     font-size: 1em;
   }
 
-  h3{
+  h3 {
     font-size: 1em;
   }
 }
@@ -331,11 +348,16 @@ body {
     --height-calendar-days: 10vh;
   }
 
-  .social-media i{
-    padding: 1em 1em 
+  .games-entry {
+    grid-template-columns: repeat(2, 1fr); /* Para pantallas móviles, ajusta a 2 columnas */
+    gap: 0.1em;
   }
 
-  .calendar{
+  .social-media i {
+    padding: 1em 1em;
+  }
+
+  .calendar {
     height: 100vh;
     width: 100vw;
   }
@@ -347,21 +369,21 @@ body {
     font-size: var(--font-size-calendar-title);
   }
 
-  div#gameModal.modal.fade.show{
-    display: flex!important;
+  div#gameModal.modal.fade.show {
+    display: flex !important;
     flex-direction: column;
     align-items: center;
   }
 
-  .modal-title{
+  .modal-title {
     font-size: 1.4em;
   }
 
-  .game-name{
+  .game-name {
     font-size: 1em;
   }
 
-  h3{
+  h3 {
     font-size: 1em;
   }
 }

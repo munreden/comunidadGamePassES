@@ -1,0 +1,84 @@
+:root {
+  /* Font sizes */
+  --font-size-form-label: 1.2em;
+
+  /* Paddings */
+  --padding-container: 1em;
+  --padding-form-label: 10px 10px;
+
+  /* Margins */
+  --margin-container: 40px;
+
+  /* Colors */
+  --background-color-body: #e8e8e8;
+  --background-color-container: #1d1d1d;
+  --color-container: #ffff;
+  --color-bubble-badge: #750000;
+
+  /* Widths & Heights */
+  --bubble-badge-size: 0.7em;
+
+}
+
+/* Global Styles */
+* {
+  font-family: 'Generic Mobile System Nuevo', sans-serif;
+}
+
+body{
+  background-color: var(--background-color-body)!important;
+}
+
+.container{
+  padding: var(--padding-container);
+  margin: var(--margin-container);
+  background-color: var(--background-color-container);
+  border-radius: 20px;
+  color: var(--color-container);
+}
+
+.bubble-badge {
+  display: inline-block;
+  width: var(--bubble-badge-size);
+  height: var(--bubble-badge-size);
+  border-radius: 50%;
+  background-color: var(--color-bubble-badge);
+}
+
+.form-label{
+  font-size: var(--font-size-form-label);
+  padding: var(--padding-form-label);
+}
+
+.btn-danger{
+  background-color: var(--color-bubble-badge)!important;
+  margin-right: 1em; 
+}
+
+#jsonOutput{
+  color: black!important;
+}
+
+/* Responsive Styles */
+@media (max-width: 1600px) {
+  :root {
+    --margin-container: 30px;
+  }
+}
+
+@media (max-width: 920px) {
+  :root {
+    --margin-container: 20px;
+  }
+}
+
+@media (max-width: 480px) {
+  :root {
+    --margin-container: 10px;
+  }
+  .container{
+    width: 98%!important;
+    /* margin-right: 0!important;
+    margin-left: 0!important; */
+  }
+}
