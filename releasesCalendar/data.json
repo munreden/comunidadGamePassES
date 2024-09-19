@@ -269,5 +269,107 @@
         "cloud"
       ]
     }
+  ],
+  "freePlayDays": [
+    {
+      "name": "Ghostrunner 2",
+      "date": "2024-09-19",
+      "dateLeaving": "2024-09-23",
+      "url": "https://www.xbox.com/es-es/games/store/ghostrunner-2/9pkf79jq1kr6",
+      "cover": "https://store-images.s-microsoft.com/image/apps.60209.14263811972178035.62a632fe-7f49-4b1f-9c48-66e277154343.ef8a82d0-2e30-4b5d-ba29-021c70caf40a?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Control",
+      "date": "2024-09-19",
+      "dateLeaving": "2024-09-23",
+      "url": "https://www.xbox.com/es-ES/games/store/control/BZ6W9LRPC26W/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.48174.64090029807136264.88ddb0db-cfad-423c-bb52-c5b649930fb1.18259e82-3a13-4440-ae66-031e2e818198?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Eiyuden Chronicle: Hundred Heroes",
+      "date": "2024-09-19",
+      "dateLeaving": "2024-09-23",
+      "url": "https://www.xbox.com/es-es/games/store/eiyuden-chronicle-hundred-heroes/9n8z1zl33lm9",
+      "cover": "https://store-images.s-microsoft.com/image/apps.36865.13543256525081284.f15b7882-c55a-47fc-85b9-b14dab29de6d.c7080d3f-fad9-45bd-89c6-50faf1dda4e1?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Terraria",
+      "date": "2024-09-19",
+      "dateLeaving": "2024-09-23",
+      "url": "https://www.xbox.com/es-es/games/store/terraria/btnps60n3114",
+      "cover": "https://store-images.s-microsoft.com/image/apps.31019.70406876433810089.4beffaca-3fee-4154-a21f-ecd9b3bedbb3.cc90d42b-0620-473e-a51e-52f0e5ff8454?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Crime Boss: Rockay City",
+      "date": "2024-09-19",
+      "dateLeaving": "2024-09-23",
+      "url": "https://www.xbox.com/es-es/games/store/crime-boss-rockay-city/9p4kf63wk5p9",
+      "cover": "https://store-images.s-microsoft.com/image/apps.57810.14591636857132348.6b939bdc-1357-4e20-b5ba-a9b8ef7eb22e.ccf02e1d-5db4-4708-8df9-8baf5c73b39f?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Stray Blade",
+      "date": "2024-09-19",
+      "dateLeaving": "2024-09-23",
+      "url": "https://www.xbox.com/es-es/games/store/stray-blade/9p10239l64qv",
+      "cover": "https://store-images.s-microsoft.com/image/apps.55538.14521343743342633.62374e07-0479-4704-b28d-d0bf948089cc.52d7e678-d357-497d-97b3-2dd231de92b6?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Assetto Corsa Competizione",
+      "date": "2024-09-19",
+      "dateLeaving": "2024-09-23",
+      "url": "https://www.xbox.com/es-es/games/store/assetto-corsa-competizione/9p6qrrzqkpcm",
+      "cover": "https://store-images.s-microsoft.com/image/apps.44767.14614728364888398.674c4c2d-acfd-4c6f-a4fa-3b64f19a4a54.9e6e0922-dbd0-4f9f-8cea-0c4b4cb52ab9?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Bloodstained: Ritual of the Night",
+      "date": "2024-09-19",
+      "dateLeaving": "2024-09-23",
+      "url": "https://www.xbox.com/es-ES/games/store/bloodstained-ritual-of-the-night/9P9K78101LCW/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.45941.14137419244138722.f07799c6-0422-4b95-85fb-398644565f05.8a35e718-3ad9-4324-b7ad-b44d550be6c2?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Portal Knights",
+      "date": "2024-09-19",
+      "dateLeaving": "2024-09-23",
+      "url": "https://www.xbox.com/es-es/games/store/portal-knights/bnwm9f3c08b6",
+      "cover": "https://store-images.s-microsoft.com/image/apps.56819.67593303145070085.9e7f5b75-7e4b-46cd-88bb-4407d8b12b10.3fdaa1a6-98a1-45c3-ab43-ae186e7e6caa?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Miasma Chronicles",
+      "date": "2024-09-19",
+      "dateLeaving": "2024-09-23",
+      "url": "https://www.xbox.com/es-es/games/store/miasma-chronicles/9n1nstsfn5nm",
+      "cover": "https://store-images.s-microsoft.com/image/apps.44211.13902015313629704.8685c9db-40e8-4a4d-86dd-ff4b513b8c9a.a1f2490d-f9f3-4baa-8e41-ad2a54f50593?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    }
   ]
 }
