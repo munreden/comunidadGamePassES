@@ -58,10 +58,12 @@
     {
       "name": "Wargroove 2",
       "date": "2024-09-19",
-      "url": "https://store.steampowered.com/app/1346020/Wargroove_2/",
-      "cover": "https://pics.filmaffinity.com/Wargroove_2-215342206-mmed.jpg",
+      "url": "https://www.xbox.com/es-es/games/store/wargroove-2/9pbkcff2fvb4",
+      "cover": "https://store-images.s-microsoft.com/image/apps.50139.14122007479841687.7c6d6098-a1de-4d4a-9dfd-39d728fa4f28.1dcd2e95-9db8-4fcc-88fd-e464028a4326?q=90&w=177&h=265",
       "platforms": [
-        "pc"
+        "xbox",
+        "pc",
+        "cloud"
       ]
     },
     {
