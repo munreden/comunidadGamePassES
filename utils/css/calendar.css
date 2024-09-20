@@ -141,6 +141,7 @@ body {
 .xfpd{
   background-color: var(--color-active-day);
   border-radius: var(--border-radius-day-active);
+  padding: 0.3em;
 }
 
 .new-games-badge-footer {
@@ -375,6 +376,11 @@ body {
     padding: 0.5em 0.2em;
     font-size: var(--font-size-calendar-title);
   }
+
+  .xfpd{
+    font-size: 0.5em;
+  }
+  
 
   div#gameModal.modal.fade.show {
     display: flex !important;
