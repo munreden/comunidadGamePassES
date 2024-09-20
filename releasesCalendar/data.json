@@ -96,10 +96,54 @@
       ]
     },
     {
+      "name": "Microsoft Flight Simulator 2024",
+      "date": "2024-11-19",
+      "url": "https://www.xbox.com/es-es/games/store/microsoft-flight-simulator-2024-standard-edition/9p2vgctbmm52",
+      "cover": "https://store-images.s-microsoft.com/image/apps.59000.14550648823552491.458517e5-6b50-4124-b28b-b87004bdb3d1.961d2dcc-23a2-4997-a317-7237e2d47bbc?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "date": "2024-11-20",
+      "url": "https://www.xbox.com/es-es/games/store/stalker-2-heart-of-chornobyl-xbox-edition/9p7zbf3s7pss",
+      "cover": "https://store-images.s-microsoft.com/image/apps.60747.14102836618611203.7e33768f-3f4c-4982-9528-7233be70e203.03bf8581-1ddb-446c-9e3a-8eed3e6d579a?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
       "name": "Indiana Jones y el Gran Círculo",
       "date": "2024-12-09",
       "url": "https://www.xbox.com/es-es/games/store/indiana-jones-y-el-gran-circulo/9n8fq28z6qx3",
       "cover": "https://store-images.s-microsoft.com/image/apps.394.14050533476382116.9ce9be62-6690-4c40-8e76-7e5af2a256fb.23519966-541f-46af-94a3-68d956e7cf85?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "33 Immortals",
+      "date": "2025-01-25",
+      "url": "https://www.xbox.com/es-es/games/store/33-immortals/9p8lr42ptrgj",
+      "cover": "https://store-images.s-microsoft.com/image/apps.62382.14090162823233215.2d39e9bd-f341-4d5f-9638-b1a6c75a4e3a.e3dc77b7-1e41-4d19-8a4d-67c246e4140c?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Avowed",
+      "date": "2025-02-18",
+      "url": "https://www.xbox.com/es-es/games/store/avowed/9nhrdqvfpq34",
+      "cover": "https://store-images.s-microsoft.com/image/apps.63195.13624715126573049.35e3abd5-bd41-4efb-bc2a-0bfbdd50b02a.d3291934-3236-4279-91eb-792123046d1d?q=90&w=177&h=265",
       "platforms": [
         "xbox",
         "pc",
