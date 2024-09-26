@@ -414,6 +414,36 @@
       "platforms": [
         "xbox"
       ]
+    },    
+    {
+      "name": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS",
+      "date": "2024-09-26",
+      "dateLeaving": "2024-09-29",
+      "url": "https://www.xbox.com/es-ES/games/store/naruto-x-boruto-ultimate-ninja-storm-connections/9NM8JFMGVCVB/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.29910.13692013487695061.e89fa61a-d72c-49de-87bf-84f32a1c6f8f.9aa74227-4506-4936-b7ca-dd5ba9ec46b4?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },    
+    {
+      "name": "Sudden Strike 4 - European Battlefields Edition",
+      "date": "2024-09-26",
+      "dateLeaving": "2024-09-29",
+      "url": "https://www.xbox.com/es-ES/games/store/sudden-strike-4-european-battlefields-edition/BSQLNP8TV73X/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.26755.69900013978706037.b3c65e53-5c69-46f0-b861-768aadc8f73a.538685c4-db9a-448d-8fc2-ba811f118d4f?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },    
+    {
+      "name": "Tropico 5 - Penultimate Edition",
+      "date": "2024-09-26",
+      "dateLeaving": "2024-09-29",
+      "url": "https://www.xbox.com/es-ES/games/store/tropico-5-penultimate-edition/BSMG6RBZH4LQ/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.23390.69821012804453629.875c8c5e-116c-427d-bc2d-50d63ff96366.88815aa9-24f5-45d1-8303-01a9be5ee18d?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
     }
   ]
 }
