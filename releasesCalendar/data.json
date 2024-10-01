@@ -1,10 +1,28 @@
 {
   "releaseGames": [
     {
-      "name": "Star Trucker",
-      "date": "2024-09-03",
-      "url": "https://www.xbox.com/es-ES/games/store/star-trucker/9mt19q3crmqz",
-      "cover": "https://store-images.s-microsoft.com/image/apps.44532.13821700683757810.93b2f721-fab5-4d3d-b441-a854a8efa421.7556908b-9456-422f-8836-10c24c5e5e2d?q=90&w=177&h=265",
+      "name": "MLB® The Show™ 24",
+      "date": "2024-10-02",
+      "url": "https://www.xbox.com/es-ES/games/store/mlb-the-show-24-xbox-series-xs/9NM9V6FQXPDX/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.39476.13691248272459999.23fbca09-c2a4-4550-91ae-aec0b12f6b7c.0b5623d6-3864-44bc-8e16-f9b5f5728c27?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Open Roads",
+      "date": "2024-10-02",
+      "url": "https://www.xbox.com/es-ES/games/store/open-roads/9NRRSLCGR62S/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.27918.14377662572858195.0cf67274-c7f3-43bc-8b24-87daf93a0fac.1a12356d-b336-42c8-ab57-69bdd6fb2354?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Sifu",
+      "date": "2024-10-02",
+      "url": "https://www.xbox.com/es-ES/games/store/sifu/9P7PF6ZP3958/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.14154.14108092972231485.130f8f79-218a-4318-83ee-72f0213be0dd.51a702bd-7750-456c-b538-dc31b25c4f1f?q=90&w=177&h=265",
       "platforms": [
         "xbox",
         "pc",
@@ -12,10 +30,10 @@
       ]
     },
     {
-      "name": "Age of Mythology: Retold",
-      "date": "2024-09-04",
-      "url": "https://www.xbox.com/es-es/games/store/age-of-mythology-retold-standard-edition/9npkgvxpfrsx",
-      "cover": "https://store-images.s-microsoft.com/image/apps.11603.13792255792507479.e5089564-b472-427d-a39f-9e97ae74bf23.022933e1-6a30-4a52-8c02-0b9400857d8e?q=90&w=177&h=265",
+      "name": "Mad Streets",
+      "date": "2024-10-07",
+      "url": "https://www.xbox.com/es-ES/games/store/mad-streets/9PFFBT24PBM0/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.33258.14201660839599389.a29a939b-9db1-48e8-b2b4-0075c6f39349.0fb66d59-027e-4b54-8476-ac5c7982c988?q=90&w=177&h=265",
       "platforms": [
         "xbox",
         "pc",
@@ -23,116 +41,10 @@
       ]
     },
     {
-      "name": "Expeditions: A MudRunner Game",
-      "date": "2024-09-05",
-      "url": "https://www.xbox.com/es-es/games/store/expeditions-a-mudrunner-game/9np9j3t0jwrl",
-      "cover": "https://store-images.s-microsoft.com/image/apps.43838.13722712109789879.88e97562-5a57-4b39-9426-9595fa771f98.49ef35c8-d6df-4a9b-941f-380ad5d035bd?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Riders Republic",
-      "date": "2024-09-11",
-      "url": "https://www.xbox.com/es-es/games/store/riders-republic/9P1RPXHWZ1C7",
-      "cover": "https://store-images.s-microsoft.com/image/apps.65212.14501696194323418.5696fcf1-5727-45da-a94c-1fdd9ad791ae.2779a381-3f89-4cbf-b4c3-d736c980e7de?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Train Sim World 5",
-      "date": "2024-09-17",
-      "url": "https://www.xbox.com/es-ES/games/store/train-sim-world-5-standard-edition/9P663VGP3638/0017",
-      "cover": "https://store-images.s-microsoft.com/image/apps.40169.13533673129408975.95f4b180-e431-4714-922e-b555f8c6879d.9433236d-417c-4930-9bb0-16ebc5cf6be1?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Wargroove 2",
-      "date": "2024-09-19",
-      "url": "https://www.xbox.com/es-es/games/store/wargroove-2/9pbkcff2fvb4",
-      "cover": "https://store-images.s-microsoft.com/image/apps.50139.14122007479841687.7c6d6098-a1de-4d4a-9dfd-39d728fa4f28.1dcd2e95-9db8-4fcc-88fd-e464028a4326?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Frostpunk 2",
-      "date": "2024-09-20",
-      "url": "https://www.xbox.com/es-ES/games/store/frostpunk-2/9n0kn24fwp6b",
-      "cover": "https://store-images.s-microsoft.com/image/apps.4430.13923668312910701.01edfea1-db44-49e5-8fd9-8f546040b4b7.9bb1a96f-07fb-4b50-9506-21ef028813fc?q=90&w=177&h=265",
-      "platforms": [
-        "pc"
-      ]
-    },
-    {
-      "name": "Ara: History Untold",
-      "date": "2024-09-24",
-      "url": "https://www.xbox.com/es-es/games/store/ara-history-untold/9pddrvkpf6kg",
-      "cover": "https://store-images.s-microsoft.com/image/apps.55443.14155779103420171.4ad205b4-35aa-4860-b985-7e3ad92d5cbd.417657f7-9a02-4ba9-9f5f-9eb1bbae81a3?q=90&w=177&h=265",
-      "platforms": [
-        "pc"
-      ]
-    },
-    {
-      "name": "We Love Katamari REROLL+ Royal Reverie",
-      "date": "2024-09-26",
-      "url": "https://www.xbox.com/es-ES/games/store/we-love-katamari-reroll-royal-reverie/9P648H4R49GB/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.39323.14631306133674629.687e7683-f6ad-44db-a9b9-f0ee9c5b3b07.ce10abe2-bb59-46c1-aa4d-307331ad0e65?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "All You Need is Help",
-      "date": "2024-09-26",
-      "url": "https://www.xbox.com/es-ES/games/store/all-you-need-is-help/9NS4Q51TVR51/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.7510.14370532235029556.abb159ad-d98d-4584-b197-1b2527908a82.a77dd416-33d0-48c2-9dbb-8a193d533f29?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "TRIALS of MANA",
-      "date": "2024-09-26",
-      "url": "https://www.xbox.com/es-ES/games/store/trials-of-mana/9NHMR19TS1M0/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.38795.13622716626834505.ab757391-28a2-430c-9eef-0acea7eb4158.d1bd3196-f7de-457e-92c6-bfd62e7e3b96?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Legend of Mana",
-      "date": "2024-09-26",
-      "url": "https://www.xbox.com/es-ES/games/store/legend-of-mana/9P2S2QVRB97N/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.48887.14556235508309133.ebb6dc1c-004f-4bb2-8ce7-f545c53b97d2.a687bfc3-c900-4f53-8b7f-d6db8207d4e3?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "PAYDAY 2: CRIMEWAVE EDITION",
-      "date": "2024-09-30",
-      "url": "https://www.xbox.com/es-ES/games/store/payday-2-crimewave-edition/9N3K69GS7FWR/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.13829.13935287813373018.a8e5c9ed-1c1c-4ead-b87f-e2df58390c4b.3cba2a36-4469-4e8c-82bd-a087ae95cacd?q=90&w=177&h=265",
+      "name": "Inscryption",
+      "date": "2024-10-10",
+      "url": "https://www.xbox.com/es-ES/games/store/inscryption/9P8NSTDMZ11P/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.62808.14084380653642072.5b7362f4-7943-463e-aa3b-fca7f77fd749.cf0f55f8-a3a6-4744-9ca0-83495e56c0ae?q=90&w=177&h=265",
       "platforms": [
         "xbox",
         "pc",
@@ -230,72 +142,6 @@
   ],
   "leavingGames": [
     {
-      "name": "FIFA 23",
-      "date": "2024-09-15",
-      "url": "https://www.xbox.com/es-es/games/store/ea-sports-fifa-23-standard-edition-para-xbox-series-x-s/9n4k3f9558rp",
-      "cover": "https://store-images.s-microsoft.com/image/apps.28530.13981706901537608.82cbb8a4-4b3e-4b23-a32a-ab7e825c9944.ddf36d5f-89ba-4ef8-bd11-dfe066fd1b8f?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Payday 3",
-      "date": "2024-09-15",
-      "url": "https://www.microsoft.com/es-es/p/payday-3/9npzvdch73sx",
-      "cover": "https://store-images.s-microsoft.com/image/apps.41648.13779457877292855.4803a4b4-94cc-4b12-bf91-ad49bcb0c65c.f14df05b-5717-4af8-a8ab-6201e4159608?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Slime Rancher 2",
-      "date": "2024-09-15",
-      "url": "https://www.xbox.com/es-es/games/store/slime-rancher-2/9phfj0n31nv1",
-      "cover": "https://store-images.s-microsoft.com/image/apps.52896.14232893733292770.c4910fc1-e043-4370-be7c-79114ae9c0cf.985937bf-3384-4e42-935a-8cbe2e57efcc?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "SpiderHeck",
-      "date": "2024-09-15",
-      "url": "https://www.xbox.com/es-es/games/store/spiderheck/9n0trf57smqh",
-      "cover": "https://store-images.s-microsoft.com/image/apps.19160.13918689285493336.0819ed4c-c94e-42c7-bd95-af9916211f52.f0608ff7-aa51-48de-9261-b4668ef7a641?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "You Suck at Parking",
-      "date": "2024-09-15",
-      "url": "https://www.xbox.com/es-es/games/store/you-suck-at-parking-complete-edition/9ncf3mrq8480",
-      "cover": "https://store-images.s-microsoft.com/image/apps.46094.13565037407534311.2d70b855-0c14-4a55-b5be-f782acdaf07f.53ed98f4-6eb7-4e0d-ab6c-57972d4eb22f?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Ashes of the Singularity: Escalation",
-      "date": "2024-09-15",
-      "url": "https://www.xbox.com/es-ES/games/store/ashes-of-the-singularity-escalation/9PD4G4N5HT9H/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.37626.14161170943848382.2f684838-f6f6-46ef-b508-9c52ff9b96b8.f349490d-41d5-4980-a00b-6bfb673ff347?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
       "name": "My Time At Portia",
       "date": "2024-10-01",
       "url": "https://www.xbox.com/es-es/games/store/my-time-at-portia/bx1fzx1x4132",
@@ -389,6 +235,59 @@
         "pc",
         "cloud"
       ]
+    },
+    {
+      "name": "Dyson Sphere Program (Game Preview)",
+      "date": "2024-10-15",
+      "url": "https://www.xbox.com/es-ES/games/store/dyson-sphere-program-game-preview/9MTX4JNKL3FS/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.13331.13804098040618061.c0d518e1-bda9-40c4-9606-e4164969da5c.ff7437f1-dd83-49eb-be32-370e10a9455c?q=90&w=177&h=265",
+      "platforms": [
+        "pc"
+      ]
+    },
+    {
+      "name": "EVERSPACE™ 2",
+      "date": "2024-10-15",
+      "url": "https://www.xbox.com/es-ES/games/store/everspace-2/9PFX7F33KVG8/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.811.14196602045405435.162a3492-f482-45e9-8022-a849e99a6850.c224c09d-43b3-43fb-acac-a163ad2e3144?q=90&w=177&h=265",
+      "platforms": [
+        "cloud",
+        "xbox",
+        "pc"
+      ]
+    },
+    {
+      "name": "From Space",
+      "date": "2024-10-15",
+      "url": "https://www.xbox.com/es-ES/games/store/from-space/9PLK75782446/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.16759.14311843146455225.858b9bb0-aedd-46ab-907b-4002100e6620.36f89050-9225-4e01-9aec-06d3b388bca4?q=90&w=177&h=265",
+      "platforms": [
+        "cloud",
+        "xbox",
+        "pc"
+      ]
+    },
+    {
+      "name": "F1® Manager 2023",
+      "date": "2024-10-15",
+      "url": "https://www.xbox.com/es-ES/games/store/f1-manager-2023/9P80FVDCXJKB/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.35871.14097399029008383.aba7dcca-0477-400a-adf1-c028557c44db.3cc58f5c-a3e0-40ed-b13a-b9112954124a?q=90&w=177&h=265",
+      "platforms": [
+        "cloud",
+        "xbox",
+        "pc"
+      ]
+    },
+    {
+      "name": "Scorn",
+      "date": "2024-10-15",
+      "url": "https://www.xbox.com/es-ES/games/store/scorn/9NM3TNRPQXLR/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.22978.13699799412731780.9f7b812e-456c-430e-8cec-380f1ca9e4a2.2f448ff0-73c4-4053-b93d-54c8144069c7?q=90&w=177&h=265",
+      "platforms": [
+        "cloud",
+        "xbox",
+        "pc"
+      ]
     }
   ],
   "freePlayDays": [
@@ -408,116 +307,6 @@
       "dateLeaving": "2024-09-23",
       "url": "https://www.xbox.com/es-ES/games/store/control/BZ6W9LRPC26W/0001",
       "cover": "https://store-images.s-microsoft.com/image/apps.48174.64090029807136264.88ddb0db-cfad-423c-bb52-c5b649930fb1.18259e82-3a13-4440-ae66-031e2e818198?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "Eiyuden Chronicle: Hundred Heroes",
-      "date": "2024-09-19",
-      "dateLeaving": "2024-09-23",
-      "url": "https://www.xbox.com/es-es/games/store/eiyuden-chronicle-hundred-heroes/9n8z1zl33lm9",
-      "cover": "https://store-images.s-microsoft.com/image/apps.36865.13543256525081284.f15b7882-c55a-47fc-85b9-b14dab29de6d.c7080d3f-fad9-45bd-89c6-50faf1dda4e1?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "Terraria",
-      "date": "2024-09-19",
-      "dateLeaving": "2024-09-23",
-      "url": "https://www.xbox.com/es-es/games/store/terraria/btnps60n3114",
-      "cover": "https://store-images.s-microsoft.com/image/apps.31019.70406876433810089.4beffaca-3fee-4154-a21f-ecd9b3bedbb3.cc90d42b-0620-473e-a51e-52f0e5ff8454?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "Crime Boss: Rockay City",
-      "date": "2024-09-19",
-      "dateLeaving": "2024-09-23",
-      "url": "https://www.xbox.com/es-es/games/store/crime-boss-rockay-city/9p4kf63wk5p9",
-      "cover": "https://store-images.s-microsoft.com/image/apps.57810.14591636857132348.6b939bdc-1357-4e20-b5ba-a9b8ef7eb22e.ccf02e1d-5db4-4708-8df9-8baf5c73b39f?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "Stray Blade",
-      "date": "2024-09-19",
-      "dateLeaving": "2024-09-23",
-      "url": "https://www.xbox.com/es-es/games/store/stray-blade/9p10239l64qv",
-      "cover": "https://store-images.s-microsoft.com/image/apps.55538.14521343743342633.62374e07-0479-4704-b28d-d0bf948089cc.52d7e678-d357-497d-97b3-2dd231de92b6?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "Assetto Corsa Competizione",
-      "date": "2024-09-19",
-      "dateLeaving": "2024-09-23",
-      "url": "https://www.xbox.com/es-es/games/store/assetto-corsa-competizione/9p6qrrzqkpcm",
-      "cover": "https://store-images.s-microsoft.com/image/apps.44767.14614728364888398.674c4c2d-acfd-4c6f-a4fa-3b64f19a4a54.9e6e0922-dbd0-4f9f-8cea-0c4b4cb52ab9?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "Bloodstained: Ritual of the Night",
-      "date": "2024-09-19",
-      "dateLeaving": "2024-09-23",
-      "url": "https://www.xbox.com/es-ES/games/store/bloodstained-ritual-of-the-night/9P9K78101LCW/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.45941.14137419244138722.f07799c6-0422-4b95-85fb-398644565f05.8a35e718-3ad9-4324-b7ad-b44d550be6c2?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "Portal Knights",
-      "date": "2024-09-19",
-      "dateLeaving": "2024-09-23",
-      "url": "https://www.xbox.com/es-es/games/store/portal-knights/bnwm9f3c08b6",
-      "cover": "https://store-images.s-microsoft.com/image/apps.56819.67593303145070085.9e7f5b75-7e4b-46cd-88bb-4407d8b12b10.3fdaa1a6-98a1-45c3-ab43-ae186e7e6caa?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "Miasma Chronicles",
-      "date": "2024-09-19",
-      "dateLeaving": "2024-09-23",
-      "url": "https://www.xbox.com/es-es/games/store/miasma-chronicles/9n1nstsfn5nm",
-      "cover": "https://store-images.s-microsoft.com/image/apps.44211.13902015313629704.8685c9db-40e8-4a4d-86dd-ff4b513b8c9a.a1f2490d-f9f3-4baa-8e41-ad2a54f50593?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },    
-    {
-      "name": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS",
-      "date": "2024-09-26",
-      "dateLeaving": "2024-09-29",
-      "url": "https://www.xbox.com/es-ES/games/store/naruto-x-boruto-ultimate-ninja-storm-connections/9NM8JFMGVCVB/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.29910.13692013487695061.e89fa61a-d72c-49de-87bf-84f32a1c6f8f.9aa74227-4506-4936-b7ca-dd5ba9ec46b4?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },    
-    {
-      "name": "Sudden Strike 4 - European Battlefields Edition",
-      "date": "2024-09-26",
-      "dateLeaving": "2024-09-29",
-      "url": "https://www.xbox.com/es-ES/games/store/sudden-strike-4-european-battlefields-edition/BSQLNP8TV73X/0001",
-      "cover": "https://store-images.s-microsoft.com/image/apps.26755.69900013978706037.b3c65e53-5c69-46f0-b861-768aadc8f73a.538685c4-db9a-448d-8fc2-ba811f118d4f?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },    
-    {
-      "name": "Tropico 5 - Penultimate Edition",
-      "date": "2024-09-26",
-      "dateLeaving": "2024-09-29",
-      "url": "https://www.xbox.com/es-ES/games/store/tropico-5-penultimate-edition/BSMG6RBZH4LQ/0001",
-      "cover": "https://store-images.s-microsoft.com/image/apps.23390.69821012804453629.875c8c5e-116c-427d-bc2d-50d63ff96366.88815aa9-24f5-45d1-8303-01a9be5ee18d?q=90&w=177&h=265",
       "platforms": [
         "xbox"
       ]
