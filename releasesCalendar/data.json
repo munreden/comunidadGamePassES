@@ -63,6 +63,24 @@
       ]
     },
     {
+      "name": "Starcraft: Remastered",
+      "date": "2024-11-05",
+      "url": "https://eu.shop.battle.net/es-es/product/starcraft-remastered",
+      "cover": "https://cdn2.steamgriddb.com/thumb/4855e26d826415333fb974a0414f395c.jpg",
+      "platforms": [
+        "pc"
+      ]
+    },
+    {
+      "name": "Starcraft II",
+      "date": "2024-11-05",
+      "url": "https://eu.shop.battle.net/es-es/product/starcraft-ii",
+      "cover": "https://cdn2.steamgriddb.com/thumb/9876b43ac1d19e78b15dade574ebfd9a.jpg",
+      "platforms": [
+        "pc"
+      ]
+    },
+    {
       "name": "Goat Simulator: Remastered",
       "date": "2024-11-07",
       "url": "https://www.xbox.com/es-es/games/store/goat-simulator-remastered/9p71qfsc7q34",
@@ -318,6 +336,46 @@
       "dateLeaving": "2024-10-06",
       "url": "https://www.xbox.com/es-ES/games/store/the-land-beneath-us/9NQG4WXLV6WL/0010",
       "cover": "https://store-images.s-microsoft.com/image/apps.13152.13774415610984323.37e2f40e-27bb-4b5e-9c8c-f43b6327e3d5.068b5dde-320e-43ca-84d0-d50c5c9a5975?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Connan Exiles",
+      "date": "2024-10-10",
+      "dateLeaving": "2024-10-13",
+      "url": "https://www.xbox.com/es-ES/games/store/conan-exiles/BS46X64QCJ5J/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.32579.69492393318249993.015f2ca9-1b78-488c-912c-234362475179.d5b19220-828c-4086-ae31-c3185175e7c9?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Destiny 2 + DLCs (Lightfall y The Witch King)",
+      "date": "2024-10-10",
+      "dateLeaving": "2024-10-13",
+      "url": "https://www.xbox.com/es-ES/games/store/destiny-2/BPQ955FQFPH6/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.30303.68655995542193491.618ba70a-85c2-47a4-944e-7a9b39528ca8.c3eb629f-7dac-460f-adc2-ba0f395b6c66?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Mafia 3: Definitive Edition",
+      "date": "2024-10-10",
+      "dateLeaving": "2024-10-13",
+      "url": "https://www.xbox.com/es-ES/games/store/mafia-iii-edicion-definitiva/BVZLS7XZ68KF/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.19050.71189044859921004.2f5f4865-c27c-4313-976b-c3322734813b.84db885c-96d6-45a8-9de0-32ac9824a54d?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Moving Out 2",
+      "date": "2024-10-10",
+      "dateLeaving": "2024-10-13",
+      "url": "https://www.xbox.com/es-ES/games/store/moving-out-2/9P88K6NQW12H/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.52583.14092419520193072.64e53d99-3172-4ca7-856b-dd313b69b944.e83589b5-de0e-470f-80a6-21ea4709fe39?q=90&w=177&h=265",
       "platforms": [
         "xbox"
       ]
