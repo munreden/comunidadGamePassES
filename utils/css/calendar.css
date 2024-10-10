@@ -27,7 +27,7 @@
 
   /* Sizes */
   --width-calendar-days: 14.28%;
-  --height-calendar-days: 12vh;
+  --height-calendar-days: 150px;
   --width-new-games-badge: 40px;
   --cover-width: 8em;
   --font-size-footer: 1em;
