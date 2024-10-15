@@ -52,8 +52,30 @@
       ]
     },
     {
-      "name": "MechWarrior 5: Clans",
+      "name": "South Park : Los Venganales de la Justicia",
       "date": "2024-10-16",
+      "url": "https://www.xbox.com/es-ES/games/store/south-park-los-venganales-de-la-justicia/C4VLMWJWM7BG/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.36209.67439233347281353.312c5ca8-59b5-4ba8-88de-4df24412a885.0fa53054-edfe-4220-b64a-274afb4fd958?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Donut County",
+      "date": "2024-10-17",
+      "url": "https://www.xbox.com/es-ES/games/store/donut-county/9N6V2181GHLM/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.9487.14011542784181932.80ac6320-df7b-4be6-9355-e9083a5d2063.bb7adc22-496e-4006-a148-669d0ac3898f?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "MechWarrior 5: Clans",
+      "date": "2024-10-17",
       "url": "https://www.xbox.com/es-ES/games/store/mechwarrior-5-clans/9P9FJCK32PMT/0010",
       "cover": "https://store-images.s-microsoft.com/image/apps.13099.14143931878007168.4330aaf2-cbcb-486f-ab36-dfe4d055c2a3.04a00efb-b79d-48d9-b275-d64ecc78aa40?q=90&w=177&h=265",
       "platforms": [
@@ -74,6 +96,44 @@
       ]
     },
     {
+      "name": "Call of Duty®: Modern Warfare® 3",
+      "date": "2024-10-25",
+      "url": "https://www.xbox.com/es-ES/games/store/call-of-duty-modern-warfare-3/BXZLCHZT8NDF/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.55416.63952439433679058.d41126ca-a436-4a0b-965e-7d3efa7bbdbe.0230f4e6-ecf0-4e48-881a-b29b8cbf1f10?q=90&w=177&h=265",
+      "platforms": [
+        "cloud"
+      ]
+    },
+    {
+      "name": "Call of Duty®: Warzone",
+      "date": "2024-10-25",
+      "url": "https://www.xbox.com/es-ES/games/store/call-of-duty-warzone/9NNFG8BQRCXL/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.47244.13739535057760905.7c8fd6b8-823a-494c-be29-9826314658d6.0f1bf40f-8a82-4a84-a90d-8eab08b36a2f?q=90&w=177&h=265",
+      "platforms": [
+        "cloud"
+      ]
+    },
+    {
+      "name": "Ashen",
+      "date": "2024-10-29",
+      "url": "https://www.xbox.com/es-ES/games/store/ashen/BNXLPPCVS0HN/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.39596.67644652336133489.b3703282-21c5-4da4-9f47-ba53b33b37b5.569189bd-72c6-4e18-bae2-96f3542515b3?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Dead Island 2",
+      "date": "2024-10-31",
+      "url": "https://www.xbox.com/es-ES/games/store/dead-island-2/C3L4J3H7H12R/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.26610.66080721822734920.910bec42-dd7c-4bcf-9acb-d97e1b5501f0.5a916954-24f8-4f6e-95e7-74cff29199d9?q=90&w=177&h=265",
+      "platforms": [
+        "pc"
+      ]
+    },
+    {
       "name": "Starcraft: Remastered",
       "date": "2024-11-05",
       "url": "https://eu.shop.battle.net/es-es/product/starcraft-remastered",
@@ -83,7 +143,7 @@
       ]
     },
     {
-      "name": "Starcraft II",
+      "name": "Starcraft II: Campaign Collection",
       "date": "2024-11-05",
       "url": "https://eu.shop.battle.net/es-es/product/starcraft-ii",
       "cover": "https://cdn2.steamgriddb.com/thumb/9876b43ac1d19e78b15dade574ebfd9a.jpg",
@@ -312,6 +372,61 @@
       "date": "2024-10-16",
       "url": "https://www.xbox.com/es-ES/games/store/scorn/9NM3TNRPQXLR/0010",
       "cover": "https://store-images.s-microsoft.com/image/apps.22978.13699799412731780.9f7b812e-456c-430e-8cec-380f1ca9e4a2.2f448ff0-73c4-4053-b93d-54c8144069c7?q=90&w=177&h=265",
+      "platforms": [
+        "cloud",
+        "xbox",
+        "pc"
+      ]
+    },
+    {
+      "name": "Frog Detective: The Entire Mystery",
+      "date": "2024-10-31",
+      "url": "https://www.xbox.com/es-ES/games/store/frog-detective-the-entire-mystery/9N0M3GVB0KNN/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.1430.13922992293403127.6f30e52d-8a3d-4bd4-832f-747b967ec44e.715746bc-db0c-4ba6-8653-99bba5d3f90a?q=90&w=177&h=265",
+      "platforms": [
+        "cloud",
+        "xbox",
+        "pc"
+      ]
+    },
+    {
+      "name": "Headbangers: Rhythm Royale",
+      "date": "2024-10-31",
+      "url": "https://www.xbox.com/es-ES/games/store/headbangers-rhythm-royale/9NGRWJ03GR1N/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.2590.13639985217330729.c06ddd38-2ab7-494c-a273-67cbd0be856f.c6a9da95-5f01-4fe0-a41c-0d097cb04444?q=90&w=177&h=265",
+      "platforms": [
+        "cloud",
+        "xbox",
+        "pc"
+      ]
+    },
+    {
+      "name": "Inkulinati",
+      "date": "2024-10-31",
+      "url": "https://www.xbox.com/es-ES/games/store/inkulinati/9P5D8B393ZZ4/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.4125.14571252009478417.ff58eed9-6d91-43ac-8716-737ba1947830.cdda7811-c2f9-46a6-964d-2260c270b895?q=90&w=177&h=265",
+      "platforms": [
+        "cloud",
+        "xbox",
+        "pc"
+      ]
+    },
+    {
+      "name": "Lonely Mountains: Downhill",
+      "date": "2024-10-31",
+      "url": "https://www.xbox.com/es-ES/games/store/lonely-mountains-downhill/9MV6MCVLT8GR/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.4555.13794437146560212.1c2132e1-8e75-4ecb-8f54-2474cd20e67a.b855d795-fc09-4fac-a974-0aa07086d762?q=90&w=177&h=265",
+      "platforms": [
+        "cloud",
+        "xbox",
+        "pc"
+      ]
+    },
+    {
+      "name": "Mineko's Night Market",
+      "date": "2024-10-31",
+      "url": "https://www.xbox.com/es-ES/games/store/minekos-night-market/9NBPNW2JQNCD/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.33944.13513466192535313.7e8b9323-4eea-4260-af50-a8f2d5927c57.299464b8-e6f8-4d99-b2be-fb5b279cd39f?q=90&w=177&h=265",
       "platforms": [
         "cloud",
         "xbox",
