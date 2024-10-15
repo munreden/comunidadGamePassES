@@ -37,6 +37,8 @@
   --color-calendar-background: #1d1d1d;
   --color-active-day: #107c10;
   --color-new-games-badge: #750000;
+  --color-leaving-games-badge: #f21d1d;
+  --color-releasing-games-badge: #1dd4f0;
 }
 
 /* Global Styles */
@@ -136,6 +138,16 @@ body {
 .new-games-title {
   font-size: var(--font-size-new-games-title);
   text-align: center;
+}
+
+.bi-patch-plus::before{
+  margin: 0.2em 0.5em;
+  color: var(--color-releasing-games-badge)!important;
+}
+
+.bi-patch-minus::before{
+  margin: 0.2em 0.5em;
+  color: var(--color-leaving-games-badge)!important;
 }
 
 .xfpd{

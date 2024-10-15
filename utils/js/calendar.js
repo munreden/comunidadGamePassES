@@ -130,9 +130,8 @@ document.addEventListener("DOMContentLoaded", async function() {
         <span class="new-games-badge"></span>
         <div>
           <span class="new-games-title">
-            ${gamesForThisDay.length > 0 ? `${gamesForThisDay.length} ${gamesForThisDay.length > 1 ? ' entran' : ' entra'}` : ''}
-            ${gamesForThisDay.length > 0 && gamesLeavingThisDay.length > 0 ? ', ' : ''}
-            ${gamesLeavingThisDay.length > 0 ? `${gamesLeavingThisDay.length} ${gamesLeavingThisDay.length > 1 ? ' salen' : ' sale'}` : ''}
+            ${gamesForThisDay.length > 0 ? `<div>${gamesForThisDay.length} <i class="bi bi-patch-plus"></i></div>` : ''}
+            ${gamesLeavingThisDay.length > 0 ? `<div>${gamesLeavingThisDay.length} <i class="bi bi-patch-minus"></i></div>` : ''}
             ${freePlayDaysForThisDay.length > 0 ? (gamesForThisDay.length > 0 || gamesLeavingThisDay.length > 0 ? ' ' : '') + '<div><span class="xfpd"><i class="bi bi-xbox"></i> FREE PLAY DAYS</span></div>' : ''}
           </span>
         </div>`;
@@ -165,10 +164,10 @@ document.addEventListener("DOMContentLoaded", async function() {
     
             let modalContent = '<div class="games-container">';
             if (gamesForThisDay.length > 0) {
-              modalContent += `<h3>ENTRAN</h3>${generateGamesEntry(gamesForThisDay)}`;
+              modalContent += `<h3>ENTRAN <i class="bi bi-patch-plus"></i></h3>${generateGamesEntry(gamesForThisDay)}`;
             }
             if (gamesLeavingThisDay.length > 0) {
-              modalContent += `<h3>SALEN</h3>${generateGamesEntry(gamesLeavingThisDay)}`;
+              modalContent += `<h3>SALEN <i class="bi bi-patch-minus"></i></h3>${generateGamesEntry(gamesLeavingThisDay)}`;
             }
             if (freePlayDaysForThisDay.length > 0) {
               const freePlayDateLeaving = freePlayDaysForThisDay[0].dateLeaving;
