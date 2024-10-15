@@ -130,8 +130,8 @@ document.addEventListener("DOMContentLoaded", async function() {
         <span class="new-games-badge"></span>
         <div>
           <span class="new-games-title">
-            ${gamesForThisDay.length > 0 ? `<div>${gamesForThisDay.length} <i class="bi bi-patch-plus"></i></div>` : ''}
-            ${gamesLeavingThisDay.length > 0 ? `<div>${gamesLeavingThisDay.length} <i class="bi bi-patch-minus"></i></div>` : ''}
+            ${gamesForThisDay.length > 0 ? `<div><i class="bi bi-patch-plus"></i>${gamesForThisDay.length}</div>` : ''}
+            ${gamesLeavingThisDay.length > 0 ? `<div><i class="bi bi-patch-minus"></i>${gamesLeavingThisDay.length}</div>` : ''}
             ${freePlayDaysForThisDay.length > 0 ? (gamesForThisDay.length > 0 || gamesLeavingThisDay.length > 0 ? ' ' : '') + '<div><span class="xfpd"><i class="bi bi-xbox"></i> FREE PLAY DAYS</span></div>' : ''}
           </span>
         </div>`;
