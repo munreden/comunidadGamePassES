@@ -494,6 +494,36 @@
       "platforms": [
         "xbox"
       ]
+    },
+    {
+      "name": "NBA 2K25",
+      "date": "2024-10-17",
+      "dateLeaving": "2024-10-20",
+      "url": "https://www.xbox.com/es-ES/games/store/nba-2k25-edicion-estandar/9PL2XQ4GF10R/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.17984.14250775457519092.f33de21f-07ee-4aaf-a0c4-413615c9c9f0.e0fa7993-a5bd-4036-a403-6db666315d8b?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Dying Light",
+      "date": "2024-10-17",
+      "dateLeaving": "2024-10-20",
+      "url": "https://www.xbox.com/es-ES/games/store/dying-light/BXN9LB6R3ZPG/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.9965.63224705253913975.ec4ce281-2139-4076-9dc9-733fe2b0602b.874ffd2d-23b2-4ad5-8627-6281fe7e8b60?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "EXOCross",
+      "date": "2024-10-17",
+      "dateLeaving": "2024-10-20",
+      "url": "https://www.xbox.com/es-ar/games/store/exocross/9n2d1l3qp3w8",
+      "cover": "https://store-images.s-microsoft.com/image/apps.21364.13958388596425457.24262ee7-df53-4a20-aaba-5236b72906f9.8d88af94-ccc6-43be-a930-ed9d08ccd6dd?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
     }
   ]
 }
