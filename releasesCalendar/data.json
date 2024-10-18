@@ -432,6 +432,28 @@
         "xbox",
         "pc"
       ]
+    },
+    {
+      "name": "Like a Dragon: Ishin!",
+      "date": "2024-10-31",
+      "url": "https://www.xbox.com/es-ES/games/store/like-a-dragon-ishin/9N4BH9FLLMWD/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.14121.13986316021730261.2a69ea94-8704-4fd3-951c-3403df80be07.e261d67a-1634-4f7d-9e55-dc8fd5c778fe?q=90&w=177&h=265",
+      "platforms": [
+        "cloud",
+        "xbox",
+        "pc"
+      ]
+    },
+    {
+      "name": "DIRT 5",
+      "date": "2024-10-31",
+      "url": "https://www.xbox.com/es-ES/games/store/dirt-5/9PJGM0T0827V/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.58389.14216887906907763.b5352caa-b411-460d-acb5-a427d0106d4b.66224440-0755-45e4-a4dd-f1d53b73db9e?q=90&w=177&h=265",
+      "platforms": [
+        "cloud",
+        "xbox",
+        "pc"
+      ]
     }
   ],
   "freePlayDays": [
