@@ -535,6 +535,36 @@
       "platforms": [
         "xbox"
       ]
+    },
+    {
+      "name": "Fallout 76",
+      "date": "2024-10-24",
+      "dateLeaving": "2024-10-27",
+      "url": "https://www.xbox.com/es-ES/games/store/fallout-76/BS6WJ2L56B10/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.18850.70143269474194625.52e596a2-7b8c-4a7f-a583-56da2a9d311d.e697816e-873b-4994-8fea-9e8829ceca7c?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "MLB The Show 24",
+      "date": "2024-10-24",
+      "dateLeaving": "2024-10-27",
+      "url": "https://www.xbox.com/es-ES/games/store/mlb-the-show-24-xbox-series-xs/9NM9V6FQXPDX/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.39476.13691248272459999.23fbca09-c2a4-4550-91ae-aec0b12f6b7c.0b5623d6-3864-44bc-8e16-f9b5f5728c27?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Under The Waves",
+      "date": "2024-10-24",
+      "dateLeaving": "2024-10-27",
+      "url": "https://www.xbox.com/es-ES/games/store/under-the-waves/9NQ6CHXKNJ3K/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.44934.13775499997385404.d9c152c9-a962-4ec5-a60f-17859248d4d9.7624cd9e-12fb-4a8f-a3ac-0cd0d7a40756?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
     }
   ]
 }
