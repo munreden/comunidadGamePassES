@@ -587,6 +587,56 @@
       "platforms": [
         "xbox"
       ]
+    },
+    {
+      "name": "Killer Klowns From Outer Space: The Game",
+      "date": "2024-10-31",
+      "dateLeaving": "2024-11-03",
+      "url": "https://www.xbox.com/es-ES/games/store/killer-klowns-from-outer-space-the-game/9NVHCV80ZZMH/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.34934.14398907729629362.cdb4e5b7-2ca0-4338-9e6f-1baf9c50098d.8bbde38e-a941-434f-b667-5034497917be?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Ghostbusters: Spirits Unleashed",
+      "date": "2024-10-31",
+      "dateLeaving": "2024-11-03",
+      "url": "https://www.xbox.com/es-ES/games/store/ghostbusters-spirits-unleashed-ecto-edition/9PHJC0H6HPKD/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.44222.14235158100190081.70436847-76e4-41ea-9a98-05287478584d.2de88df5-d59a-414e-a31f-af4ee7184a07?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Predator: Hunting Grounds",
+      "date": "2024-10-31",
+      "dateLeaving": "2024-11-03",
+      "url": "https://www.xbox.com/es-ES/games/store/predator-hunting-grounds/9P38KTB806QP/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.13897.14547063878120358.ebe0207b-de9c-431d-8479-5dc272ef14a7.5795df25-4031-43de-ad47-9ba02e7b9b7d?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "The Texas Chain Sawn Massacre",
+      "date": "2024-10-31",
+      "dateLeaving": "2024-11-03",
+      "url": "https://www.xbox.com/es-ES/games/store/the-texas-chain-saw-massacre/9P9F54WDBGH6/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.18018.14139849169625079.3357825d-6836-4d16-ae17-02838530710a.53839042-d06b-4f0a-bb83-d269b78e1b5c?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Tom Clancy’s The Division 2",
+      "date": "2024-10-31",
+      "dateLeaving": "2024-11-03",
+      "url": "https://www.xbox.com/es-ES/games/store/tom-clancys-the-division-2/9NC944T50735/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.33103.13572322600772428.1aa7f1f5-8867-4cf5-aa22-55ecea3327ee.ae16adf3-94b0-4740-91ef-f768a04aba08?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
     }
   ]
 }
