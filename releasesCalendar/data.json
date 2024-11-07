@@ -214,6 +214,46 @@
       "platforms": [
         "xbox"
       ]
+    },
+    {
+      "name": "Across the Obelisk",
+      "date": "2024-10-07",
+      "dateLeaving": "2024-11-10",
+      "url": "https://www.xbox.com/es-ES/games/store/across-the-obelisk/9P6S46PLH464/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.17776.14618517252274615.b84f3576-e83d-4676-b181-8d6014247665.46ce114d-0231-429a-8f43-ef870e6d2df5?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "ASTRONEER",
+      "date": "2024-10-07",
+      "dateLeaving": "2024-11-10",
+      "url": "https://www.xbox.com/es-ES/games/store/astroneer/9NBLGGH43KZB/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.17703.13510798887933723.57e43f19-4066-429e-b1a2-caea56e427b4.f555e1de-d116-4ab1-bed1-408a78622ba6?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Eiyuden Chronicle: Rising",
+      "date": "2024-10-07",
+      "dateLeaving": "2024-11-10",
+      "url": "https://www.xbox.com/es-ES/games/store/eiyuden-chronicle-rising/9NMD6VV08WGF/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.41107.13694306682751994.8d7eeebc-63ae-4c9b-b398-1a978a669328.9a95f195-9de3-4257-86a0-0cdcba7b44a4?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Train Sim World 5: Standard Edition",
+      "date": "2024-10-07",
+      "dateLeaving": "2024-11-10",
+      "url": "https://www.xbox.com/es-ES/games/store/train-sim-world-5-standard-edition/9N9FR8CSZP56/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.40169.13533673129408975.95f4b180-e431-4714-922e-b555f8c6879d.9433236d-417c-4930-9bb0-16ebc5cf6be1?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
     }
   ]
 }
