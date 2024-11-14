@@ -127,6 +127,17 @@
         "pc",
         "cloud"
       ]
+    },
+    {
+      "name": "Atomfall",
+      "date": "2025-03-27",
+      "url": "https://www.xbox.com/es-ES/games/store/atomfall/9P483QMD1STK/0017",
+      "cover": "https://store-images.s-microsoft.com/image/apps.62123.14593384817893456.373529bb-0ba2-4134-b85a-73c178c46e05.887adfcb-7cb9-4590-96aa-4085b8ec18f8?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
     }
   ],
   "leavingGames": [
