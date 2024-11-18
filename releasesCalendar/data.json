@@ -276,6 +276,56 @@
       "platforms": [
         "xbox"
       ]
+    },
+    {
+      "name": "EA SPORTS™ College Football 25",
+      "date": "2024-11-14",
+      "dateLeaving": "2024-11-17",
+      "url": "https://www.xbox.com/es-ES/games/store/ea-sports-college-football-25/9NSDM7MBGG8L/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.61448.14365278454952493.fad8a383-13cf-494d-bf22-a894e53fa5ac.784e369f-7756-4083-b115-8cbf1429d7f3?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Jujutsu Kaisen Cursed Clash",
+      "date": "2024-11-14",
+      "dateLeaving": "2024-11-17",
+      "url": "https://www.xbox.com/es-ES/games/store/jujutsu-kaisen-cursed-clash/9N1T03Q2J6NH/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.36584.13965211066101112.5461a737-b473-4ef5-94c7-1976f473c1c1.b0516656-69bd-4b69-85e5-5b68118b6be9?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Dustborn",
+      "date": "2024-11-14",
+      "dateLeaving": "2024-11-17",
+      "url": "https://www.xbox.com/es-ES/games/store/dustborn/9NGSXXHDBZ3D/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.4567.13639023375250317.0728523b-5c3b-4e72-8cd9-ef29608ffbfb.a5cbc458-5f7f-4212-8863-683b3dc0bcf3?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Serial Cleaners",
+      "date": "2024-11-14",
+      "dateLeaving": "2024-11-17",
+      "url": "https://www.xbox.com/es-ES/games/store/serial-cleaners/9NDSW6RBWQM8/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.262.13608265426496101.3fd302c2-e010-411e-99c7-7964f23ccb6d.0b65df16-c73c-4f09-be1a-2a0a180f6aeb?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Like a Dragon: Infinite Wealth",
+      "date": "2024-11-14",
+      "dateLeaving": "2024-11-17",
+      "url": "https://www.xbox.com/es-ES/games/store/like-a-dragon-infinite-wealth/9P00SVGWDJCP/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.52365.14465728597087432.6e0f939a-1434-4a25-b368-df8616b251aa.e89504d8-6e5f-456f-bbb3-64d1970f0f8f?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
     }
   ]
 }
