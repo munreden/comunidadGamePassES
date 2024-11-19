@@ -74,10 +74,39 @@
       ]
     },
     {
+      "name": "Little Kitty, Big City",
+      "date": "2024-11-20",
+      "url": "https://www.xbox.com/es-ES/games/store/little-kitty-big-city/9NF5S7MLM8XT/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.42325.13605545843678606.ba639605-7305-422e-9637-2411fb07e5f6.b0cdeb87-1dea-418a-82c3-84a977c47a4b?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "PlateUp!",
+      "date": "2024-11-20",
+      "url": "https://www.xbox.com/es-ES/games/store/plateup/9P2HHT3VS7MP/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.48410.14557765520174668.1718d940-8154-42aa-b7e5-83e812dac193.f1a624fb-49fc-4a85-bf8c-bcdf7c8ad2ae?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
       "name": "Nine Sols",
       "date": "2024-11-26",
       "url": "https://www.xbox.com/es-ES/games/store/nine-sols/9N3LGKGF3CC2/0010",
       "cover": "https://store-images.s-microsoft.com/image/apps.45976.14000456863863255.e1180b2d-029d-4c02-9385-6ad73421ad63.508279c9-acdd-45b3-9321-9d8f45feb958?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Aliens: Dark Descent",
+      "date": "2024-11-27",
+      "url": "https://www.xbox.com/es-ES/games/store/aliens-dark-descent/9MX7DMHK13SC/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.59357.13895334412764328.559da51b-cee3-4463-b8c6-75819f96d69c.7038b9c7-f3b8-44d2-a1c8-8603d9d132af?q=90&w=177&h=265",
       "platforms": [
         "xbox",
         "pc",
