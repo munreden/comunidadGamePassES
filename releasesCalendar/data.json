@@ -1,119 +1,6 @@
 {
   "releaseGames": [
     {
-      "name": "Starcraft: Remastered",
-      "date": "2024-11-05",
-      "url": "https://eu.shop.battle.net/es-es/product/starcraft-remastered",
-      "cover": "https://cdn2.steamgriddb.com/thumb/4855e26d826415333fb974a0414f395c.jpg",
-      "platforms": [
-        "pc"
-      ]
-    },
-    {
-      "name": "Starcraft II: Campaign Collection",
-      "date": "2024-11-05",
-      "url": "https://eu.shop.battle.net/es-es/product/starcraft-ii",
-      "cover": "https://cdn2.steamgriddb.com/thumb/d037b7e2852f79738930ce6c850e326e.jpg",
-      "platforms": [
-        "pc"
-      ]
-    },
-    {
-      "name": "Metal Slug Tactics",
-      "date": "2024-11-05",
-      "url": "https://www.xbox.com/es-ES/games/store/metal-slug-tactics/9NGNZP1J1JN7/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.33936.13646304231559376.0397570c-fcf7-4ee9-a581-d728135dc834.119515ad-b41a-4efb-8fc3-5d5ae8d46408?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Goat Simulator: Remastered",
-      "date": "2024-11-07",
-      "url": "https://www.xbox.com/es-es/games/store/goat-simulator-remastered/9p71qfsc7q34",
-      "cover": "https://store-images.s-microsoft.com/image/apps.23941.14613594387174793.c8989194-dd0a-4922-b0ab-c64275ecf8b0.3513efd2-b8ca-4377-b4e6-f5f4b7ab29d8?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Spyro Reignited Trilogy",
-      "date": "2024-11-12",
-      "url": "https://www.xbox.com/es-ES/games/store/spyro-reignited-trilogy/BWHFZNSL0PB5/0001",
-      "cover": "https://store-images.s-microsoft.com/image/apps.7878.71510837884329922.e091ebfc-ee9a-468a-b6e5-327d0f0d0974.ad149242-54a5-4f51-ab66-14ecde79d7d8?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Microsoft Flight Simulator 2024",
-      "date": "2024-11-19",
-      "url": "https://www.xbox.com/es-es/games/store/microsoft-flight-simulator-2024-standard-edition/9p2vgctbmm52",
-      "cover": "https://store-images.s-microsoft.com/image/apps.59000.14550648823552491.458517e5-6b50-4124-b28b-b87004bdb3d1.961d2dcc-23a2-4997-a317-7237e2d47bbc?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-      "date": "2024-11-20",
-      "url": "https://www.xbox.com/es-es/games/store/stalker-2-heart-of-chornobyl-xbox-edition/9p7zbf3s7pss",
-      "cover": "https://store-images.s-microsoft.com/image/apps.60747.14102836618611203.7e33768f-3f4c-4982-9528-7233be70e203.03bf8581-1ddb-446c-9e3a-8eed3e6d579a?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Little Kitty, Big City",
-      "date": "2024-11-20",
-      "url": "https://www.xbox.com/es-ES/games/store/little-kitty-big-city/9NF5S7MLM8XT/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.42325.13605545843678606.ba639605-7305-422e-9637-2411fb07e5f6.b0cdeb87-1dea-418a-82c3-84a977c47a4b?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "PlateUp!",
-      "date": "2024-11-20",
-      "url": "https://www.xbox.com/es-ES/games/store/plateup/9P2HHT3VS7MP/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.48410.14557765520174668.1718d940-8154-42aa-b7e5-83e812dac193.f1a624fb-49fc-4a85-bf8c-bcdf7c8ad2ae?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "Nine Sols",
-      "date": "2024-11-26",
-      "url": "https://www.xbox.com/es-ES/games/store/nine-sols/9N3LGKGF3CC2/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.45976.14000456863863255.e1180b2d-029d-4c02-9385-6ad73421ad63.508279c9-acdd-45b3-9321-9d8f45feb958?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Aliens: Dark Descent",
-      "date": "2024-11-27",
-      "url": "https://www.xbox.com/es-ES/games/store/aliens-dark-descent/9MX7DMHK13SC/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.59357.13895334412764328.559da51b-cee3-4463-b8c6-75819f96d69c.7038b9c7-f3b8-44d2-a1c8-8603d9d132af?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
       "name": "Overthrown (Versión preliminar del juego)",
       "date": "2024-12-05",
       "url": "https://www.xbox.com/es-ES/games/store/overthrown-version-preliminar-del-juego/9MT5KSV3RCWD/0010",
@@ -182,241 +69,95 @@
   ],
   "leavingGames": [
     {
-      "name": "Dicey Dungeons",
-      "date": "2024-11-15",
-      "url": "https://www.xbox.com/es-ES/games/store/dicey-dungeons/9PC4C9NLP3ZD/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.47314.14176621031001937.302a4c64-8f4d-435d-8b6d-fcd963ff70e6.14358a19-4ad1-4bfe-b661-e92e6ab4f0b3?q=90&w=177&h=265",
+      "name": "Hello Neighbor 2",
+      "date": "2024-12-15",
+      "url": "https://www.xbox.com/es-ES/games/store/hello-neighbor-2/9N961B11FJ4W/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.50485.13538643730533052.bd974e41-d70f-4894-a349-7d0e6056033d.cd88ca22-d9c7-4d4a-aca1-fc3fc56f865d?q=90&w=177&h=265",
       "platforms": [
-        "cloud",
         "xbox",
-        "pc"
+        "pc",
+        "cloud"
       ]
     },
     {
-      "name": "Dungeons 4",
-      "date": "2024-11-15",
-      "url": "https://www.xbox.com/es-ES/games/store/dungeons-4/9MX2LLS736B3/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.52831.13827839494641912.fbfb4c20-fe86-40e3-888a-d19efc580378.43737932-4388-4a3d-82eb-741fa80387ba?q=90&w=177&h=265",
+      "name": "Amnesia: The Bunker",
+      "date": "2024-12-15",
+      "url": "https://www.xbox.com/es-ES/games/store/amnesia-the-bunker/9PC15H56NGJK/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.11905.14112953128044526.ba95d4f9-17d4-4076-a135-073ccafc4d57.99774603-a61d-41bd-a87d-75435610d053?q=90&w=177&h=265",
       "platforms": [
-        "cloud",
-        "xbox"
-      ]
-    },
-    {
-      "name": "Like a Dragon Gaiden: The Man Who Erased His Name",
-      "date": "2024-11-15",
-      "url": "https://www.xbox.com/es-ES/games/store/like-a-dragon-gaiden-the-man-who-erased-his-name/9PCMWNDPPBFZ/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.65243.14166593464967828.5b4d87ef-26a6-4af4-bf96-c0c37c88dbb2.372932ca-9a46-4e37-831c-84cab631c6cf?q=90&w=177&h=265",
-      "platforms": [
-        "cloud",
         "xbox",
-        "pc"
+        "pc",
+        "cloud"
       ]
     },
     {
-      "name": "Like a Dragon: Ishin!",
-      "date": "2024-11-15",
-      "url": "https://www.xbox.com/es-ES/games/store/like-a-dragon-ishin/9N4BH9FLLMWD/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.14121.13986316021730261.2a69ea94-8704-4fd3-951c-3403df80be07.e261d67a-1634-4f7d-9e55-dc8fd5c778fe?q=90&w=177&h=265",
+      "name": "The Quarry",
+      "date": "2024-12-15",
+      "url": "https://www.xbox.com/es-ES/games/store/the-quarry-para-xbox-series-xs/9N5HDNDWVV34/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.24268.14038210256617281.718025ad-8038-4f6e-bc37-d05905bf2f47.899b7302-5a35-482c-8972-f1c383897114?q=90&w=177&h=265",
       "platforms": [
-        "cloud",
         "xbox",
-        "pc"
+        "pc",
+        "cloud"
       ]
     },
     {
-      "name": "Persona 5 Tactica",
-      "date": "2024-11-15",
-      "url": "https://www.xbox.com/es-ES/games/store/persona-5-tactica/9P07F616XR9R/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.21771.14461424539776518.be5fa828-401b-4f0c-ac86-920d7dcbfada.66d054ea-84d9-40f2-bffb-49eb5cb272c9?q=90&w=177&h=265",
+      "name": "Rainbow Billy: The Curse of the Leviathan",
+      "date": "2024-12-15",
+      "url": "https://www.xbox.com/es-ES/games/store/rainbow-billy-the-curse-of-the-leviathan/9PMGFL6KM0T2/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.57077.14293952320453711.7b0495b8-be6b-4fbc-9d4c-95bf880b7637.40ffa38f-0bca-4264-969e-aa80c8bc2cba?q=90&w=177&h=265",
       "platforms": [
-        "cloud",
         "xbox",
-        "pc"
+        "pc",
+        "cloud"
       ]
     },
     {
-      "name": "Somerville",
-      "date": "2024-11-15",
-      "url": "https://www.xbox.com/es-ES/games/store/somerville/9N1PS56BR6VK/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.22684.13901545943501690.6f65c9ca-e6b9-46e0-bfef-3d4b7f211abf.72a947f9-eccf-40df-aaf6-621032141406?q=90&w=177&h=265",
+      "name": "Tin Hearts",
+      "date": "2024-12-15",
+      "url": "https://www.xbox.com/es-ES/games/store/tin-hearts/9MZSWZD5TDZP/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.39565.13863817766354324.d0b7376f-2625-4548-96cd-a79d6e667bd2.b23547dd-089f-4119-867a-be52c9054dee?q=90&w=177&h=265",
       "platforms": [
-        "cloud",
         "xbox",
-        "pc"
+        "pc",
+        "cloud"
       ]
     },
     {
-      "name": "Goat Simulator (PC)",
-      "date": "2024-11-15",
-      "url": "https://www.xbox.com/es-ES/games/store/goat-simulator/BV0NM309K1TL/0001",
-      "cover": "https://store-images.s-microsoft.com/image/apps.36875.70628353720390187.c5ec2284-1a6e-4ed0-a094-b54b14b8d466.cebea296-f07d-484e-bdf5-f6840555bf02?q=90&w=177&h=265",
+      "name": "Forza Horizon 4",
+      "date": "2024-12-15",
+      "url": "https://www.xbox.com/es-ES/games/store/forza-horizon-4-edicion-estandar/9PNJXVCVWD4K/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.36093.14343301090572358.2000000000007864116.1feb0fed-abe9-4849-b638-8d7eca69cff4?q=90&w=177&h=265",
       "platforms": [
-        "pc"
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Rise of the Tomb Raider",
+      "date": "2024-12-15",
+      "url": "https://www.xbox.com/es-ES/games/store/rise-of-the-tomb-raider/BPCN22ZVT05C/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.49298.68439056452236222.b811fa33-c33f-40bf-a2b2-4595319deabe.c331b082-cda2-42b1-9323-922b0b5b5cb1?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Forager",
+      "date": "2024-12-15",
+      "url": "https://www.xbox.com/es-ES/games/store/forager/9MV2S7Q5PHSW/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.49517.13796714672158376.aa1c19be-0d47-46ac-9fb3-74c8d6d9fdf8.061b6ecc-7883-45e5-be31-fb740679ad70?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
       ]
     }
   ],
   "freePlayDays": [
-    {
-      "name": "The Texas Chain Sawn Massacre",
-      "date": "2024-10-31",
-      "dateLeaving": "2024-11-03",
-      "url": "https://www.xbox.com/es-ES/games/store/the-texas-chain-saw-massacre/9P9F54WDBGH6/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.18018.14139849169625079.3357825d-6836-4d16-ae17-02838530710a.53839042-d06b-4f0a-bb83-d269b78e1b5c?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "Tom Clancy’s The Division 2",
-      "date": "2024-10-31",
-      "dateLeaving": "2024-11-03",
-      "url": "https://www.xbox.com/es-ES/games/store/tom-clancys-the-division-2/9NC944T50735/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.33103.13572322600772428.1aa7f1f5-8867-4cf5-aa22-55ecea3327ee.ae16adf3-94b0-4740-91ef-f768a04aba08?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "Across the Obelisk",
-      "date": "2024-11-07",
-      "dateLeaving": "2024-11-10",
-      "url": "https://www.xbox.com/es-ES/games/store/across-the-obelisk/9P6S46PLH464/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.17776.14618517252274615.b84f3576-e83d-4676-b181-8d6014247665.46ce114d-0231-429a-8f43-ef870e6d2df5?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "ASTRONEER",
-      "date": "2024-11-07",
-      "dateLeaving": "2024-11-10",
-      "url": "https://www.xbox.com/es-ES/games/store/astroneer/9NBLGGH43KZB/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.17703.13510798887933723.57e43f19-4066-429e-b1a2-caea56e427b4.f555e1de-d116-4ab1-bed1-408a78622ba6?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "Eiyuden Chronicle: Rising",
-      "date": "2024-11-07",
-      "dateLeaving": "2024-11-10",
-      "url": "https://www.xbox.com/es-ES/games/store/eiyuden-chronicle-rising/9NMD6VV08WGF/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.41107.13694306682751994.8d7eeebc-63ae-4c9b-b398-1a978a669328.9a95f195-9de3-4257-86a0-0cdcba7b44a4?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "Train Sim World 5: Standard Edition",
-      "date": "2024-11-07",
-      "dateLeaving": "2024-11-10",
-      "url": "https://www.xbox.com/es-ES/games/store/train-sim-world-5-standard-edition/9N9FR8CSZP56/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.40169.13533673129408975.95f4b180-e431-4714-922e-b555f8c6879d.9433236d-417c-4930-9bb0-16ebc5cf6be1?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "EA SPORTS™ College Football 25",
-      "date": "2024-11-14",
-      "dateLeaving": "2024-11-17",
-      "url": "https://www.xbox.com/es-ES/games/store/ea-sports-college-football-25/9NSDM7MBGG8L/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.61448.14365278454952493.fad8a383-13cf-494d-bf22-a894e53fa5ac.784e369f-7756-4083-b115-8cbf1429d7f3?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "Jujutsu Kaisen Cursed Clash",
-      "date": "2024-11-14",
-      "dateLeaving": "2024-11-17",
-      "url": "https://www.xbox.com/es-ES/games/store/jujutsu-kaisen-cursed-clash/9N1T03Q2J6NH/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.36584.13965211066101112.5461a737-b473-4ef5-94c7-1976f473c1c1.b0516656-69bd-4b69-85e5-5b68118b6be9?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "Dustborn",
-      "date": "2024-11-14",
-      "dateLeaving": "2024-11-17",
-      "url": "https://www.xbox.com/es-ES/games/store/dustborn/9NGSXXHDBZ3D/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.4567.13639023375250317.0728523b-5c3b-4e72-8cd9-ef29608ffbfb.a5cbc458-5f7f-4212-8863-683b3dc0bcf3?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "Serial Cleaners",
-      "date": "2024-11-14",
-      "dateLeaving": "2024-11-17",
-      "url": "https://www.xbox.com/es-ES/games/store/serial-cleaners/9NDSW6RBWQM8/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.262.13608265426496101.3fd302c2-e010-411e-99c7-7964f23ccb6d.0b65df16-c73c-4f09-be1a-2a0a180f6aeb?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "Like a Dragon: Infinite Wealth",
-      "date": "2024-11-14",
-      "dateLeaving": "2024-11-17",
-      "url": "https://www.xbox.com/es-ES/games/store/like-a-dragon-infinite-wealth/9P00SVGWDJCP/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.52365.14465728597087432.6e0f939a-1434-4a25-b368-df8616b251aa.e89504d8-6e5f-456f-bbb3-64d1970f0f8f?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "F1 24",
-      "date": "2024-11-21",
-      "dateLeaving": "2024-11-24",
-      "url": "https://www.xbox.com/es-ES/games/store/f1-24/9PLVVTDHS1P0/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.50353.14309904834888333.ae73f2e0-1ce2-4244-89ea-266904a2c24f.5618af1f-dffb-4612-9162-3835fca1105b?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "DRAGON BALL XENOVERSE 2",
-      "date": "2024-11-21",
-      "dateLeaving": "2024-11-24",
-      "url": "https://www.xbox.com/es-ES/games/store/dragon-ball-xenoverse-2/BX03760D0QGN/0001",
-      "cover": "https://store-images.s-microsoft.com/image/apps.32513.63336639312113079.ceb7d6d9-5c03-4721-ab3f-09019902f961.e4eb532e-0d8b-41c0-ac6a-dbeb6ff4e9dd?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "NHL 25 Edición Estándar",
-      "date": "2024-11-21",
-      "dateLeaving": "2024-11-24",
-      "url": "https://www.xbox.com/es-ES/games/store/nhl-25-edicion-estandar/9PG1BLKTSNZC/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.24761.14189822458779542.5680aea1-9674-46cf-b5fe-2c32accbe73a.c88397b7-e6d8-44be-9e1b-e3c10120ae2f?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "WARRIORS OROCHI 4",
-      "date": "2024-11-21",
-      "dateLeaving": "2024-11-24",
-      "url": "https://www.xbox.com/es-ES/games/store/warriors-orochi-4/C4N7CV3Q90X8/0001",
-      "cover": "https://store-images.s-microsoft.com/image/apps.41426.67278576655407855.9c7a970d-8fd4-465a-be9a-eb1a9678e720.52f9e886-2f19-4698-8c66-cbf60e8fa686?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "Dead by Daylight",
-      "date": "2024-11-21",
-      "dateLeaving": "2024-11-24",
-      "url": "https://www.xbox.com/es-ES/games/store/dead-by-daylight/C0N22P73QZ60/0001",
-      "cover": "https://store-images.s-microsoft.com/image/apps.16719.64366672042187759.733004ed-c696-44cf-98cc-30eddf2375a8.3dd6c96e-e0c3-4a0b-aeb0-810f815a6d37?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
     {
       "name": "Hell Let Loose",
       "date": "2024-11-21",
