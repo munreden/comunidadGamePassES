@@ -11,6 +11,17 @@
       ]
     },
     {
+      "name": "EA SPORTS™ WRC",
+      "date": "2024-12-05",
+      "url": "https://www.xbox.com/es-ES/games/store/ea-sports-wrc/9N9PDJ7Z8S2R/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.28925.13528935109150980.003749fa-5cf6-4455-b03d-f44855369244.eee38d64-fd49-47c5-b777-91aa71a242e1?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
       "name": "Overthrown (Versión preliminar del juego)",
       "date": "2024-12-05",
       "url": "https://www.xbox.com/es-ES/games/store/overthrown-version-preliminar-del-juego/9MT5KSV3RCWD/0010",
@@ -26,6 +37,39 @@
       "date": "2024-12-09",
       "url": "https://www.xbox.com/es-es/games/store/indiana-jones-y-el-gran-circulo/9n8fq28z6qx3",
       "cover": "https://store-images.s-microsoft.com/image/apps.394.14050533476382116.9ce9be62-6690-4c40-8e76-7e5af2a256fb.23519966-541f-46af-94a3-68d956e7cf85?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Wildfrost",
+      "date": "2024-12-10",
+      "url": "https://store.steampowered.com/app/1811990/Wildfrost/?l=spanish",
+      "cover": "https://cdn2.steamgriddb.com/thumb/b917669ef1e5df19c822441a15f2d1b4.jpg",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Carrion",
+      "date": "2025-01-02",
+      "url": "https://www.xbox.com/es-ES/games/store/carrion/9NPKKNBJ258V/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.3484.13792161700411817.9ccd0aea-b5c2-49dd-af3d-0379dee2fd6b.d742eae4-18dd-4ddc-b29c-572ee56f8add?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Road 96",
+      "date": "2025-01-07",
+      "url": "https://www.xbox.com/es-ES/games/store/road-96/9NVBKDF85W8T/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.33921.14401791124788682.a53b3c8e-a868-4dbf-845f-6db87942340c.32c2bc03-fbaf-42e2-8326-1e68d22fa8ea?q=90&w=177&h=265",
       "platforms": [
         "xbox",
         "pc",
