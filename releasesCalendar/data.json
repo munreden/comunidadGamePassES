@@ -1,6 +1,16 @@
 {
   "releaseGames": [
     {
+      "name": "Crash Team Racing Nitro-Fueled",
+      "date": "2024-12-04",
+      "url": "https://www.xbox.com/es-es/games/store/crash-team-racing-nitro-fueled/bqrb60pw2sdl",
+      "cover": "https://store-images.s-microsoft.com/image/apps.25964.68749109251632061.7415fd07-15d9-4d61-941f-64c80c5c0bd5.8fab658f-e3b7-452c-afeb-ad36df7bd4b3?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
       "name": "Overthrown (Versión preliminar del juego)",
       "date": "2024-12-05",
       "url": "https://www.xbox.com/es-ES/games/store/overthrown-version-preliminar-del-juego/9MT5KSV3RCWD/0010",
