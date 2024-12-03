@@ -209,6 +209,70 @@
         "pc",
         "cloud"
       ]
+    },
+    {
+      "name": "BlazBlue: Cross Tag Battle",
+      "date": "2024-12-31",
+      "url": "https://www.xbox.com/es-ES/games/store/blazblue-cross-tag-battle-special-edition/9NFWDRBZXDL9/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.13728.13586724043256738.3809e00e-03ca-4046-bce4-167a34f4611d.bf5f44ae-4971-4cf1-8b8e-878a2249fe40?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Close to the Sun",
+      "date": "2024-12-31",
+      "url": "https://www.xbox.com/es-ES/games/store/close-to-the-sun/9N67QTH4Z1GP/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.41825.14023175679911698.7f246870-ac74-421d-83b6-d932c336a571.50484c37-2ac1-431a-8351-222e335f019f?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "HUMANKIND",
+      "date": "2024-12-31",
+      "url": "https://www.xbox.com/es-ES/games/store/humankind/9MZ01WJM4MK1/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.25102.13880477616253820.6a35ff59-a14d-40e3-9113-c1479c88f40f.82946525-a3de-414d-92c8-3c9f4dd4d78c?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "LEGO® 2K Drive",
+      "date": "2024-12-31",
+      "url": "https://www.xbox.com/es-ES/games/store/edicion-estandar-de-lego-2k-drive-cross-gen/9NQKB8NZTGKK/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.22948.13772640455743528.b2b4cf71-dd9d-448b-8515-5e11c8f3269f.a55d778e-a3bf-454c-ac6b-b3588cd36f57?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "McPixel 3",
+      "date": "2024-12-31",
+      "url": "https://www.xbox.com/es-ES/games/store/mcpixel-3/9PP2WW5TQ7MS/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.31201.14336879122555401.4c30f6b3-d0ef-4997-95dd-4b1a894b1874.f4a8090c-17b1-49a4-bfb9-5747db50f016?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Party Animals",
+      "date": "2024-12-31",
+      "url": "https://www.xbox.com/es-ES/games/store/party-animals/9MZ08RDQ4DM1/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.62616.13884485183103116.6713b960-1bc1-48a2-8409-f9f6752fffef.208ff0d5-6ed5-4d5d-9f8f-003f5be0d459?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
+      ]
     }
   ],
   "freePlayDays": [
