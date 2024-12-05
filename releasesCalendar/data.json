@@ -277,11 +277,51 @@
   ],
   "freePlayDays": [
     {
-      "name": "Hell Let Loose",
-      "date": "2024-11-21",
-      "dateLeaving": "2024-11-24",
-      "url": "https://www.xbox.com/es-ES/games/store/hell-let-loose/9N44WK3WV2HJ/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.48063.13994037977696381.8cb9a0c2-0781-44fc-b799-7c5ec4255104.3d6f4133-90b5-4adc-a8a9-8b7361ef937d?q=90&w=177&h=265",
+      "name": "The Crew Motorfest",
+      "date": "2024-12-05",
+      "dateLeaving": "2024-12-08",
+      "url": "https://www.xbox.com/es-ES/games/store/the-crew-motorfest/9NNS41P5J1C7/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.20396.13732783098848034.c01441ec-a169-44f9-85a8-8b8ad6ced9ac.3dac486d-e95f-4eee-b01a-c71ce4542879?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Parcel Corps",
+      "date": "2024-12-05",
+      "dateLeaving": "2024-12-08",
+      "url": "https://www.xbox.com/es-ES/games/store/parcel-corps/9PDV9P81JR59/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.31222.14146903880660908.ad14687a-8b2c-4e07-b7c3-74fa1c5c86b7.d804d044-fc0e-4118-963d-3d41b559613a?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "NARUTO TO BORUTO: SHINOBI STRIKER",
+      "date": "2024-12-05",
+      "dateLeaving": "2024-12-08",
+      "url": "https://www.xbox.com/es-ES/games/store/naruto-to-boruto-shinobi-striker/BRX56LQJMZ4G/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.28992.69400513316706885.2c155959-cfe1-4f1a-a0aa-06e86620da92.7cc96e9f-151b-4c86-a8d2-c63182d33f7d?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "MX vs ATV Legends",
+      "date": "2024-12-05",
+      "dateLeaving": "2024-12-08",
+      "url": "https://www.xbox.com/es-ES/games/store/mx-vs-atv-legends/9NLGR76G498K/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.11208.13712009559820162.f16fc3d3-fcfc-44db-be0a-a6ab549c8541.fd2a86f4-a2ab-4624-9dd1-8d68589ba7b5?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "DRIFTCE",
+      "date": "2024-12-05",
+      "dateLeaving": "2024-12-08",
+      "url": "https://www.xbox.com/es-ES/games/store/driftce/9N4JG8S6N9HS/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.2349.13982400556030553.4a6cd6c7-cd24-41f4-8b42-eea7368625a6.baca9a4b-38af-4f84-87d4-10091b93e51b?q=90&w=177&h=265",
       "platforms": [
         "xbox"
       ]
