@@ -88,10 +88,32 @@
       ]
     },
     {
+      "name": "Eternal Strands",
+      "date": "2025-01-28",
+      "url": "https://www.xbox.com/es-ES/games/store/eternal-strands/9NNKJNRKFT0G/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.55883.13736859116442717.a1ffa0ea-8877-44c8-8310-2433a1850d55.289fef47-87b7-442a-baab-439a9636d846?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
       "name": "Sniper Elite: Resistance",
       "date": "2025-01-30",
       "url": "https://www.xbox.com/es-ES/games/store/sniper-elite-resistance/9MXRG5GCRPXZ/0010",
       "cover": "https://store-images.s-microsoft.com/image/apps.51551.13884837624671830.a1b4bcb8-63aa-419a-ac34-76ae03d6dca7.638d45d3-e816-4927-9355-71fc2e775cde?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Citizen Sleeper 2: Starward Vector",
+      "date": "2025-01-31",
+      "url": "https://www.xbox.com/es-es/games/store/citizen-sleeper-2-starward-vector/9mwcf1xbjbr2",
+      "cover": "https://store-images.s-microsoft.com/image/apps.47283.13841979780106331.acb28221-4c2d-40dc-b1e1-dbee254379de.abf1f1a2-f310-4d90-a369-37a94a90dd42?q=90&w=177&h=265",
       "platforms": [
         "xbox",
         "pc",
