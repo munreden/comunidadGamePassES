@@ -55,6 +55,26 @@
       ]
     },
     {
+      "name": "Hunt: Showdown 1896",
+      "date": "2024-12-12",
+      "url": "https://www.xbox.com/es-ES/games/store/hunt-showdown-1896/9NPRV0R4CS1Z/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.58123.13783643452587332.d3afb4b7-3c26-4baf-b27d-11d80adfd033.5dddca7b-d15d-4714-82c8-4af0554deed6?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "For The King II",
+      "date": "2024-12-12",
+      "url": "https://www.xbox.com/es-ES/games/store/for-the-king-ii/9NVC9KWJVLT0/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.12766.14401580739712929.1516cf95-6368-4bda-ba63-aea64b42d32f.6302e8ec-135f-48a5-aafc-d560fdf76e40?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox"
+      ]
+    },
+    {
       "name": "Carrion",
       "date": "2025-01-02",
       "url": "https://www.xbox.com/es-ES/games/store/carrion/9NPKKNBJ258V/0010",
@@ -347,6 +367,56 @@
       "platforms": [
         "xbox"
       ]
-    }
+    },
+    {
+      "name": "EA SPORTS FC 25",
+      "date": "2024-12-12",
+      "dateLeaving": "2024-12-15",
+      "url": "https://www.xbox.com/es-ES/games/store/ea-sports-fc-25-standard-edition-para-xbox-one-y-xbox-series-xs/9MVK78MGD737/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.39617.13862251612333050.ec09080a-b13c-432f-96c1-4c1d38bfef9c.b0deca43-6ba3-4ec9-9013-4b1b0763011d?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "EA SPORTS Madden NFL 25",
+      "date": "2024-12-12",
+      "dateLeaving": "2024-12-15",
+      "url": "https://www.xbox.com/es-ES/games/store/ea-sports-madden-nfl-25/9P1RKDK0R4CM/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.5026.14501589291225586.6490b323-f17e-4852-890a-00b81372cd06.95efa415-b6cb-4301-99ce-3444d653da97?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "WWE 2K24",
+      "date": "2024-12-12",
+      "dateLeaving": "2024-12-15",
+      "url": "https://www.xbox.com/es-ES/games/store/wwe-2k24-para-xbox-one/9PHPPNKLP777/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.49977.14231541018928042.25792389-4bf3-4a57-b16d-3a8a3b8496ca.9d84eca0-e755-4fe6-85e6-49533f3f122e?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "DRAGON BALL: THE BREAKERS",
+      "date": "2024-12-12",
+      "dateLeaving": "2024-12-15",
+      "url": "https://www.xbox.com/es-ES/games/store/dragon-ball-the-breakers/9NW5BHKZ45CL/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.25518.14455840424057127.bfc23d34-2b0a-4689-8b22-6fd5cfe3103e.e2d0a19d-6541-4a1c-8962-85264b80c479?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Brothers: A Tale of Two Sons Remake",
+      "date": "2024-12-12",
+      "dateLeaving": "2024-12-15",
+      "url": "https://www.xbox.com/es-ES/games/store/brothers-a-tale-of-two-sons-remake/9N23R0GN20XH/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.29323.13959428320509984.d3b53f56-d6f3-46d6-b8e1-06d1c61e9a12.0810e578-ee1f-42b2-9520-8b6d4b453dc7?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    }  
   ]
 }
