@@ -23,6 +23,25 @@
       ]
     },
     {
+      "name": "Diablo",
+      "date": "2025-01-14",
+      "url": "https://eu.shop.battle.net/es-es/product/diablo",
+      "cover": "https://cdn2.steamgriddb.com/thumb/f20d87515250ca1bb69a70a542ecbbad.jpg",
+      "platforms": [
+        "pc"
+      ]
+    },
+    {
+      "name": "UFC 5",
+      "date": "2025-01-14",
+      "url": "https://www.xbox.com/es-ES/games/store/ufc-5/9nh8k4b707h0",
+      "cover": "https://store-images.s-microsoft.com/image/apps.43296.13630336651997545.a96b0d89-5d07-42df-a32b-c465113ff69c.180cb40d-58f2-48a5-829f-bf309187f337?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
       "name": "33 Immortals - APLAZADO",
       "date": "2024-12-01",
       "url": "https://www.xbox.com/es-es/games/store/33-immortals/9p8lr42ptrgj",
