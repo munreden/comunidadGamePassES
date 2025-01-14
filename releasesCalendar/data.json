@@ -42,14 +42,13 @@
       ]
     },
     {
-      "name": "33 Immortals - APLAZADO",
-      "date": "2024-12-01",
-      "url": "https://www.xbox.com/es-es/games/store/33-immortals/9p8lr42ptrgj",
-      "cover": "https://store-images.s-microsoft.com/image/apps.62382.14090162823233215.2d39e9bd-f341-4d5f-9638-b1a6c75a4e3a.e3dc77b7-1e41-4d19-8a4d-67c246e4140c?q=90&w=177&h=265",
+      "name": "Lonely Mountains: Snow Riders",
+      "date": "2025-01-21",
+      "url": "https://www.xbox.com/es-es/games/store/lonely-mountains-snow-riders/9pf3mc3v9q27",
+      "cover": "https://store-images.s-microsoft.com/image/apps.57296.14212743398014260.4c0cc9e4-575b-4fb6-b786-48db66a30ec0.fe7edd9e-1253-4ca4-a33a-08330bf2aee3?q=90&w=177&h=265",
       "platforms": [
         "xbox",
-        "pc",
-        "cloud"
+        "pc"
       ]
     },
     {
@@ -101,6 +100,17 @@
       "date": "2025-03-27",
       "url": "https://www.xbox.com/es-ES/games/store/atomfall/9P483QMD1STK/0017",
       "cover": "https://store-images.s-microsoft.com/image/apps.62123.14593384817893456.373529bb-0ba2-4134-b85a-73c178c46e05.887adfcb-7cb9-4590-96aa-4085b8ec18f8?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "33 Immortals - APLAZADO",
+      "date": "2024-12-01",
+      "url": "https://www.xbox.com/es-es/games/store/33-immortals/9p8lr42ptrgj",
+      "cover": "https://store-images.s-microsoft.com/image/apps.62382.14090162823233215.2d39e9bd-f341-4d5f-9638-b1a6c75a4e3a.e3dc77b7-1e41-4d19-8a4d-67c246e4140c?q=90&w=177&h=265",
       "platforms": [
         "xbox",
         "pc",
