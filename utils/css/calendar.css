@@ -207,8 +207,8 @@ body {
 }
 
 .games-entry {
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
+  display: flex;
+  justify-content: center;
   gap: 1em;
 }
 
@@ -263,7 +263,8 @@ body {
   }
 
   .games-entry {
-    grid-template-columns: repeat(6, 1fr); /* Se mantiene en 6 columnas para pantallas grandes */
+    display: grid;
+    grid-template-columns: repeat(6, 1fr)!important; /* Se mantiene en 6 columnas para pantallas grandes */
     gap: 0.5em;
   }
 
@@ -298,7 +299,8 @@ body {
 
 @media (max-width: 1200px) {
   .games-entry {
-    grid-template-columns: repeat(4, 1fr);
+    display: grid;
+    grid-template-columns: repeat(4, 1fr)!important;
     gap: 0.3em;
   }
 }
@@ -320,7 +322,8 @@ body {
   }
 
   .games-entry {
-    grid-template-columns: repeat(3, 1fr); /* Se ajusta a 4 columnas en pantallas medianas */
+    display: grid;
+    grid-template-columns: repeat(3, 1fr)!important;
     gap: 0.2em;
   }
 
@@ -369,7 +372,8 @@ body {
   }
 
   .games-entry {
-    grid-template-columns: repeat(2, 1fr); /* Para pantallas móviles, ajusta a 2 columnas */
+    display: grid;
+    grid-template-columns: repeat(2, 1fr)!important;
     gap: 0.1em;
   }
 
