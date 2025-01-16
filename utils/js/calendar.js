@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", async function() {
     const gamesData = await readJson(jsonFileName);
     const releaseGames = gamesData.releaseGames;
     const leavingGames = gamesData.leavingGames;
-    const freePlayDaysGames = gamesData.freePlayDays; // Modificado aquí
+    const freePlayDaysGames = gamesData.freePlayDays;
 
     const weekDays = ["Lun", "Mar", "Mié", "Jue", "Vie", "Sáb", "Dom"];
     const monthNames = ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"];
@@ -17,14 +17,11 @@ document.addEventListener("DOMContentLoaded", async function() {
     let displayedMonth = currentMonth;
     let displayedYear = currentYear;
 
-    // Máximo de 6 meses adelante
     const maxMonth = (currentMonth + 6) % 12;
     const maxYear = currentYear + Math.floor((currentMonth + 6) / 12);
 
-    // Inicializar calendario
     initializeCalendar(displayedYear, displayedMonth);
 
-    // Botones de navegación
     document.getElementById("prevMonth").addEventListener("click", function() {
       if (canNavigatePrev()) {
         displayedMonth--;
@@ -63,30 +60,22 @@ document.addEventListener("DOMContentLoaded", async function() {
       document.getElementById("currentMonth").textContent = `${monthNames[month]} ${year}`;
 
       let calendarHTML = generateWeekDaysHTML();
-
-      // Añadir los días vacíos hasta el primer día del mes
       calendarHTML += '<div class="week-row">';
       for (let i = 0; i < adjustedFirstDay; i++) {
         calendarHTML += `<span class="day">-</span>`;
       }
 
-      // Crear los días del mes
       for (let i = 1; i <= daysInMonth; i++) {
         const formattedDate = `${year}-${String(month + 1).padStart(2, '0')}-${String(i).padStart(2, '0')}`;
         calendarHTML += generateDayHTML(i, formattedDate, adjustedFirstDay);
       }
 
-      // Completar la última semana del mes
       const totalDays = daysInMonth + adjustedFirstDay;
       calendarHTML += completeLastWeek(totalDays);
       calendarHTML += '</div>';
 
       document.getElementById("calendarDays").innerHTML = calendarHTML;
-
-      // Después de renderizar el calendario, inicializamos el modal
       initializeModal(releaseGames, leavingGames, freePlayDaysGames, monthNames);
-
-      // Actualizar botones de navegación
       updateNavigationButtons();
     }
 
@@ -183,6 +172,8 @@ document.addEventListener("DOMContentLoaded", async function() {
             modalBody.innerHTML = modalContent;
             const modalInstance = new bootstrap.Modal(modal);
             modalInstance.show();
+            
+            adjustGamesEntryLayout();
           }
         });
       });
@@ -205,19 +196,15 @@ document.addEventListener("DOMContentLoaded", async function() {
 
     function generatePlatformsIcons(platforms) {
       let platformsHTML = '<div class="platforms">';
-
       if (platforms.includes("xbox")) {
         platformsHTML += `<i class="bi bi-xbox"></i>`;
       }
-
       if (platforms.includes("cloud")) {
         platformsHTML += `<i class="bi bi-cloud-fill"></i>`;
       }
-
       if (platforms.includes("pc")) {
         platformsHTML += `<i class="bi bi-pc-display"></i>`;
       }
-
       platformsHTML += '</div>';
       return platformsHTML;
     }
@@ -238,6 +225,18 @@ document.addEventListener("DOMContentLoaded", async function() {
         console.error('There was a problem during the request:', error);
       }
     }
+
+    function adjustGamesEntryLayout() {
+      const gamesEntries = document.querySelectorAll(".games-entry");
+      gamesEntries.forEach(entry => {
+        if (entry.children.length > 6) {
+          entry.classList.remove('flex');
+        } else {
+          entry.classList.add('flex');
+        }
+      });
+    }
+
   } catch (error) {
     console.error('Error while processing JSON data:', error);
   }
