@@ -203,21 +203,83 @@
   ],
   "freePlayDays": [
     {
-      "name": "The Crew Motorfest",
-      "date": "2024-12-05",
-      "dateLeaving": "2024-12-08",
-      "url": "https://www.xbox.com/es-ES/games/store/the-crew-motorfest/9NNS41P5J1C7/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.20396.13732783098848034.c01441ec-a169-44f9-85a8-8b8ad6ced9ac.3dac486d-e95f-4eee-b01a-c71ce4542879?q=90&w=177&h=265",
-      "platforms": [
+    "name": "EA SPORTS FC™ 25",
+    "date": "2025-01-16",
+    "dateLeaving": "2025-01-19",
+    "url": "https://www.xbox.com/es-ES/games/store/ea-sports-fc-25-para-xbox-series-xs/9NNPSTWT06VM/0010",
+    "cover": "https://store-images.s-microsoft.com/image/apps.10380.13738418562228928.2f1b7c14-3e99-4a31-8375-ffc682a65cb0.20227b42-8b9c-4fe1-8f41-836fe3184ce7?q=90&w=177&h=265",
+    "platforms": [
         "xbox"
       ]
     },
     {
-      "name": "Parcel Corps",
-      "date": "2024-12-05",
-      "dateLeaving": "2024-12-08",
-      "url": "https://www.xbox.com/es-ES/games/store/parcel-corps/9PDV9P81JR59/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.31222.14146903880660908.ad14687a-8b2c-4e07-b7c3-74fa1c5c86b7.d804d044-fc0e-4118-963d-3d41b559613a?q=90&w=177&h=265",
+    "name": "EA SPORTS™ Madden NFL 25",
+    "date": "2025-01-16",
+    "dateLeaving": "2025-01-19",
+    "url": "https://www.xbox.com/es-ES/games/store/ea-sports-madden-nfl-25/9P1RKDK0R4CM/0010",
+    "cover": "https://store-images.s-microsoft.com/image/apps.5026.14501589291225586.6490b323-f17e-4852-890a-00b81372cd06.95efa415-b6cb-4301-99ce-3444d653da97?q=90&w=177&h=265",
+    "platforms": [
+        "xbox"
+      ]
+    },
+    {
+    "name": "EA SPORTS™ College Football 25",
+    "date": "2025-01-16",
+    "dateLeaving": "2025-01-19",
+    "url": "https://www.xbox.com/es-ES/games/store/ea-sports-college-football-25/9NSDM7MBGG8L/0010",
+    "cover": "https://store-images.s-microsoft.com/image/apps.61448.14365278454952493.fad8a383-13cf-494d-bf22-a894e53fa5ac.784e369f-7756-4083-b115-8cbf1429d7f3?q=90&w=177&h=265",
+    "platforms": [
+        "xbox"
+      ]
+    },
+    {
+    "name": "F1® 24",
+    "date": "2025-01-16",
+    "dateLeaving": "2025-01-19",
+    "url": "https://www.xbox.com/es-ES/games/store/f1-24/9PLVVTDHS1P0/0010",
+    "cover": "https://store-images.s-microsoft.com/image/apps.50353.14309904834888333.ae73f2e0-1ce2-4244-89ea-266904a2c24f.5618af1f-dffb-4612-9162-3835fca1105b?q=90&w=177&h=265",
+    "platforms": [
+        "xbox"
+      ]
+    },
+    {
+    "name": "UFC™ 5",
+    "date": "2025-01-16",
+    "dateLeaving": "2025-01-19",
+    "url": "https://www.xbox.com/es-ES/games/store/ufc-5/9NH8K4B707H0/0010",
+    "cover": "https://store-images.s-microsoft.com/image/apps.43296.13630336651997545.a96b0d89-5d07-42df-a32b-c465113ff69c.180cb40d-58f2-48a5-829f-bf309187f337?q=90&w=177&h=265",
+    "platforms": [
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+    "name": "NHL 25 Edición Estándar",
+    "date": "2025-01-16",
+    "dateLeaving": "2025-01-19",
+    "url": "https://www.xbox.com/es-ES/games/store/nhl-25-edicion-estandar/9PG1BLKTSNZC/0010",
+    "cover": "https://store-images.s-microsoft.com/image/apps.24761.14189822458779542.5680aea1-9674-46cf-b5fe-2c32accbe73a.c88397b7-e6d8-44be-9e1b-e3c10120ae2f?q=90&w=177&h=265",
+    "platforms": [
+        "xbox"
+      ]
+    },
+    {
+    "name": "EA SPORTS™ PGA TOUR™",
+    "date": "2025-01-16",
+    "dateLeaving": "2025-01-19",
+    "url": "https://www.xbox.com/es-ES/games/store/ea-sports-pga-tour/9P822XLW9PB8/0010",
+    "cover": "https://store-images.s-microsoft.com/image/apps.19163.14096393311858391.003b64c1-1a3b-4b4e-9c47-80d6ec287ead.a28c0902-668d-4ace-b0c6-970d0df10b7e?q=90&w=177&h=265",
+    "platforms": [
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "EA SPORTS™ WRC 24",
+      "date": "2025-01-16",
+      "dateLeaving": "2025-01-19",
+      "url": "https://www.xbox.com/es-ES/games/store/ea-sports-wrc-24/9NW266C3WR47/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.12737.14453778789249332.0dd543c3-440a-410f-8563-8a5e88436da4.acdd306c-fe89-4f52-95dd-fb443d35b301?q=90&w=177&h=265",
       "platforms": [
         "xbox"
       ]
