@@ -212,6 +212,19 @@ body {
   gap: 1em;
 }
 
+.games-entry {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 0.5em;
+}
+
+.games-entry.flex {
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+  flex-wrap: wrap;
+}
+
 .platforms i{
   margin: var(--margin-platforms-i);
 }
@@ -264,7 +277,7 @@ body {
 
   .games-entry {
     display: grid;
-    grid-template-columns: repeat(6, 1fr)!important; /* Se mantiene en 6 columnas para pantallas grandes */
+    grid-template-columns: repeat(6, 1fr); /* Se mantiene en 6 columnas para pantallas grandes */
     gap: 0.5em;
   }
 
@@ -300,7 +313,7 @@ body {
 @media (max-width: 1200px) {
   .games-entry {
     display: grid;
-    grid-template-columns: repeat(4, 1fr)!important;
+    grid-template-columns: repeat(4, 1fr);
     gap: 0.3em;
   }
 }
@@ -323,7 +336,7 @@ body {
 
   .games-entry {
     display: grid;
-    grid-template-columns: repeat(3, 1fr)!important;
+    grid-template-columns: repeat(3, 1fr);
     gap: 0.2em;
   }
 
@@ -373,7 +386,7 @@ body {
 
   .games-entry {
     display: grid;
-    grid-template-columns: repeat(2, 1fr)!important;
+    grid-template-columns: repeat(2, 1fr);
     gap: 0.1em;
   }
 
