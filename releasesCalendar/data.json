@@ -183,6 +183,79 @@
       ]
     },
     {
+    "name": "Anuchard",
+    "date": "2025-01-31",
+    "url": "https://www.xbox.com/es-ES/games/store/anuchard/9NZ02XZD806L/0010",
+    "cover": "https://store-images.s-microsoft.com/image/apps.55817.14490665772853953.a70de13a-b9d0-41e7-bac1-9ce697912658.8c0d1de5-7333-4bba-abc8-cd04537700eb?q=90&w=177&h=265",
+    "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+    "name": "Darkest Dungeon®",
+    "date": "2025-01-31",
+    "url": "https://www.xbox.com/es-ES/games/store/darkest-dungeon/BXKVN6G9C5WJ/0001",
+    "cover": "https://store-images.s-microsoft.com/image/apps.33180.63131787694667297.e786edde-5064-499d-9660-f3d7c293ceaa.57b4555b-2b38-4ba8-a158-87aa941960f4?q=90&w=177&h=265",
+    "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+    "name": "Broforce",
+    "date": "2025-01-31",
+    "url": "https://www.xbox.com/es-ES/games/store/broforce/9P03ZQMBMV65/0010",
+    "cover": "https://store-images.s-microsoft.com/image/apps.6563.14468359839778606.b9e6f982-23f2-4c58-a436-66ba564129a1.8d25c53c-49b6-4fa0-a040-48229656c8a7?q=90&w=177&h=265",
+    "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+    "name": "Serious Sam: Siberian Mayhem",
+    "date": "2025-01-31",
+    "url": "https://www.xbox.com/es-ES/games/store/serious-sam-siberian-mayhem/9P2W3XCT75V2/0010",
+    "cover": "https://store-images.s-microsoft.com/image/apps.60030.14549842084824317.93984916-8beb-46f0-913b-55c1288d3f80.4bdaf8fc-1a17-4e81-b7e2-e8889b7a0b2f?q=90&w=177&h=265",
+    "platforms": [
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+    "name": "Maquette",
+    "date": "2025-01-31",
+    "url": "https://www.xbox.com/es-ES/games/store/maquette/9NW7M71V29DT/0010",
+    "cover": "https://store-images.s-microsoft.com/image/apps.29203.14454715586223538.e79340a3-e2a9-45a0-b7a7-0b827c384715.a73dc210-5cd3-4104-8bb4-b35b2f4d2039?q=90&w=177&h=265",
+    "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+    "name": "Death's Door",
+    "date": "2025-01-31",
+    "url": "https://www.xbox.com/es-ES/games/store/deaths-door/9NDZ7NXFF622/0010",
+    "cover": "https://store-images.s-microsoft.com/image/apps.47652.13605204887272793.456e749a-524b-4372-bb98-1e7f5fac0947.403099f5-0704-42a5-8201-7752f87589e8?q=90&w=177&h=265",
+    "platforms": [
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+    "name": "EA SPORTS™ UFC® 3",
+    "date": "2025-02-15",
+    "url": "https://www.xbox.com/es-ES/games/store/ea-sports-ufc-3/C5DZH514BX37/0001",
+    "cover": "https://store-images.s-microsoft.com/image/apps.52912.67187354709168902.a3bedf41-e05c-46af-b28a-9001abece0fc.1a9b6265-15b9-4437-8521-8f033e3ffd86?q=90&w=177&h=265",
+    "platforms": [
+        "xbox"
+      ]
+    },
+    {
       "name": "F1® 22",
       "date": "2025-02-28",
       "url": "https://www.xbox.com/es-es/games/store/f1-22-xbox-series-x-s/9n79lgzv5ghb",
