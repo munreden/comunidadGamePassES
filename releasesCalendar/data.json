@@ -52,6 +52,89 @@
       ]
     },
     {
+      "name": "Gigantic: Rampage Edition",
+      "date": "2025-01-22",
+      "url": "https://www.xbox.com/es-ES/games/store/gigantic-rampage-edition/9PGG5GF9326C/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.60538.14186146097487224.a177411c-2e29-4441-9ac7-5ba4f0fef7c4.ec9447f9-c6ad-4fce-b8dc-48dc4fd68b2e?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc"
+      ]
+    },
+    {
+      "name": "FLOCK! (Standard)",
+      "date": "2025-01-22",
+      "url": "https://www.xbox.com/es-ES/games/store/flock/BQ9VPBCMLZ2Q/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.44350.69013633459435489.4fb0c6a6-09ab-4e80-8b4d-4090d4ccc345.8e8bdd52-8651-4979-908a-e845251aec3b?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Kunitsu-Gami: Path of the Goddess (Standard)",
+      "date": "2025-01-22",
+      "url": "https://www.xbox.com/es-ES/games/store/kunitsu-gami-path-of-the-goddess/9PCWXX0MS15S/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.41547.14165819607364549.40790d3a-f3e1-473e-81b4-61500e8b5087.988cfbd5-0bf4-4f47-9ba5-ae8859cc01b4?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Magical Delicacy (Standard)",
+      "date": "2025-01-22",
+      "url": "https://www.xbox.com/es-ES/games/store/magical-delicacy/9PCRBQG481Q1/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.18160.14168840589167806.b465e063-d38c-4ff6-a0ed-6e53ac313c2b.1b421df4-9a5b-4eff-b843-6842a561a029?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Tchia (Standard)",
+      "date": "2025-01-22",
+      "url": "https://www.xbox.com/es-ES/games/store/tchia/9NK4WRQX5ZC5/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.43956.13667888518526652.393ec2ec-cfcf-4c3f-9526-8f76e651c1e3.1ebb0450-dd1b-41e3-bdf3-4f29293ccbee?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "The Case of the Golden Idol (Standard)",
+      "date": "2025-01-22",
+      "url": "https://www.xbox.com/es-ES/games/store/the-case-of-the-golden-idol/9NBH78WD7XPQ/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.21952.13517632720763203.9431a067-e43c-4a7c-8792-a79a71e66ccb.8b5cb105-4b63-4941-bac4-d137fe4623a6?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Starbound (Standard)",
+      "date": "2025-01-22",
+      "url": "https://www.xbox.com/es-ES/games/store/starbound/9PD5W1TZ6GWC/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.5801.13802186359317829.b9acdcf9-2e05-4328-812d-253b5ab5de76.cc2ee825-d31f-441a-8eba-442e0853957e?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc"
+      ]
+    },
+    {
+      "name": "Orcs Must Die! Deathtrap",
+      "date": "2025-01-28",
+      "url": "https://www.xbox.com/es-ES/games/store/orcs-must-die-deathtrap/9P0302F6V9VT/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.47409.14468803747722334.03cd3f6a-9768-4ae5-ad95-5c7dc9ddeb76.47bd1969-8415-40a1-9bdf-7a6c503852b0?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc"
+      ]
+    },
+    {
       "name": "Eternal Strands",
       "date": "2025-01-28",
       "url": "https://www.xbox.com/es-ES/games/store/eternal-strands/9NNKJNRKFT0G/0010",
@@ -60,6 +143,15 @@
         "xbox",
         "pc",
         "cloud"
+      ]
+    },
+    {
+      "name": "Shady Part of Me",
+      "date": "2025-01-29",
+      "url": "https://www.xbox.com/es-ES/games/store/shady-part-of-me/9N9GTTGWZR90/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.2717.13532858778326869.a40b2b47-85a7-486e-88e7-2df0ff17c213.13f0ca54-a18f-4fdf-88f3-9fdc24afab78?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
       ]
     },
     {
@@ -78,6 +170,17 @@
       "date": "2025-01-31",
       "url": "https://www.xbox.com/es-es/games/store/citizen-sleeper-2-starward-vector/9mwcf1xbjbr2",
       "cover": "https://store-images.s-microsoft.com/image/apps.47283.13841979780106331.acb28221-4c2d-40dc-b1e1-dbee254379de.abf1f1a2-f310-4d90-a369-37a94a90dd42?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Far Cry® New Dawn",
+      "date": "2025-02-04",
+      "url": "https://www.xbox.com/es-ES/games/store/far-cry-new-dawn/C1DDW4PRF6K5/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.64306.64841033704503268.bc0de57e-6dcd-40b5-b35e-f9f46b4ec1ae.f10b3597-c0ec-428e-9266-d457abfd1d56?q=90&w=177&h=265",
       "platforms": [
         "xbox",
         "pc",
