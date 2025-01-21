@@ -62,12 +62,14 @@
       ]
     },
     {
-      "name": "FLOCK! (Standard)",
+      "name": "Flock (Standard)",
       "date": "2025-01-22",
-      "url": "https://www.xbox.com/es-ES/games/store/flock/BQ9VPBCMLZ2Q/0001",
-      "cover": "https://store-images.s-microsoft.com/image/apps.44350.69013633459435489.4fb0c6a6-09ab-4e80-8b4d-4090d4ccc345.8e8bdd52-8651-4979-908a-e845251aec3b?q=90&w=177&h=265",
+      "url": "https://www.xbox.com/es-ES/games/store/flock/9N6DGNBPNRNN/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.687.14020382961984479.ef4aaad0-42be-418f-ac4e-3b83d39eb75d.936cfb97-ca49-4025-b1ac-7c23937017dd?q=90&w=177&h=265",
       "platforms": [
-        "xbox"
+        "xbox",
+        "pc",
+        "cloud"
       ]
     },
     {
