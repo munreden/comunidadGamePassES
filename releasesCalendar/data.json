@@ -471,6 +471,50 @@
       "platforms": [
         "xbox"
       ]
+    },
+    {
+    "name": "FOR HONOR",
+    "date": "2025-01-23",
+    "dateLeaving": "2025-01-26",
+    "url": "https://www.xbox.com/es-ES/games/store/for-honor/9N3DWR830CVN/0010",
+    "cover": "https://store-images.s-microsoft.com/image/apps.25646.13933975769179739.099ec08e-87f6-4b06-8d84-405337bde6c6.dfc74599-5ddc-4480-aa0a-8af0ec9a0264?q=90&w=177&h=265",
+    "platforms": [
+        "xbox",
+        "cloud"
+    ]
+    },
+    {
+      "name": "A Little to the Left",
+      "date": "2025-01-23",
+      "dateLeaving": "2025-01-26",
+      "url": "https://www.xbox.com/es-ES/games/store/a-little-to-the-left/9NLDDF97GTJ0/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.47868.13709503452579203.2424d951-5f62-4cd0-816f-1d45c87c1dc3.66574724-828d-487e-8e65-165c5cc1eb6b?q=90&w=177&h=265",
+      "platforms": [
+          "pc",
+          "xbox",
+          "cloud"
+      ]
+    },
+    {
+      "name": "Train Sim World® 5: Standard Edition",
+      "date": "2025-01-23",
+      "dateLeaving": "2025-01-26",
+      "url": "https://www.xbox.com/es-ES/games/store/train-sim-world-5-standard-edition/9N9FR8CSZP56/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.40169.13533673129408975.95f4b180-e431-4714-922e-b555f8c6879d.9433236d-417c-4930-9bb0-16ebc5cf6be1?q=90&w=177&h=265",
+      "platforms": [
+          "xbox",
+          "pc"
+      ]
+    },
+    {
+      "name": "Way of the Hunter",
+      "date": "2025-01-23",
+      "dateLeaving": "2025-01-26",
+      "url": "https://www.xbox.com/es-ES/games/store/way-of-the-hunter/9PHW62DC4LGS/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.36365.14223582053027315.049d5f5a-0c16-42ff-bd51-1517829076f2.1540197d-d50a-4f36-bdea-49d27e18c2e8?q=90&w=177&h=265",
+      "platforms": [    
+        "xbox"
+      ]
     }
   ]
 }
