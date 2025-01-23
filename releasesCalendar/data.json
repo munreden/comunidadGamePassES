@@ -127,6 +127,17 @@
       ]
     },
     {
+      "name": "NINJA GAIDEN 2 Black",
+      "date": "2025-01-23",
+      "url": "https://www.xbox.com/es-es/games/store/3e2cec0c-cc19-4932-b0ab-b54339631960/9N51FH42VQDS",
+      "cover": "https://store-images.s-microsoft.com/image/apps.2339.13976941088581007.e581c7fc-0a79-4f79-9d86-95424f162e3e.0ee2186b-8ff5-43d7-8024-02dbbd850286?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
       "name": "Orcs Must Die! Deathtrap",
       "date": "2025-01-28",
       "url": "https://www.xbox.com/es-ES/games/store/orcs-must-die-deathtrap/9P0302F6V9VT/0010",
@@ -212,6 +223,16 @@
       ]
     },
     {
+      "name": "South of Midnight",
+      "date": "2025-04-08",
+      "url": "https://www.xbox.com/es-ES/games/store/south-of-midnight/9NJCVGS6T30K/0017",
+      "cover": "https://store-images.s-microsoft.com/image/apps.45547.13678609147241298.c742bfe1-6624-4d6a-800e-503c12872c58.e240d226-a024-4880-9c66-0f0f15b8a378?q=90&w=177&h=265",
+      "platforms": [
+          "pc",
+          "xbox"
+      ]
+    },
+    {
       "name": "DOOM: The Dark Ages",
       "date": "2025-05-15",
       "url": "https://www.xbox.com/es-ES/games/store/doom-the-dark-ages/9PH9X0760B0T/0010",
@@ -219,6 +240,16 @@
       "platforms": [
         "xbox",
         "pc"
+      ]
+    },
+        {
+      "name": "Clair Obscur: Expedition 33",
+      "date": "2025-04-24",
+      "url": "https://www.xbox.com/es-es/games/store/clair-obscur-expedition-33/9ppt8k6gqhrz",
+      "cover": "https://store-images.s-microsoft.com/image/apps.21528.14322280443288156.36e7f1cd-07a6-4e2a-a35d-485380706ab1.bbf3d2d5-bb2b-4714-88bf-967e8cc6993b?q=90&w=177&h=265",
+      "platforms": [
+          "pc",
+          "xbox"
       ]
     },
     {
