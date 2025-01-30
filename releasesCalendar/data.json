@@ -546,6 +546,36 @@
       "platforms": [    
         "xbox"
       ]
+    },
+    {
+      "name": "Alan Wake 2 (Prueba de 3h)",
+      "date": "2025-01-30",
+      "dateLeaving": "2025-02-02",
+      "url": "https://www.xbox.com/es-ES/games/store/alan-wake-2/9PNZH065X7PV/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.53207.14335040691238971.69596c0b-00e0-49eb-a6ce-2535ef602b5e.610aeb08-6b0a-45d5-86cc-107b90e66c80?q=90&w=177&h=265",
+      "platforms": [
+          "xbox"
+      ]
+    },
+    {
+      "name": "SWORD ART ONLINE Fractured Daydream",
+      "date": "2025-01-30",
+      "dateLeaving": "2025-02-02",
+      "url": "https://www.xbox.com/es-ES/games/store/sword-art-online-fractured-daydream/9PB8RQ6LP1RL/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.45773.14122970574030567.e1f2f907-0977-4bc7-9fe3-36d8d2125c7e.e7c59df0-b886-4bb9-9ead-3aebc3b738f4?q=90&w=177&h=265",
+      "platforms": [
+          "xbox"
+      ]
+    },
+    {
+      "name": "The Survivalists",
+      "date": "2025-01-30",
+      "dateLeaving": "2025-02-02",
+      "url": "https://www.xbox.com/es-ES/games/store/the-survivalists/9N7N7XG4ZJFL/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.50709.14061638986601751.164ef4f1-c50a-4721-8b51-9035a801aa2f.719414dc-72ca-4a39-b47b-f34bb2d3a0c5?q=90&w=177&h=265",
+      "platforms": [
+          "xbox"
+      ]
     }
   ]
 }
