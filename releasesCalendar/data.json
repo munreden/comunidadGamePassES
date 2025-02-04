@@ -12,6 +12,39 @@
       ]
     },
     {
+      "name": "Another Crab's Treasure (Standard)",
+      "date": "2025-02-06",
+      "url": "https://www.xbox.com/es-ES/games/store/another-crabs-treasure/9P97ZTRTH25W/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.38043.14077481160620630.1db41d01-0b54-4154-a1e1-f00cf31fab40.24f86361-82bb-4a28-89ae-12b9e3d32c1d?q=90&w=177&h=265",
+      "platforms": [
+          "xbox",
+          "pc",
+          "cloud"
+      ]
+    },
+    {
+      "name": "Eiyuden Chronicle: Hundred Heroes (Standard)",
+      "date": "2025-02-06",
+      "url": "https://www.xbox.com/es-ES/games/store/eiyuden-chronicle-hundred-heroes/9N8Z1ZL33LM9/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.36865.13543256525081284.f15b7882-c55a-47fc-85b9-b14dab29de6d.c7080d3f-fad9-45bd-89c6-50faf1dda4e1?q=90&w=177&h=265",
+      "platforms": [
+          "pc",
+          "xbox",
+          "cloud"
+      ]
+    },
+    {
+      "name": "Starfield (Standard)",
+      "date": "2025-02-06",
+      "url": "https://www.xbox.com/es-ES/games/store/starfield/9NCJSXWZTP88/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.35187.13567343664224659.1eb6fdf9-8a0b-4344-a135-ab17dfa3c609.c83b6d6a-56c3-4c3f-8b31-456cfb21c3b7?q=90&w=177&h=265",
+      "platforms": [
+          "xbox",
+          "pc",
+          "cloud"
+      ]
+    },
+    {
       "name": "EA SPORTS™ Madden NFL 25",
       "date": "2025-02-06",
       "url": "https://www.xbox.com/es-ES/games/store/ea-sports-madden-nfl-25/9P1RKDK0R4CM/0010",
