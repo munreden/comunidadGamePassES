@@ -12,6 +12,27 @@
       ]
     },
     {
+      "name": "EA SPORTS™ Madden NFL 25",
+      "date": "2025-02-06",
+      "url": "https://www.xbox.com/es-ES/games/store/ea-sports-madden-nfl-25/9P1RKDK0R4CM/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.5026.14501589291225586.6490b323-f17e-4852-890a-00b81372cd06.95efa415-b6cb-4301-99ce-3444d653da97?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Kingdom Two Crowns",
+      "date": "2025-02-13",
+      "url": "https://www.xbox.com/es-ES/games/store/kingdom-two-crowns/BWT2GPVWCH2F/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.50703.71673052342730938.755a1636-e311-4e76-b788-08cd89fc0781.6b300305-6096-42c6-a3b6-58256debb2ef?q=90&w=177&h=265",
+      "platforms": [
+          "xbox",
+          "cloud"
+      ]
+    },
+    {
       "name": "Avowed",
       "date": "2025-02-18",
       "url": "https://www.xbox.com/es-es/games/store/avowed/9nhrdqvfpq34",
