@@ -224,24 +224,44 @@
   ],
   "freePlayDays": [
     {
-      "name": "SWORD ART ONLINE Fractured Daydream",
-      "date": "2025-01-30",
-      "dateLeaving": "2025-02-02",
-      "url": "https://www.xbox.com/es-ES/games/store/sword-art-online-fractured-daydream/9PB8RQ6LP1RL/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.45773.14122970574030567.e1f2f907-0977-4bc7-9fe3-36d8d2125c7e.e7c59df0-b886-4bb9-9ead-3aebc3b738f4?q=90&w=177&h=265",
+      "name": "Call of Duty®: Black Ops 6",
+      "date": "2025-02-06",
+      "url": "https://www.xbox.com/es-ES/games/store/call-of-duty-black-ops-6-lote-multigeneracion/9PF528M6CRHQ/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.37927.14207097610490811.5b338e31-5c12-4d95-9a2a-2f16ceb01377.52b31dce-5e51-4f9f-88c3-9f40367f021f?q=90&w=177&h=265",
       "platforms": [
           "xbox"
-      ]
+      ],
+      "dateLeaving": "2025-02-09"
     },
     {
-      "name": "The Survivalists",
-      "date": "2025-01-30",
-      "dateLeaving": "2025-02-02",
-      "url": "https://www.xbox.com/es-ES/games/store/the-survivalists/9N7N7XG4ZJFL/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.50709.14061638986601751.164ef4f1-c50a-4721-8b51-9035a801aa2f.719414dc-72ca-4a39-b47b-f34bb2d3a0c5?q=90&w=177&h=265",
+      "name": "NBA 2K25",
+      "date": "2025-02-06",
+      "url": "https://www.xbox.com/es-ES/games/store/nba-2k25-edicion-estandar/9PL2XQ4GF10R/0010/9VP46DR9XMZW",  
+      "cover": "https://store-images.s-microsoft.com/image/apps.17984.13524839737985609.1bdc9493-6baf-4ab6-85f1-db97d039b65c.64e30678-e2c3-4a4d-9094-5e60875b7a6b?q=90&w=177&h=265",
       "platforms": [
           "xbox"
-      ]
+      ],
+      "dateLeaving": "2025-02-09"
+    },
+    {
+      "name": "NBA 2K25",
+      "date": "2025-02-06",
+      "url": "https://www.xbox.com/es-ES/games/store/nba-2k25-edicion-estandar/9PL2XQ4GF10R/0010/9VP46DR9XMZW",  
+      "cover": "https://store-images.s-microsoft.com/image/apps.17984.13524839737985609.1bdc9493-6baf-4ab6-85f1-db97d039b65c.64e30678-e2c3-4a4d-9094-5e60875b7a6b?q=90&w=177&h=265",
+      "platforms": [
+          "xbox"
+      ],
+      "dateLeaving": "2025-02-09"
+    },
+    {
+      "name": "Ninja Turtles: Mutantes Desencadenados (Prueba de 2h)",
+      "date": "2025-02-06",
+      "url": "https://www.xbox.com/es-ES/games/store/ninja-turtles-mutantes-desencadenados/9P27ZX0DH2JN/0010",  
+      "cover": "https://store-images.s-microsoft.com/image/apps.42181.14562706045768227.d2247107-35cd-40b8-84cc-fe1ac03a1696.b9a1ed75-d127-47b2-badf-8d5d71b548f6?q=90&w=177&h=265",
+      "platforms": [
+          "xbox"
+      ],
+      "dateLeaving": "2025-02-09"
     }
   ]
 }
