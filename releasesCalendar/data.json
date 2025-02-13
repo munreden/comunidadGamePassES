@@ -262,6 +262,46 @@
           "xbox"
       ],
       "dateLeaving": "2025-02-09"
+    },
+    {
+      "name": "Dying Light",
+      "date": "2025-02-13",
+      "url": "https://www.xbox.com/es-ES/games/store/dying-light/BXN9LB6R3ZPG",  
+      "cover": "https://store-images.s-microsoft.com/image/apps.9965.63224705253913975.ec4ce281-2139-4076-9dc9-733fe2b0602b.874ffd2d-23b2-4ad5-8627-6281fe7e8b60?q=90&w=177&h=265",
+      "platforms": [
+          "xbox"
+      ],
+      "dateLeaving": "2025-02-16"
+    },
+    {
+      "name": "NHL 25",
+      "date": "2025-02-13",
+      "url": "https://www.xbox.com/es-es/games/store/nhl-25-para-xbox-series-x-s/9pg1blktsnzc",  
+      "cover": "https://store-images.s-microsoft.com/image/apps.57603.14189822458779542.0c8cf98e-4326-4f8f-a295-c03200278e9a.64973985-d453-4e1d-b44b-2a8f852e7c84?q=90&w=177&h=265",
+      "platforms": [
+          "xbox"
+      ],
+      "dateLeaving": "2025-02-16"
+    },
+    {
+      "name": "Jujutsu Kaisen Cursed Clash",
+      "date": "2025-02-13",
+      "url": "https://www.xbox.com/es-es/games/store/jujutsu-kaisen-cursed-clash/9n1t03q2j6nh",  
+      "cover": "https://store-images.s-microsoft.com/image/apps.36584.13965211066101112.5461a737-b473-4ef5-94c7-1976f473c1c1.b0516656-69bd-4b69-85e5-5b68118b6be9?q=90&w=177&h=265",
+      "platforms": [
+          "xbox"
+      ],
+      "dateLeaving": "2025-02-16"
+    },
+    {
+      "name": "For the King",
+      "date": "2025-02-13",
+      "url": "https://www.xbox.com/es-es/games/store/for-the-king/bp2bw45wz45z",  
+      "cover": "https://store-images.s-microsoft.com/image/apps.16651.67711513064732812.145475d0-7ca9-46cd-80c8-14a5857a18e2.cd24e81c-f3aa-449d-a3ab-7127f9227ba3?q=90&w=177&h=265",
+      "platforms": [
+          "xbox"
+      ],
+      "dateLeaving": "2025-02-16"
     }
   ]
 }
