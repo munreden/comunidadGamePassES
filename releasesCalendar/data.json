@@ -77,6 +77,39 @@
       ]
     },
     {
+      "name": "F1® 24",
+      "date": "2025-02-20",
+      "url": "https://www.xbox.com/es-ES/games/store/f1-24/9PLVVTDHS1P0/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.50353.14309904834888333.ae73f2e0-1ce2-4244-89ea-266904a2c24f.5618af1f-dffb-4612-9162-3835fca1105b?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Warhammer 40,000: Rogue Trader",
+      "date": "2025-02-20",
+      "url": "https://www.xbox.com/es-ES/games/store/warhammer-40000-rogue-trader/9P30BFHZ1BKN/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.20319.14552508636920197.1053512f-39a1-498b-9519-3c30a004cc0c.b6316910-9aec-491b-93bf-7caf6427f6f8?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Watch Dogs: Legion",
+      "date": "2025-02-25",
+      "url": "https://www.xbox.com/es-ES/games/store/watch-dogs-legion/C1WRX8ZD77M9/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.18275.65664549497403424.a741b357-ecc5-4fa6-bfad-4f3a95f27506.87ae0e0d-537a-4730-a6bb-c2fbd19ae709?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
       "name": "Atomfall",
       "date": "2025-03-27",
       "url": "https://www.xbox.com/es-ES/games/store/atomfall/9P483QMD1STK/0017",
