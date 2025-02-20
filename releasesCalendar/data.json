@@ -424,6 +424,36 @@
         "xbox"
       ],
       "dateLeaving": "2025-02-16"
+    },
+    {
+      "name": "New World: Aeternum",
+      "date": "2025-02-20",
+      "url": "https://www.xbox.com/es-ES/games/store/new-world-aeternum/9NPZJNVGHZ3P/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.31298.13779670507733868.553a8c43-04f1-49e7-b5ce-dff72a93cd73.e8c0dd0b-05c5-42ef-bc74-b236b5507903?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-02-23"
+    },
+    {
+      "name": "ONE PIECE: PIRATE WARRIORS 4",
+      "date": "2025-02-20",
+      "url": "https://www.xbox.com/es-ES/games/store/one-piece-pirate-warriors-4xbox-one/9N6HB778ZWP2/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.40996.14013874404154427.01749ccd-5277-41b8-9db6-ca15905ced80.5bcb6487-9d71-4a2b-8871-73713b3237b8?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-02-23"
+    },
+    {
+      "name": "DRAGON BALL XENOVERSE 2",
+      "date": "2025-02-20",
+      "url": "https://www.xbox.com/es-ES/games/store/dragon-ball-xenoverse-2/BX03760D0QGN/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.32513.63336639312113079.ceb7d6d9-5c03-4721-ab3f-09019902f961.e4eb532e-0d8b-41c0-ac6a-dbeb6ff4e9dd?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-02-23"
     }
   ]
 }
