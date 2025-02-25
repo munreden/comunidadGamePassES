@@ -110,6 +110,17 @@
       ]
     },
     {
+      "name": "33 Immortals",
+      "date": "2025-03-18",
+      "url": "https://www.xbox.com/es-es/games/store/33-immortals/9p8lr42ptrgj",
+      "cover": "https://store-images.s-microsoft.com/image/apps.62382.14090162823233215.2d39e9bd-f341-4d5f-9638-b1a6c75a4e3a.e3dc77b7-1e41-4d19-8a4d-67c246e4140c?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
       "name": "Atomfall",
       "date": "2025-03-27",
       "url": "https://www.xbox.com/es-ES/games/store/atomfall/9P483QMD1STK/0017",
@@ -141,13 +152,36 @@
       ]
     },
     {
-      "name": "DOOM: The Dark Ages",
-      "date": "2025-05-15",
-      "url": "https://www.xbox.com/es-ES/games/store/doom-the-dark-ages/9PH9X0760B0T/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.36928.14239344665439398.04b539f5-c7ac-488f-bc9a-5a5bf535ae56.da410194-0661-41e9-bbfd-632195b6ad49?q=90&w=177&h=265",
+      "name": "Descenders Next",
+      "date": "2025-04-09",
+      "url": "https://www.xbox.com/es-ES/games/store/descenders-next-version-preliminar-del-juego/9N66JJQFX3RX/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.15407.14024037955784685.c0b90c54-2934-4126-84a4-7f6ab04f56cf.ba9e0b40-2476-417e-a7e7-b0c9687032ab?q=90&w=177&h=265",
       "platforms": [
         "xbox",
-        "pc"
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Blue Prince",
+      "date": "2025-04-10",
+      "url": "https://www.xbox.com/es-ES/games/store/blue-prince/9PFRTPRQ569Q/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.49407.14199207619921587.94d12fa7-4aa4-478f-a501-05a046496ce3.53a1d296-29a7-4e2d-bdd5-d48e334c7d33?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Tempopo",
+      "date": "2025-04-17",
+      "url": "https://www.xbox.com/es-ES/games/store/tempopo/9P6X0VL8BXZF/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.17131.14611568671300660.73a0b15a-ad16-44c9-912f-efb29c8c6716.4c98a12f-d160-4850-a10e-3c7343b53143?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
       ]
     },
     {
@@ -161,10 +195,32 @@
       ]
     },
     {
-      "name": "33 Immortals - APLAZADO",
-      "date": "2024-12-01",
-      "url": "https://www.xbox.com/es-es/games/store/33-immortals/9p8lr42ptrgj",
-      "cover": "https://store-images.s-microsoft.com/image/apps.62382.14090162823233215.2d39e9bd-f341-4d5f-9638-b1a6c75a4e3a.e3dc77b7-1e41-4d19-8a4d-67c246e4140c?q=90&w=177&h=265",
+      "name": "Revenge of the Savage Planet",
+      "date": "2025-05-08",
+      "url": "https://www.xbox.com/es-ES/games/store/revenge-of-the-savage-planet/9PFTV8DKNCHX/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.43456.14193793406606365.7a33f805-7165-46f9-ab58-04c1693918a1.b4529164-baab-4236-aa74-00ecae8a3a5c?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "DOOM: The Dark Ages",
+      "date": "2025-05-15",
+      "url": "https://www.xbox.com/es-ES/games/store/doom-the-dark-ages/9PH9X0760B0T/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.36928.14239344665439398.04b539f5-c7ac-488f-bc9a-5a5bf535ae56.da410194-0661-41e9-bbfd-632195b6ad49?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "to a T",
+      "date": "2025-05-28",
+      "url": "https://www.xbox.com/es-ES/games/store/to-a-t/9NM6NMBJ7ZK4/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.49116.13697941361368537.ef1cd539-f6c5-4b4a-a6a6-b9f16e466316.7eb60409-d634-479e-aecd-40d13da6e338?q=90&w=177&h=265",
       "platforms": [
         "xbox",
         "pc",
