@@ -521,6 +521,36 @@
         "xbox"
       ],
       "dateLeaving": "2025-02-23"
+    },
+    {
+      "name": "DRAGON BALL FIGHTERZ",
+      "date": "2025-02-27",
+      "url": "https://www.xbox.com/es-ES/games/store/dragon-ball-fighterz-xbox-series-xs-xbox-one/9P6HKH56D3DH/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.9822.14473450919754177.36bfcef2-add7-4018-80cf-3072fa4ee7a5.856a4326-630b-4c2e-8b5b-a9902b66d3b9?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-03-02"
+    },
+    {
+      "name": "Worms W.M.D",
+      "date": "2025-02-27",
+      "url": "https://www.xbox.com/es-ES/games/store/worms-wmd/C4BZ7X545J1T/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.33201.14392987906905288.5923f9b2-76cb-46e9-b75d-7e4a60763230.83bfeef4-08f4-41f3-8d49-ba845558d9fa?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-03-02"
+    },
+    {
+      "name": "CATAN® - Edición para consolas",
+      "date": "2025-02-27",
+      "url": "https://www.xbox.com/es-ES/games/store/catan-edicion-para-consolas/9PPMQ5R4F6WB/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.18523.14321522258952035.0bdbf2e3-3d9e-4997-92d8-7874c1432866.69d1b8a0-afe6-4f07-abce-a29565980c36?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-03-02"
     }
   ]
 }
