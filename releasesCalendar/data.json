@@ -1,126 +1,6 @@
 {
   "releaseGames": [
     {
-      "name": "Far Cry® New Dawn",
-      "date": "2025-02-04",
-      "url": "https://www.xbox.com/es-ES/games/store/far-cry-new-dawn/C1DDW4PRF6K5/0001",
-      "cover": "https://store-images.s-microsoft.com/image/apps.64306.64841033704503268.bc0de57e-6dcd-40b5-b35e-f9f46b4ec1ae.f10b3597-c0ec-428e-9266-d457abfd1d56?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Another Crab's Treasure (Standard)",
-      "date": "2025-02-06",
-      "url": "https://www.xbox.com/es-ES/games/store/another-crabs-treasure/9P97ZTRTH25W/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.38043.14077481160620630.1db41d01-0b54-4154-a1e1-f00cf31fab40.24f86361-82bb-4a28-89ae-12b9e3d32c1d?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Eiyuden Chronicle: Hundred Heroes (Standard)",
-      "date": "2025-02-06",
-      "url": "https://www.xbox.com/es-ES/games/store/eiyuden-chronicle-hundred-heroes/9N8Z1ZL33LM9/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.36865.13543256525081284.f15b7882-c55a-47fc-85b9-b14dab29de6d.c7080d3f-fad9-45bd-89c6-50faf1dda4e1?q=90&w=177&h=265",
-      "platforms": [
-        "pc",
-        "xbox",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Starfield (Standard)",
-      "date": "2025-02-06",
-      "url": "https://www.xbox.com/es-ES/games/store/starfield/9NCJSXWZTP88/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.35187.13567343664224659.1eb6fdf9-8a0b-4344-a135-ab17dfa3c609.c83b6d6a-56c3-4c3f-8b31-456cfb21c3b7?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "EA SPORTS™ Madden NFL 25",
-      "date": "2025-02-06",
-      "url": "https://www.xbox.com/es-ES/games/store/ea-sports-madden-nfl-25/9P1RKDK0R4CM/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.5026.14501589291225586.6490b323-f17e-4852-890a-00b81372cd06.95efa415-b6cb-4301-99ce-3444d653da97?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Kingdom Two Crowns",
-      "date": "2025-02-13",
-      "url": "https://www.xbox.com/es-ES/games/store/kingdom-two-crowns/BWT2GPVWCH2F/0001",
-      "cover": "https://store-images.s-microsoft.com/image/apps.50703.71673052342730938.755a1636-e311-4e76-b788-08cd89fc0781.6b300305-6096-42c6-a3b6-58256debb2ef?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Avowed",
-      "date": "2025-02-18",
-      "url": "https://www.xbox.com/es-es/games/store/avowed/9nhrdqvfpq34",
-      "cover": "https://store-images.s-microsoft.com/image/apps.63195.13624715126573049.35e3abd5-bd41-4efb-bc2a-0bfbdd50b02a.d3291934-3236-4279-91eb-792123046d1d?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "F1® 24",
-      "date": "2025-02-20",
-      "url": "https://www.xbox.com/es-ES/games/store/f1-24/9PLVVTDHS1P0/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.50353.14309904834888333.ae73f2e0-1ce2-4244-89ea-266904a2c24f.5618af1f-dffb-4612-9162-3835fca1105b?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Warhammer 40,000: Rogue Trader",
-      "date": "2025-02-20",
-      "url": "https://www.xbox.com/es-ES/games/store/warhammer-40000-rogue-trader/9P30BFHZ1BKN/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.20319.14552508636920197.1053512f-39a1-498b-9519-3c30a004cc0c.b6316910-9aec-491b-93bf-7caf6427f6f8?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Balatro",
-      "date": "2025-02-24",
-      "url": "https://www.xbox.com/es-ES/games/store/balatro/9PK087LNGJC5/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.51959.14272217582130616.02bf9982-d980-42d9-93e6-372b4b7e36d8.31c1e585-05c9-4f32-b695-4b900c913466?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Watch Dogs: Legion",
-      "date": "2025-02-25",
-      "url": "https://www.xbox.com/es-ES/games/store/watch-dogs-legion/C1WRX8ZD77M9/0001",
-      "cover": "https://store-images.s-microsoft.com/image/apps.18275.65664549497403424.a741b357-ecc5-4fa6-bfad-4f3a95f27506.87ae0e0d-537a-4730-a6bb-c2fbd19ae709?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
       "name": "33 Immortals",
       "date": "2025-03-18",
       "url": "https://www.xbox.com/es-es/games/store/33-immortals/9p8lr42ptrgj",
@@ -241,19 +121,20 @@
   ],
   "leavingGames": [
     {
-      "name": "EA SPORTS™ UFC® 3",
-      "date": "2025-02-15",
-      "url": "https://www.xbox.com/es-ES/games/store/ea-sports-ufc-3/C5DZH514BX37/0001",
-      "cover": "https://store-images.s-microsoft.com/image/apps.52912.67187354709168902.a3bedf41-e05c-46af-b28a-9001abece0fc.1a9b6265-15b9-4437-8521-8f033e3ffd86?q=90&w=177&h=265",
+      "name": "Evil West",
+      "date": "2025-03-15",
+      "url": "https://www.xbox.com/es-ES/games/store/evil-west/9MW581HCJPM6/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.3216.13846061471160003.d09c13c5-4528-4f33-bd5a-fe66269ec8fd.0ed53cb1-d412-40fa-aac1-dba6ec19baa2?q=90&w=177&h=265",
       "platforms": [
-        "xbox"
+        "xbox",
+        "cloud"
       ]
     },
     {
-      "name": "A Little to the Left",
-      "date": "2025-02-15",
-      "url": "https://www.xbox.com/es-ES/games/store/a-little-to-the-left/9NLDDF97GTJ0/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.47868.13709503452579203.2424d951-5f62-4cd0-816f-1d45c87c1dc3.66574724-828d-487e-8e65-165c5cc1eb6b?q=90&w=177&h=265",
+      "name": "Lies of P",
+      "date": "2025-03-15",
+      "url": "https://www.xbox.com/es-ES/games/store/lies-of-p/9PCM4CMTPPGC/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.8000.14167207133116460.47e9afed-5648-49f3-aa78-034a762fbc26.5d6dba1a-d04e-42aa-9dc2-9286e72dc007?q=90&w=177&h=265",
       "platforms": [
         "pc",
         "xbox",
@@ -261,72 +142,10 @@
       ]
     },
     {
-      "name": "Indivisible",
-      "date": "2025-02-15",
-      "url": "https://www.xbox.com/es-ES/games/store/indivisible/9NBFQMP69N1S/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.63328.13518299802182489.415b0b15-4103-48f5-9879-4173d1952a78.8be1c982-a3c4-49e9-ac60-96d77d29ce6e?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Merge And Blade",
-      "date": "2025-02-15",
-      "url": "https://www.xbox.com/es-ES/games/store/merge-and-blade/9NW2XNZLVSWW/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.4970.14453287039354162.0e8e83c6-3769-4771-93f6-cee431e621af.f43d5e4e-d2c5-4326-a479-6cbca25d2c2d?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Bloodstained: Ritual of the Night",
-      "date": "2025-02-15",
-      "url": "https://www.xbox.com/es-ES/games/store/bloodstained-ritual-of-the-night/9P9K78101LCW/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.45941.14137419244138722.f07799c6-0422-4b95-85fb-398644565f05.8a35e718-3ad9-4324-b7ad-b44d550be6c2?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Return to Grace",
-      "date": "2025-02-15",
-      "url": "https://www.xbox.com/es-ES/games/store/return-to-grace/9MWZF0Q94B8L/0010",
-      "cover": "https://cdn1.epicgames.com/spt-assets/91096c8b7e764f01b45f61a0085bcd70/return-to-grace-pr92f.png",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Tales of Arise",
-      "date": "2025-02-15",
-      "url": "https://www.xbox.com/es-ES/games/store/tales-of-arise-cross-gen-bundle/9P91PLSLZBKW/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.47115.14081631992999838.6dc7fc39-f6e6-406a-be10-6a7a6d6e385f.0d1d0707-ae05-4ffb-bd0d-ff339ea064e5?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Madden NFL 23",
-      "date": "2025-02-15",
-      "url": "https://www.xbox.com/es-es/games/store/madden-nfl-23-para-xbox-series-x-s/9mzkw7qmxqrv",
-      "cover": "https://store-images.s-microsoft.com/image/apps.49043.13868426082182035.3116c0c2-bfa0-4232-a075-4d14ba5adfab.2d97666d-7568-4acf-871d-43ef6dd7376c?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "Gris",
-      "date": "2025-02-28",
-      "url": "https://www.xbox.com/es-ES/games/store/gris/9NHHP2H0ZP98/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.47826.13625693263060421.b5379d86-b985-4508-ad2a-8af4b40a9fcd.d94da6c9-4a9d-4b6f-bad7-b0fe27da32bb?q=90&w=177&h=265",
+      "name": "MLB® The Show™ 24 Xbox Series X|S",
+      "date": "2025-03-15",
+      "url": "https://www.xbox.com/es-ES/games/store/mlb-the-show-24-xbox-series-xs/9NM9V6FQXPDX/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.39476.13691248272459999.23fbca09-c2a4-4550-91ae-aec0b12f6b7c.0b5623d6-3864-44bc-8e16-f9b5f5728c27?q=90&w=177&h=265",
       "platforms": [
         "pc",
         "xbox",
@@ -334,10 +153,10 @@
       ]
     },
     {
-      "name": "Maneater",
-      "date": "2025-02-28",
-      "url": "https://www.xbox.com/es-ES/games/store/maneater/9P5B81KVDGP1/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.57648.14572536018362984.944e7368-3c2f-4b4e-8072-fe5da70a10fa.d746edf2-6869-4be5-8fbe-30005b4db753?q=90&w=177&h=265",
+      "name": "No More Heroes 3",
+      "date": "2025-03-15",
+      "url": "https://www.xbox.com/es-ES/games/store/no-more-heroes-3-xbox/9MTT1TCW9TGL/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.33454.13802072362857605.e389833a-23a0-44ff-af5c-2f9c973f408b.cb2caef1-1328-42b9-92ba-bc1c21a7ff56?q=90&w=177&h=265",
       "platforms": [
         "pc",
         "xbox",
@@ -345,78 +164,46 @@
       ]
     },
     {
-      "name": "La Patrulla Canina: Grand Prix",
-      "date": "2025-02-28",
-      "url": "https://www.xbox.com/es-ES/games/store/la-patrulla-canina-grand-prix/9MWBT3HFCZ3Z/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.56160.13842132658396836.fba80705-9bc9-45ad-84f9-621f75fe99ec.d269763f-fe3d-45ba-bdc7-d8c48ba279be?q=90&w=177&h=265",
+      "name": "Solar Ash",
+      "date": "2025-03-15",
+      "url": "https://www.xbox.com/es-ES/games/store/solar-ash/9NWLPG23T46V/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.21358.14447139401506273.b065025b-66d2-462a-858d-58dcc2dcb52b.75065771-5e4f-42eb-8cac-50c2b863c18c?q=90&w=177&h=265",
       "platforms": [
         "pc",
-        "xbox"
-      ]
-    },
-    {
-      "name": "Space Engineers",
-      "date": "2025-02-28",
-      "url": "https://www.xbox.com/es-ES/games/store/space-engineers/9NLV3X229LG1/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.2125.13700230312728802.7afc83a6-4afb-4b07-84b4-f40e24213a93.e3658258-be2f-4317-81c1-7f3e8dd2eaa6?q=90&w=177&h=265",
-      "platforms": [
         "xbox",
-        "pc",
         "cloud"
       ]
     },
     {
-      "name": "Warhammer 40,000: Boltgun",
-      "date": "2025-02-28",
-      "url": "https://www.xbox.com/es-ES/games/store/warhammer-40000-boltgun/9NP77PLZ7B3R/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.54424.13723933157550422.dd3f6d8d-3fe0-4721-8bd9-d3c3d678a239.489ad73f-c5c6-454d-b0a5-e67ac40478bc?q=90&w=177&h=265",
+      "name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+      "date": "2025-03-15",
+      "url": "https://www.xbox.com/es-ES/games/store/spongebob-squarepants-battle-for-bikini-bottom-rehydrated/C35S5BRNWL70/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.40222.66394081637378885.1b8eef28-f559-4464-8156-41c72b4e0e9e.d6077298-f9c6-4b9e-bde6-f500ee9f43f6?q=90&w=177&h=265",
       "platforms": [
-        "xbox",
         "pc",
+        "xbox",
         "cloud"
       ]
     },
     {
-      "name": "Wo Long: Fallen Dynasty",
-      "date": "2025-02-28",
-      "url": "https://www.xbox.com/es-ES/games/store/wo-long-fallen-dynasty/9N9X9PC8V9CP/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.35756.13524128328401524.c8089ad9-5e75-4246-83e8-2dac88f04afd.c15772fe-d979-45ea-8d13-c81c5a30e4fa?q=90&w=177&h=265",
+      "name": "Yakuza 5 Remastered",
+      "date": "2025-03-15",
+      "url": "https://www.xbox.com/es-ES/games/store/yakuza-5-remastered/9NK23S9XBMZ6/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.59835.13665499948454255.6c2e1d5c-1a06-4839-a773-4e814ef1ff4b.5c7bcc07-4aa6-4f29-b669-bb449005db87?q=90&w=177&h=265",
       "platforms": [
-        "xbox",
         "pc",
+        "xbox",
         "cloud"
       ]
     },
     {
-      "name": "Yakuza 3 Remastered",
-      "date": "2025-02-28",
-      "url": "https://www.xbox.com/es-ES/games/store/yakuza-3-remastered/9N3460XCS8BC/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.6666.13944201124915616.56f9bc1a-1a43-4af0-bfb0-126636850d84.622e65ed-9e9a-4804-ae89-64a6658f62b4?q=90&w=177&h=265",
+      "name": "Yakuza 6: The Song of Life",
+      "date": "2025-03-15",
+      "url": "https://www.xbox.com/es-ES/games/store/yakuza-6-the-song-of-life/9NK3ZFC5R579/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.35261.13668783294084992.4ad59615-2917-47b4-88c2-a829ef88fc9d.c9bdcfa5-d65c-4dce-92c5-b4512ee75c8c?q=90&w=177&h=265",
       "platforms": [
-        "xbox",
         "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Yakuza 4 Remastered",
-      "date": "2025-02-28",
-      "url": "https://www.xbox.com/es-ES/games/store/yakuza-4-remastered/9NXFD44B98P4/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.25410.14426508489866901.a44eacfe-7e1e-495c-8aa4-17ccfbaa45e8.e3b34550-55d2-4917-943d-57077cd31b38?q=90&w=177&h=265",
-      "platforms": [
         "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "F1® 22",
-      "date": "2025-02-28",
-      "url": "https://www.xbox.com/es-ES/games/store/f1-22/9NLG03K3M699/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.44611.13712618436756864.94eb27d6-0bef-4070-b8b2-4c933520ec2d.4a3352fd-2642-4212-88e2-0b678fc52b7e?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
         "cloud"
       ]
     }
@@ -441,116 +228,6 @@
         "xbox"
       ],
       "dateLeaving": "2025-02-09"
-    },
-    {
-      "name": "Ninja Turtles: Mutantes Desencadenados (Prueba de 2h)",
-      "date": "2025-02-06",
-      "url": "https://www.xbox.com/es-ES/games/store/ninja-turtles-mutantes-desencadenados/9P27ZX0DH2JN/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.42181.14562706045768227.d2247107-35cd-40b8-84cc-fe1ac03a1696.b9a1ed75-d127-47b2-badf-8d5d71b548f6?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ],
-      "dateLeaving": "2025-02-09"
-    },
-    {
-      "name": "Dying Light",
-      "date": "2025-02-13",
-      "url": "https://www.xbox.com/es-ES/games/store/dying-light/BXN9LB6R3ZPG",
-      "cover": "https://store-images.s-microsoft.com/image/apps.9965.63224705253913975.ec4ce281-2139-4076-9dc9-733fe2b0602b.874ffd2d-23b2-4ad5-8627-6281fe7e8b60?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ],
-      "dateLeaving": "2025-02-16"
-    },
-    {
-      "name": "NHL 25",
-      "date": "2025-02-13",
-      "url": "https://www.xbox.com/es-es/games/store/nhl-25-para-xbox-series-x-s/9pg1blktsnzc",
-      "cover": "https://store-images.s-microsoft.com/image/apps.57603.14189822458779542.0c8cf98e-4326-4f8f-a295-c03200278e9a.64973985-d453-4e1d-b44b-2a8f852e7c84?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ],
-      "dateLeaving": "2025-02-16"
-    },
-    {
-      "name": "Jujutsu Kaisen Cursed Clash",
-      "date": "2025-02-13",
-      "url": "https://www.xbox.com/es-es/games/store/jujutsu-kaisen-cursed-clash/9n1t03q2j6nh",
-      "cover": "https://store-images.s-microsoft.com/image/apps.36584.13965211066101112.5461a737-b473-4ef5-94c7-1976f473c1c1.b0516656-69bd-4b69-85e5-5b68118b6be9?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ],
-      "dateLeaving": "2025-02-16"
-    },
-    {
-      "name": "For the King",
-      "date": "2025-02-13",
-      "url": "https://www.xbox.com/es-es/games/store/for-the-king/bp2bw45wz45z",
-      "cover": "https://store-images.s-microsoft.com/image/apps.16651.67711513064732812.145475d0-7ca9-46cd-80c8-14a5857a18e2.cd24e81c-f3aa-449d-a3ab-7127f9227ba3?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ],
-      "dateLeaving": "2025-02-16"
-    },
-    {
-      "name": "New World: Aeternum",
-      "date": "2025-02-20",
-      "url": "https://www.xbox.com/es-ES/games/store/new-world-aeternum/9NPZJNVGHZ3P/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.31298.13779670507733868.553a8c43-04f1-49e7-b5ce-dff72a93cd73.e8c0dd0b-05c5-42ef-bc74-b236b5507903?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ],
-      "dateLeaving": "2025-02-23"
-    },
-    {
-      "name": "ONE PIECE: PIRATE WARRIORS 4",
-      "date": "2025-02-20",
-      "url": "https://www.xbox.com/es-ES/games/store/one-piece-pirate-warriors-4xbox-one/9N6HB778ZWP2/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.40996.14013874404154427.01749ccd-5277-41b8-9db6-ca15905ced80.5bcb6487-9d71-4a2b-8871-73713b3237b8?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ],
-      "dateLeaving": "2025-02-23"
-    },
-    {
-      "name": "DRAGON BALL XENOVERSE 2",
-      "date": "2025-02-20",
-      "url": "https://www.xbox.com/es-ES/games/store/dragon-ball-xenoverse-2/BX03760D0QGN/0001",
-      "cover": "https://store-images.s-microsoft.com/image/apps.32513.63336639312113079.ceb7d6d9-5c03-4721-ab3f-09019902f961.e4eb532e-0d8b-41c0-ac6a-dbeb6ff4e9dd?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ],
-      "dateLeaving": "2025-02-23"
-    },
-    {
-      "name": "DRAGON BALL FIGHTERZ",
-      "date": "2025-02-27",
-      "url": "https://www.xbox.com/es-ES/games/store/dragon-ball-fighterz-xbox-series-xs-xbox-one/9P6HKH56D3DH/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.9822.14473450919754177.36bfcef2-add7-4018-80cf-3072fa4ee7a5.856a4326-630b-4c2e-8b5b-a9902b66d3b9?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ],
-      "dateLeaving": "2025-03-02"
-    },
-    {
-      "name": "Worms W.M.D",
-      "date": "2025-02-27",
-      "url": "https://www.xbox.com/es-ES/games/store/worms-wmd/C4BZ7X545J1T/0001",
-      "cover": "https://store-images.s-microsoft.com/image/apps.33201.14392987906905288.5923f9b2-76cb-46e9-b75d-7e4a60763230.83bfeef4-08f4-41f3-8d49-ba845558d9fa?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ],
-      "dateLeaving": "2025-03-02"
-    },
-    {
-      "name": "CATAN® - Edición para consolas",
-      "date": "2025-02-27",
-      "url": "https://www.xbox.com/es-ES/games/store/catan-edicion-para-consolas/9PPMQ5R4F6WB/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.18523.14321522258952035.0bdbf2e3-3d9e-4997-92d8-7874c1432866.69d1b8a0-afe6-4f07-abce-a29565980c36?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ],
-      "dateLeaving": "2025-03-02"
     }
   ]
 }
