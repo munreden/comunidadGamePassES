@@ -1,6 +1,60 @@
 {
   "releaseGames": [
     {
+      "name": "Monster Train",
+      "date": "2025-03-04",
+      "url": "https://www.xbox.com/es-ES/games/store/monster-train/9NP4BGBLLLXM/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.43919.13730273714404372.ea561b73-8f7b-40a2-b473-ec2ebf0c6300.dc3d6ec4-0b1f-4f01-a975-533226a28eba?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Galacticare",
+      "date": "2025-03-05",
+      "url": "https://www.xbox.com/es-ES/games/store/galacticare/9PB14LD018SM/0010",
+      "cover": "https://cdn2.steamgriddb.com/thumb/5199bad961e5ebb8dbe180e4ea2f7315.jpg",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "One Lonely Outpost",
+      "date": "2025-03-06",
+      "url": "https://store.steampowered.com/app/1465550/One_Lonely_Outpost/",
+      "cover": "https://store-images.s-microsoft.com/image/apps.6809.14386747429437638.791d1c7a-8369-4641-ba60-85ed9e2fcfcf.797569df-97b0-4737-8446-cf7b29e248be?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Enter The Gungeon",
+      "date": "2025-03-11",
+      "url": "https://www.xbox.com/es-ES/games/store/enter-the-gungeon/9NB65S6LFZRT/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.13557.13523638002129104.cc876367-b7e1-4567-bb7d-ed2e240c0376.06accfbe-2a57-4ecc-b2e4-15061b6eb1cf?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc"
+      ]
+    },
+    {
+      "name": "Mullet Madjack",
+      "date": "2025-03-13",
+      "url": "https://store.steampowered.com/app/2111190/MULLET_MADJACK/",
+      "cover": "https://cdn2.steamgriddb.com/thumb/a96f2d56395f014a116bc42cfd8a8897.jpg",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
       "name": "33 Immortals",
       "date": "2025-03-18",
       "url": "https://www.xbox.com/es-es/games/store/33-immortals/9p8lr42ptrgj",
