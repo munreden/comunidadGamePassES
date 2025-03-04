@@ -15,7 +15,7 @@
       "name": "Galacticare (Standard)",
       "date": "2025-03-05",
       "url": "https://www.xbox.com/es-ES/games/store/galacticare/9PB14LD018SM/0010",
-      "cover": "https://cdn2.steamgriddb.com/thumb/5199bad961e5ebb8dbe180e4ea2f7315.jpg",
+      "cover": "https://store-images.s-microsoft.com/image/apps.32485.14128015953067804.05ced0c1-bfbb-4adb-8b40-8c27d6023343.f92b79b4-1eb6-4ef5-9277-e784747e0c48?q=90&w=177&h=265",
       "platforms": [
         "xbox",
         "pc",
@@ -166,6 +166,17 @@
       "date": "2025-05-28",
       "url": "https://www.xbox.com/es-ES/games/store/to-a-t/9NM6NMBJ7ZK4/0010",
       "cover": "https://store-images.s-microsoft.com/image/apps.49116.13697941361368537.ef1cd539-f6c5-4b4a-a6a6-b9f16e466316.7eb60409-d634-479e-aecd-40d13da6e338?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Tony Hawk's™ Pro Skater™ 3 + 4",
+      "date": "2025-07-11",
+      "url": "https://www.xbox.com/es-ES/games/store/tony-hawks-pro-skater-3-4/9N1WK33QNSRJ/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.40.13968131629601189.02100553-7fb7-4f1a-b080-6b3ac33c153c.fb963dfe-c59b-4477-a990-9b6f76e653bb?q=90&w=177&h=265",
       "platforms": [
         "xbox",
         "pc",
