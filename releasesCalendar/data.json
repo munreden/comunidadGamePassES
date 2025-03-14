@@ -313,6 +313,36 @@
         "xbox"
       ],
       "dateLeaving": "2025-03-09"
+    },
+    {
+      "name": "The Elder Scrolls® Online",
+      "date": "2025-03-13",
+      "url": "https://www.xbox.com/es-ES/games/store/the-elder-scrolls-online/BRKX5CRMRTC2/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.39432.69742768075920623.e6c8e1ee-e782-4002-bca6-916e5cd2f37c.a4150190-c96d-421a-9fad-c4bbdcda6f45?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-03-16"
+    },
+    {
+      "name": "Unknown 9: Awakening (Prueba de 2h)",
+      "date": "2025-03-13",
+      "url": "https://www.xbox.com/es-ES/games/store/unknown-9-awakening/9P486ZCVT126/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.65281.14593314152590233.92e206fa-f4d4-4c06-8035-b143ecb39a7c.79476c7d-09a9-4207-928e-1c9f12f28f4a?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-03-16"
+    },
+    {
+      "name": "Session: Skate Sim",
+      "date": "2025-03-13",
+      "url": "https://www.xbox.com/es-ES/games/store/session-skate-sim/9N67P5D62MWZ/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.18944.14023280891839684.0f8e5f89-cd95-4da5-bf09-09d2876fb1c6.ef3f5108-0fc5-49f4-a248-b930cc9e23fc?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-03-16"
     }
   ]
 }
