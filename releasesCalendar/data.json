@@ -282,6 +282,111 @@
         "xbox",
         "cloud"
       ]
+    },
+    {
+      "name": "Yakuza 0",
+      "date": "2025-03-31",
+      "url": "https://www.xbox.com/es-ES/games/store/yakuza-0/9NPP17LHJ3MK/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.39148.13785223586843168.612c6166-3afd-413c-9b13-549ae975f01e.46f67620-4620-489b-bde4-c32435480914?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Yakuza Kiwami",
+      "date": "2025-03-31",
+      "url": "https://www.xbox.com/es-ES/games/store/yakuza-kiwami/9NBJ51BD0LTH/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.1755.13512592555926242.4f764cb5-1ca8-4601-9f0f-fd3d82976ea7.f6274c26-a75d-456d-92d8-83a119bc0bf3?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Yakuza Kiwami 2",
+      "date": "2025-03-31",
+      "url": "https://www.xbox.com/es-ES/games/store/yakuza-kiwami-2/9PBJL0NLFMK9/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.61649.14117812508694764.cd76a3cb-9c02-4790-93a0-eae298c80bb7.d08525d7-5788-4ef8-b8dd-bb2c607cc479?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Yakuza: Like a Dragon",
+      "date": "2025-03-31",
+      "url": "https://www.xbox.com/es-ES/games/store/yakuza-like-a-dragon/9NXCSWCQTNFG/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.38127.14427542363794747.182f58ca-3a24-4a65-93bd-cdd320a35776.aa29ae9b-d910-4213-984c-6e3c5dd828f3?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Monster Hunter Rise",
+      "date": "2025-03-31",
+      "url": "https://www.xbox.com/es-ES/games/store/monster-hunter-rise/9N1VP8WDQK4D/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.51280.13964127228191263.1e380cc1-7db3-433f-a0fb-1cfb65b83ff5.747065d8-5e9e-4f9c-a940-ee3c72e6da1c?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "The Lamplighters League",
+      "date": "2025-03-31",
+      "url": "https://www.xbox.com/es-ES/games/store/the-lamplighters-league/9N4CPQ4R2180/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.29529.13989848767153971.d9883b2d-9c9f-4a6b-a428-79077baa13d7.01cbd85d-7daa-4a4b-81ad-fe4cb8ac59e3?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "MLB® The Show™ 24",
+      "date": "2025-03-31",
+      "url": "https://www.xbox.com/es-ES/games/store/mlb-the-show-24-xbox-series-xs/9NM9V6FQXPDX/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.39476.13691248272459999.23fbca09-c2a4-4550-91ae-aec0b12f6b7c.0b5623d6-3864-44bc-8e16-f9b5f5728c27?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Lil Gator Game",
+      "date": "2025-03-31",
+      "url": "https://www.xbox.com/es-ES/games/store/lil-gator-game/9N4FHWK9HWDK/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.55498.13988697165671034.93a854a2-fda8-401c-b449-b344b289e811.bda77767-51ca-4dfa-91cf-f724ab9077ca?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Open Roads",
+      "date": "2025-03-31",
+      "url": "https://www.xbox.com/es-ES/games/store/open-roads/9NRRSLCGR62S/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.27918.14377662572858195.0cf67274-c7f3-43bc-8b24-87daf93a0fac.1a12356d-b336-42c8-ab57-69bdd6fb2354?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "HOT WHEELS UNLEASHED™ 2 - Turbocharged",
+      "date": "2025-03-31",
+      "url": "https://www.xbox.com/es-ES/games/store/hot-wheels-unleashed-2-turbocharged/9MWDKL3SD6D9/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.46727.13840950600028206.a6c7ff57-33c0-43b9-9c1e-32120e1b8c8d.19c69b53-3044-443b-86fd-02e19fb3ad09?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
     }
   ],
   "freePlayDays": [
