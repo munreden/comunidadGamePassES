@@ -459,6 +459,46 @@
         "xbox"
       ],
       "dateLeaving": "2025-03-16"
+    },
+    {
+      "name": "Bassmaster® Fishing",
+      "date": "2025-03-20",
+      "url": "https://www.xbox.com/es-ES/games/store/bassmaster-fishing/9MTTMQ6WSDP8/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.36911.13801370712672953.2d024847-30c1-486a-b9bf-1d36e598b349.e4b2efdd-f97c-43a8-9426-fce8b456edbb?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-03-23"
+    },
+    {
+      "name": "Shin Megami Tensei V: Vengeance",
+      "date": "2025-03-20",
+      "url": "https://www.xbox.com/es-ES/games/store/shin-megami-tensei-v-vengeance/9PF2Q5NMRDQF/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.41566.14213371131590382.1c1c25ff-af1f-4e23-8f18-bc87b2f0f3ed.50f0c3aa-b044-463d-9414-0c22bbcb1314?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-03-23"
+    },
+    {
+      "name": "Thief Simulator",
+      "date": "2025-03-20",
+      "url": "https://www.xbox.com/es-ES/games/store/thief-simulator/9N4ZQPM20W8F/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.24126.13973652642682766.d6bf1132-6418-4785-ac44-4b1532523e39.abbd2e1e-e2a5-4902-be6e-3ff933d55427?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-03-23"
+    },
+    {
+      "name": "Warhammer 40,000: Inquisitor - Martyr Ultimate Edition",
+      "date": "2025-03-20",
+      "url": "https://www.xbox.com/es-ES/games/store/warhammer-40000-inquisitor-martyr-ultimate-edition/9P9V76PL4FQC/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.352.14131239362371028.581b2559-6382-440f-9488-8ce3323c5f03.f2f46f04-b33e-4c4a-829b-11133c40fba5?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-03-23"
     }
   ]
 }
