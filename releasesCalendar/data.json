@@ -509,6 +509,57 @@
         "xbox"
       ],
       "dateLeaving": "2025-03-23"
+    },
+    {
+      "name": "Blindfire (Game Preview)",
+      "date": "2025-03-27",
+      "url": "https://www.xbox.com/es-ES/games/store/blindfire-game-preview/9NR81PCSLLB6/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.13872.14387661152692909.2b841396-4179-438f-8753-79d6d3f48839.06dfe571-845e-44b6-9abc-8df3f89cf64d?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-03-30"
+    },
+    {
+      "name": "Big Helmet Heroes",
+      "date": "2025-03-27",
+      "url": "https://www.xbox.com/es-ES/games/store/big-helmet-heroes/9N6JFWVMM7CM/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.44646.14013102022440310.f9acf2cf-ee9c-41cb-a346-112bb3506493.c6dd6527-c1a6-4435-a6ea-9a8a3ccd283b?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-03-30"
+    },
+    {
+      "name": "Make Way",
+      "date": "2025-03-27",
+      "url": "https://www.xbox.com/es-ES/games/store/make-way/9PLH1D2V949F/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.40928.14313280471766564.676c9f72-0f30-4cc1-9d40-55eae555239e.27928ca0-1419-4142-ae3e-6c98f0f87f53?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-03-30"
+    },
+    {
+      "name": "City Transport Simulator: Tram",
+      "date": "2025-03-27",
+      "url": "https://www.xbox.com/es-ES/games/store/city-transport-simulator-tram/9NTGSM7V7VBM/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.17541.14414568539965192.28e43d73-061b-45da-985a-5f47a6057635.43f0b664-49ef-46ef-adab-359987366f92?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox"
+      ],
+      "dateLeaving": "2025-03-30"
+    },
+    {
+      "name": "TIEBREAK: Official game of the ATP and WTA",
+      "date": "2025-03-27",
+      "url": "https://www.xbox.com/es-ES/games/store/tiebreak-official-game-of-the-atp-and-wta/9N9BVHQCC13T/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.1944.13540174811688360.d33d0687-3ede-4d1a-8765-1f15b0123b43.0e10b07c-914b-4f85-bc5b-95f5df1fddde?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-03-30"
     }
   ]
 }
