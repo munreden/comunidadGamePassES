@@ -198,25 +198,46 @@
   ],
   "freePlayDays": [
     {
-      "name": "City Transport Simulator: Tram",
-      "date": "2025-03-27",
-      "url": "https://www.xbox.com/es-ES/games/store/city-transport-simulator-tram/9NTGSM7V7VBM/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.17541.14414568539965192.28e43d73-061b-45da-985a-5f47a6057635.43f0b664-49ef-46ef-adab-359987366f92?q=90&w=177&h=265",
+      "name": "Age of Wonders 4",
+      "date": "2025-04-03",
+      "url": "https://www.xbox.com/es-ES/games/store/age-of-wonders-4/9NW6LB2HXH17/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.44302.14455012292951382.a6f7f48d-bf80-4c25-ad2c-ed5398d13884.c3430a8b-2a63-40d9-84f9-1fbe59f23249?q=90&w=177&h=265",
       "platforms": [
-        "pc",
         "xbox"
       ],
-      "dateLeaving": "2025-03-30"
+      "dateLeaving": "2025-04-06"
     },
     {
-      "name": "TIEBREAK: Official game of the ATP and WTA",
-      "date": "2025-03-27",
-      "url": "https://www.xbox.com/es-ES/games/store/tiebreak-official-game-of-the-atp-and-wta/9N9BVHQCC13T/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.1944.13540174811688360.d33d0687-3ede-4d1a-8765-1f15b0123b43.0e10b07c-914b-4f85-bc5b-95f5df1fddde?q=90&w=177&h=265",
+      "name": "Dead by Daylight",
+      "date": "2025-04-03",
+      "url": "https://www.xbox.com/es-ES/games/store/dead-by-daylight/C0N22P73QZ60/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.16719.64366672042187759.733004ed-c696-44cf-98cc-30eddf2375a8.3dd6c96e-e0c3-4a0b-aeb0-810f815a6d37?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
+      ],
+      "dateLeaving": "2025-04-06"
+    },
+    {
+      "name": "CATAN® - Edición para consolas",
+      "date": "2025-04-03",
+      "url": "https://www.xbox.com/es-ES/games/store/catan-edicion-para-consolas/9PPMQ5R4F6WB/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.18523.14321522258952035.0bdbf2e3-3d9e-4997-92d8-7874c1432866.69d1b8a0-afe6-4f07-abce-a29565980c36?q=90&w=177&h=265",
       "platforms": [
         "xbox"
       ],
-      "dateLeaving": "2025-03-30"
+      "dateLeaving": "2025-04-06"
+    },
+    {
+      "name": "EVERSPACE™ 2",
+      "date": "2025-04-03",
+      "url": "https://www.xbox.com/es-ES/games/store/everspace-2/9PFX7F33KVG8/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.811.14196602045405435.162a3492-f482-45e9-8022-a849e99a6850.c224c09d-43b3-43fb-acac-a163ad2e3144?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc"
+      ],
+      "dateLeaving": "2025-04-06"
     }
   ]
 }
