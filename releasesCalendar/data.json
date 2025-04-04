@@ -54,6 +54,17 @@
       ]
     },
     {
+      "name": "Grand Theft Auto V",
+      "date": "2025-04-15",
+      "url": "https://www.xbox.com/es-ES/games/store/grand-theft-auto-v-xbox-series-xs/9NXMBTB02ZSF/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.25111.14492969036550054.5a1d40f5-fe0d-427a-bd14-9a9ed15a423c.410d0e83-5cb1-4536-b501-0044d6e3f1a0?q=90&w=177&h=265",
+      "platforms": [
+          "xbox",
+          "pc",
+          "cloud"
+      ]
+    },
+    {
       "name": "Tempopo",
       "date": "2025-04-17",
       "url": "https://www.xbox.com/es-ES/games/store/tempopo/9P6X0VL8BXZF/0010",
