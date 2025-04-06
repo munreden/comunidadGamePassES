@@ -45,6 +45,17 @@
       ]
     },
     {
+      "name": "NHL 25",
+      "date": "2025-04-10",
+      "url": "https://www.xbox.com/es-ES/games/store/nhl-25-para-xbox-series-xs/9PB3GGBSG27C/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.24761.14126797277715794.df83955a-9b36-4f4a-a5f3-294738bfc10c.98934944-ccff-42ee-b971-2a3c30eb344c?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
       "name": "Hunt: Showdown 1896",
       "date": "2025-04-15",
       "url": "https://www.xbox.com/es-ES/games/store/hunt-showdown-1896/9NPRV0R4CS1Z/0010",
