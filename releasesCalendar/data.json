@@ -70,9 +70,9 @@
       "url": "https://www.xbox.com/es-ES/games/store/grand-theft-auto-v-xbox-series-xs/9NXMBTB02ZSF/0010",
       "cover": "https://store-images.s-microsoft.com/image/apps.25111.14492969036550054.5a1d40f5-fe0d-427a-bd14-9a9ed15a423c.410d0e83-5cb1-4536-b501-0044d6e3f1a0?q=90&w=177&h=265",
       "platforms": [
-          "xbox",
-          "pc",
-          "cloud"
+        "xbox",
+        "pc",
+        "cloud"
       ]
     },
     {
@@ -260,6 +260,26 @@
         "pc"
       ],
       "dateLeaving": "2025-04-06"
+    },
+    {
+      "name": "Moving Out 2",
+      "date": "2025-04-10",
+      "url": "http://www.xbox.com/es-ES/games/store/moving-out-2/9P88K6NQW12H/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.52583.14092419520193072.64e53d99-3172-4ca7-856b-dd313b69b944.e83589b5-de0e-470f-80a6-21ea4709fe39?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-04-13"
+    },
+    {
+      "name": "Crime Boss: Rockay City",
+      "date": "2025-04-10",
+      "url": "http://www.xbox.com/es-ES/games/store/crime-boss-rockay-city/9P4KF63WK5P9/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.57810.14591636857132348.6b939bdc-1357-4e20-b5ba-a9b8ef7eb22e.ccf02e1d-5db4-4708-8df9-8baf5c73b39f?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-04-13"
     }
   ]
 }
