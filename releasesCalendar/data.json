@@ -76,11 +76,11 @@
       ]
     },
     {
-    "name": "Bob Esponja™: El juego de Patricio Estrella",
-    "date": "2025-04-16",
-    "url": "http://www.xbox.com/es-ES/games/store/bob-esponja-el-juego-de-patricio-estrella/9NMF3KXT4P4G/0010",
-    "cover": "https://store-images.s-microsoft.com/image/apps.35825.13693791237026157.09e8a036-c744-4547-90d5-fc6ca5c6b906.9edad8ae-3adb-4904-8fab-f98debc2cee3?q=90&w=177&h=265",
-    "platforms": [
+      "name": "Bob Esponja™: El juego de Patricio Estrella",
+      "date": "2025-04-16",
+      "url": "http://www.xbox.com/es-ES/games/store/bob-esponja-el-juego-de-patricio-estrella/9NMF3KXT4P4G/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.35825.13693791237026157.09e8a036-c744-4547-90d5-fc6ca5c6b906.9edad8ae-3adb-4904-8fab-f98debc2cee3?q=90&w=177&h=265",
+      "platforms": [
         "pc",
         "xbox",
         "cloud"
@@ -98,11 +98,11 @@
       ]
     },
     {
-    "name": "Crime Scene Cleaner",
-    "date": "2025-04-17",
-    "url": "http://www.xbox.com/es-ES/games/store/crime-scene-cleaner/9NGZ1M3N98P2/0010",      
-    "cover": "https://store-images.s-microsoft.com/image/apps.62899.13641013102004887.bf107aae-94c4-457f-a84e-5bd21f71f809.e0e97ecd-de05-428b-8a35-d2cc77d7e574?q=90&w=177&h=265",
-    "platforms": [
+      "name": "Crime Scene Cleaner",
+      "date": "2025-04-17",
+      "url": "http://www.xbox.com/es-ES/games/store/crime-scene-cleaner/9NGZ1M3N98P2/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.62899.13641013102004887.bf107aae-94c4-457f-a84e-5bd21f71f809.e0e97ecd-de05-428b-8a35-d2cc77d7e574?q=90&w=177&h=265",
+      "platforms": [
         "xbox",
         "pc",
         "cloud"
@@ -115,6 +115,34 @@
       "cover": "https://store-images.s-microsoft.com/image/apps.21528.14322280443288156.36e7f1cd-07a6-4e2a-a35d-485380706ab1.bbf3d2d5-bb2b-4714-88bf-967e8cc6993b?q=90&w=177&h=265",
       "platforms": [
         "pc",
+        "xbox"
+      ]
+    },
+    {
+      "name": "Towerborne (Game Preview)",
+      "date": "2025-04-29",
+      "url": "http://www.xbox.com/es-ES/games/store/towerborne-game-preview/9P7TLX79S7N7/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.56718.14100945740468620.f7c55d6b-e535-4591-a835-7fa6ffedcc1f.4228e448-8f56-4942-9990-6ab20594e17d?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc"
+      ]
+    },
+    {
+      "name": "Far Cry® 4",
+      "date": "2025-04-30",
+      "url": "http://www.xbox.com/es-ES/games/store/far-cry-4/C0KJ40T9QD86/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.39188.64350501736896385.0158164c-9008-42ec-b99b-4d15df40e65a.c322e570-1422-4839-8a7b-3f9929e6b649?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Call of Duty®: Modern Warfare® II - Lote Multigeneración",
+      "date": "2025-05-01",
+      "url": "http://www.xbox.com/es-ES/games/store/call-of-duty-modern-warfare-ii-lote-multigeneracion/9PFMF665QXL2/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.49990.14197948149887241.6dd82d18-0e13-431d-a3fb-1f0de64c433d.05617643-5bed-4178-994d-b1f2d6f0409d?q=90&w=177&h=265",
+      "platforms": [
         "xbox"
       ]
     },
@@ -397,6 +425,26 @@
         "xbox"
       ],
       "dateLeaving": "2025-04-13"
+    },
+    {
+      "name": "NBA 2K25 Edición Estándar",
+      "date": "2025-04-17",
+      "url": "http://www.xbox.com/es-ES/games/store/nba-2k25-edicion-estandar/9PL2XQ4GF10R/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.17984.14250775457519092.f33de21f-07ee-4aaf-a0c4-413615c9c9f0.e0fa7993-a5bd-4036-a403-6db666315d8b?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-04-20"
+    },
+    {
+      "name": "Skull and Bones",
+      "date": "2025-04-17",
+      "url": "http://www.xbox.com/es-ES/games/store/skull-and-bones/BXF9VWKCD6QW/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.4282.63081064281400272.22dc605b-57df-47ca-ae17-888c5e63e437.718dae96-63c6-4795-be26-ea0a395fdd73?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-04-20"
     }
   ]
 }
