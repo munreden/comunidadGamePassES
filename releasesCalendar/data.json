@@ -76,11 +76,33 @@
       ]
     },
     {
+    "name": "Bob Esponja™: El juego de Patricio Estrella",
+    "date": "2025-04-16",
+    "url": "http://www.xbox.com/es-ES/games/store/bob-esponja-el-juego-de-patricio-estrella/9NMF3KXT4P4G/0010",
+    "cover": "https://store-images.s-microsoft.com/image/apps.35825.13693791237026157.09e8a036-c744-4547-90d5-fc6ca5c6b906.9edad8ae-3adb-4904-8fab-f98debc2cee3?q=90&w=177&h=265",
+    "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
       "name": "Tempopo",
       "date": "2025-04-17",
       "url": "https://www.xbox.com/es-ES/games/store/tempopo/9P6X0VL8BXZF/0010",
       "cover": "https://store-images.s-microsoft.com/image/apps.17131.14611568671300660.73a0b15a-ad16-44c9-912f-efb29c8c6716.4c98a12f-d160-4850-a10e-3c7343b53143?q=90&w=177&h=265",
       "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+    "name": "Crime Scene Cleaner",
+    "date": "2025-04-17",
+    "url": "http://www.xbox.com/es-ES/games/store/crime-scene-cleaner/9NGZ1M3N98P2/0010",      
+    "cover": "https://store-images.s-microsoft.com/image/apps.62899.13641013102004887.bf107aae-94c4-457f-a84e-5bd21f71f809.e0e97ecd-de05-428b-8a35-d2cc77d7e574?q=90&w=177&h=265",
+    "platforms": [
         "xbox",
         "pc",
         "cloud"
@@ -135,8 +157,8 @@
       "url": "https://www.xbox.com/es-ES/games/store/the-alters/9N0P25WJHM8C/0010",
       "cover": "https://store-images.s-microsoft.com/image/apps.7753.13917104365848520.a4bd4730-c578-4118-a439-d16f88dde25a.b8d20204-e6cf-4c18-a714-53e1fbb53591?q=90&w=177&h=265",
       "platforms": [
-          "xbox",
-          "pc"
+        "xbox",
+        "pc"
       ]
     },
     {
@@ -145,8 +167,8 @@
       "url": "http://www.xbox.com/es-ES/games/store/rematch/9N5K7HWXL4Q6/0010",
       "cover": "https://store-images.s-microsoft.com/image/apps.51500.14036668029170653.97838000-87b6-4a56-9c79-e4eddcea3b6f.af638a10-8481-45d3-9a46-0be4a02a01d5?q=90&w=177&h=265",
       "platforms": [
-          "xbox",
-          "pc"
+        "xbox",
+        "pc"
       ]
     },
     {
@@ -234,6 +256,81 @@
       "platforms": [
         "xbox",
         "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "NHL 23 en Xbox Series X|S",
+      "date": "2025-04-30",
+      "url": "http://www.xbox.com/es-ES/games/store/nhl-23-en-xbox-series-xs/9NV8BHF1N9F4/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.58634.14403495887145177.0f61b992-e430-42c9-9a35-e19ca4088244.4ea947e6-4651-4ffd-8945-955c08124386?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Have a Nice Death",
+      "date": "2025-04-30",
+      "url": "http://www.xbox.com/es-ES/games/store/have-a-nice-death/9PF1ZX4HHGSW/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.36882.14213858983094140.57d02486-b6c6-428e-9161-a8d84f5e25da.c3ee3917-3075-47f3-b707-cb314dbeb7ff?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Kona II: Brume",
+      "date": "2025-04-30",
+      "url": "http://www.xbox.com/es-ES/games/store/kona-ii-brume/9MWG18BH5ML7/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.62029.13844667147142160.362497bb-868e-416f-b78d-359043e116a5.0d88c96f-161e-42de-a89e-2d7e3b87fcba?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Sniper Elite 5",
+      "date": "2025-04-30",
+      "url": "http://www.xbox.com/es-ES/games/store/sniper-elite-5/9PP8Q82H79LC/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.34732.14329012547000484.7cb39222-264a-4c98-a0f1-007c4e95f1e1.d7d5968f-4e09-4b2b-aea5-ea36b059cec1?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "The Last Case of Benedict Fox: Definitive Edition",
+      "date": "2025-04-30",
+      "url": "http://www.xbox.com/es-ES/games/store/the-last-case-of-benedict-fox-definitive-edition/9PMNGB89CLJ2/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.34080.14290343103192837.c78c2314-95c1-46e6-900b-b8b53f190827.674e6faa-08c5-49f5-8562-bc42070c0e4f?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Thirsty Suitors",
+      "date": "2025-04-30",
+      "url": "http://www.xbox.com/es-ES/games/store/thirsty-suitors/9PLS01JRJCWB/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.31136.14307611151014007.4b05f350-c598-4742-9e65-e2a06d52c9d0.40993b41-18e4-419f-aeb3-ff4ca4f4752a?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "The Rewinder",
+      "date": "2025-04-30",
+      "url": "http://www.xbox.com/es-ES/games/store/the-rewinder/9PJ2HR6WGRND/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.26707.14220055173742695.54d9b731-9a91-40c2-8bc9-07801594b8df.0f2aab0d-eb99-4983-91ab-891b0973b399?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
         "cloud"
       ]
     }
