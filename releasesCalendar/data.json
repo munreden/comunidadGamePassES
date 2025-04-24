@@ -201,6 +201,16 @@
       ]
     },
     {
+      "name": "FBC: Firebreak",
+      "date": "2025-06-17",
+      "url": "https://www.xbox.com/es-es/games/store/fbc-firebreak/9pdcn8z4hkrn",
+      "cover": "https://store-images.s-microsoft.com/image/apps.45469.14156548122363733.4f126492-95e8-406b-9e86-dfd11800657e.4ed60f35-3ca8-40af-9722-2e99a1608f49?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc"
+      ]
+    },
+    {
       "name": "REMATCH",
       "date": "2025-06-19",
       "url": "http://www.xbox.com/es-ES/games/store/rematch/9N5K7HWXL4Q6/0010",
@@ -456,6 +466,36 @@
         "xbox"
       ],
       "dateLeaving": "2025-04-20"
+    },
+    {
+      "name": "Alien Isolation",
+      "date": "2025-04-24",
+      "url": "https://www.xbox.com/es-ES/games/store/alien-isolation/C1H9V6SLK2K5/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.61074.64854652411309764.b4096ab7-d7c5-44f0-a216-0ae26d8620af.2ef4ccf2-ebad-49a1-bd38-18834c758df2?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+      "dateLeaving": "2025-04-27"
+    },
+    {
+      "name": "NHL 25",
+      "date": "2025-04-24",
+      "url": "https://www.xbox.com/es-ES/games/store/nhl-25-para-xbox-series-xs/9PB3GGBSG27C/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.24761.14126797277715794.df83955a-9b36-4f4a-a5f3-294738bfc10c.98934944-ccff-42ee-b971-2a3c30eb344c?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+      "dateLeaving": "2025-04-27"
+    },
+    {
+      "name": "Make Way",
+      "date": "2025-04-24",
+      "url": "https://www.xbox.com/es-ES/games/store/make-way/9PLH1D2V949F/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.40928.14313280471766564.676c9f72-0f30-4cc1-9d40-55eae555239e.27928ca0-1419-4142-ae3e-6c98f0f87f53?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+      "dateLeaving": "2025-04-27"
     }
   ]
 }
