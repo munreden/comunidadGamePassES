@@ -154,7 +154,20 @@
       "url": "http://www.xbox.com/es-ES/games/store/call-of-duty-modern-warfare-ii-lote-multigeneracion/9PFMF665QXL2/0010",
       "cover": "https://store-images.s-microsoft.com/image/apps.49990.14197948149887241.6dd82d18-0e13-431d-a3fb-1f0de64c433d.05617643-5bed-4178-994d-b1f2d6f0409d?q=90&w=177&h=265",
       "platforms": [
-        "xbox"
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Anno 1800",
+      "date": "2025-05-01",
+      "url": "https://www.xbox.com/es-ES/games/store/anno-1800/9N1C10CLPF0N/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.52642.13903974859798407.fe1b6a24-4577-41e3-92da-76a2503642b9.06c98722-1c79-4f04-81fd-3e72cb2ee0ba?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
       ]
     },
     {
