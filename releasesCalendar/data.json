@@ -509,6 +509,26 @@
         "xbox"
       ],
       "dateLeaving": "2025-04-27"
+    },
+    {
+      "name": "Forza Motorsport",
+      "date": "2025-05-01",
+      "url": "https://www.xbox.com/es-es/games/store/forza-motorsport/9p0trpthg7vf",
+      "cover": "https://store-images.s-microsoft.com/image/apps.51644.14520062614241202.dce7e4da-1fb9-4f81-b347-74af80631e33.a1d8bd89-baf5-413b-bf50-f41037beb55e?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-05-04"
+    },
+    {
+      "name": "The Escapists 2",
+      "date": "2025-05-01",
+      "url": "https://www.xbox.com/es-es/games/store/the-escapists-2/bs8xgcll3vqz",
+      "cover": "https://store-images.s-microsoft.com/image/apps.35569.70173344040333382.7556a572-f895-4b02-bc86-3628504df971.f4257110-ee12-49ac-ae9c-285adf03f02a?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-05-04"
     }
   ]
 }
