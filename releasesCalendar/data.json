@@ -23,6 +23,28 @@
       ]
     },
     {
+      "name": "DREDGE",
+      "date": "2025-05-06",
+      "url": "http://www.xbox.com/es-ES/games/store/dredge/9MSVVM5NS9L6/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.7521.13820556954312705.006dce88-d561-4c02-9195-4cc503fd0ad1.d81e1200-3429-43d4-8727-2c8429d6d5b9?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "DRAGON BALL XENOVERSE 2",
+      "date": "2025-05-07",
+      "url": "http://www.xbox.com/es-ES/games/store/dragon-ball-xenoverse-2/BX03760D0QGN/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.32513.63336639312113079.ceb7d6d9-5c03-4721-ab3f-09019902f961.e4eb532e-0d8b-41c0-ac6a-dbeb6ff4e9dd?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
       "name": "Revenge of the Savage Planet",
       "date": "2025-05-08",
       "url": "https://www.xbox.com/es-ES/games/store/revenge-of-the-savage-planet/9PFTV8DKNCHX/0010",
@@ -30,6 +52,27 @@
       "platforms": [
         "xbox",
         "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Ninja Turtles: Mutantes Desencadenados",
+      "date": "2025-05-08",
+      "url": "http://www.xbox.com/es-ES/games/store/ninja-turtles-mutantes-desencadenados/9P27ZX0DH2JN/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.42181.14562706045768227.d2247107-35cd-40b8-84cc-fe1ac03a1696.b9a1ed75-d127-47b2-badf-8d5d71b548f6?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Warhammer: Vermintide 2",
+      "date": "2025-05-13",
+      "url": "https://www.xbox.com/es-es/games/store/warhammer-vermintide-2/bxzwt67jbzjh",
+      "cover": "https://store-images.s-microsoft.com/image/apps.41784.63950392980135892.2a65d13a-abfb-4b37-bbe3-ccc769a3b70f.36a8a33a-a555-4ed6-90f1-04e1271d59cc?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
         "cloud"
       ]
     },
@@ -50,8 +93,31 @@
       "url": "http://www.xbox.com/es-ES/games/store/kulebra-and-the-souls-of-limbo/9PFT2MJKJHWX/0010",
       "cover": "https://store-images.s-microsoft.com/image/apps.58314.14193966455764021.2770c71f-6051-45a9-b765-9028dd955314.3f0dbd3a-b03e-4f33-9437-8e5a8ded72ea?q=90&w=177&h=265",
       "platforms": [
+        "xbox",
         "pc",
-        "xbox"
+        "cloud"
+      ]
+    },
+    {
+      "name": "Firefighting Simulator - The Squad",
+      "date": "2025-05-20",
+      "url": "http://www.xbox.com/es-ES/games/store/firefighting-simulator-the-squad/9NBZ7Z3JRXQ8/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.37983.13574093128038227.7f017f9d-a7e7-46d3-ac09-ad5cece1a687.d4771ae5-9b57-4a43-8021-142acfe2e595?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Police Simulator: Patrol Officers",
+      "date": "2025-05-20",
+      "url": "http://www.xbox.com/es-ES/games/store/police-simulator-patrol-officers/9P0NPLQ9P1DB/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.26366.14523320294659833.0e9cb134-00a8-4d23-9793-93834d8d61ef.9b9e6bbe-69b3-4cd9-8509-3de264dfc1a2?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
       ]
     },
     {
