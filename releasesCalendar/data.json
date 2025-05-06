@@ -1,154 +1,6 @@
 {
   "releaseGames": [
     {
-      "name": "South of Midnight",
-      "date": "2025-04-08",
-      "url": "https://www.xbox.com/es-ES/games/store/south-of-midnight/9NJCVGS6T30K/0017",
-      "cover": "https://store-images.s-microsoft.com/image/apps.45547.13678609147241298.c742bfe1-6624-4d6a-800e-503c12872c58.e240d226-a024-4880-9c66-0f0f15b8a378?q=90&w=177&h=265",
-      "platforms": [
-        "pc",
-        "xbox",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Commandos: Origins",
-      "date": "2025-04-09",
-      "url": "https://www.xbox.com/es-ES/games/store/commandos-origins/9NNRCR6MBNDR/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.50462.13737393634442056.0e44fc6f-e14b-46fe-b0b4-5f9ff152b330.104a062e-7a2a-477e-8f83-0bc9a7682659?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Descenders Next (Retrasado)",
-      "date": "2025-02-09",
-      "url": "https://www.xbox.com/es-ES/games/store/descenders-next-version-preliminar-del-juego/9N66JJQFX3RX/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.15407.14024037955784685.c0b90c54-2934-4126-84a4-7f6ab04f56cf.ba9e0b40-2476-417e-a7e7-b0c9687032ab?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Blue Prince",
-      "date": "2025-04-10",
-      "url": "https://www.xbox.com/es-ES/games/store/blue-prince/9PFRTPRQ569Q/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.49407.14199207619921587.94d12fa7-4aa4-478f-a501-05a046496ce3.53a1d296-29a7-4e2d-bdd5-d48e334c7d33?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "NHL 25",
-      "date": "2025-04-10",
-      "url": "https://www.xbox.com/es-ES/games/store/nhl-25-para-xbox-series-xs/9PB3GGBSG27C/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.24761.14126797277715794.df83955a-9b36-4f4a-a5f3-294738bfc10c.98934944-ccff-42ee-b971-2a3c30eb344c?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Hunt: Showdown 1896",
-      "date": "2025-04-15",
-      "url": "https://www.xbox.com/es-ES/games/store/hunt-showdown-1896/9NPRV0R4CS1Z/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.18009.13783643452587332.e00a87fd-4400-4d17-9ea8-767f833f6195.7dcc33b2-82ae-43c6-a49a-24a0c08add65?q=90&w=177&h=265",
-      "platforms": [
-        "pc"
-      ]
-    },
-    {
-      "name": "Grand Theft Auto V",
-      "date": "2025-04-15",
-      "url": "https://www.xbox.com/es-ES/games/store/grand-theft-auto-v-xbox-series-xs/9NXMBTB02ZSF/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.25111.14492969036550054.5a1d40f5-fe0d-427a-bd14-9a9ed15a423c.410d0e83-5cb1-4536-b501-0044d6e3f1a0?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Bob Esponja™: El juego de Patricio Estrella",
-      "date": "2025-04-16",
-      "url": "http://www.xbox.com/es-ES/games/store/bob-esponja-el-juego-de-patricio-estrella/9NMF3KXT4P4G/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.35825.13693791237026157.09e8a036-c744-4547-90d5-fc6ca5c6b906.9edad8ae-3adb-4904-8fab-f98debc2cee3?q=90&w=177&h=265",
-      "platforms": [
-        "pc",
-        "xbox",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Tempopo",
-      "date": "2025-04-17",
-      "url": "https://www.xbox.com/es-ES/games/store/tempopo/9P6X0VL8BXZF/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.17131.14611568671300660.73a0b15a-ad16-44c9-912f-efb29c8c6716.4c98a12f-d160-4850-a10e-3c7343b53143?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Crime Scene Cleaner",
-      "date": "2025-04-17",
-      "url": "http://www.xbox.com/es-ES/games/store/crime-scene-cleaner/9NGZ1M3N98P2/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.62899.13641013102004887.bf107aae-94c4-457f-a84e-5bd21f71f809.e0e97ecd-de05-428b-8a35-d2cc77d7e574?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "The Elder Scrolls IV: Oblivion Remastered",
-      "date": "2025-04-22",
-      "url": "https://www.xbox.com/es-ES/games/store/the-elder-scrolls-iv-oblivion-remastered/9NQR437K7PQH/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.54508.13768907753672648.dcd706bb-ce91-4b3f-9525-10b1d4af8423.ad8946cd-a4cb-4ea2-bbf7-a05b1a4f4126?q=90&w=177&h=265",
-      "platforms": [
-        "pc",
-        "xbox",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Clair Obscur: Expedition 33",
-      "date": "2025-04-24",
-      "url": "https://www.xbox.com/es-es/games/store/clair-obscur-expedition-33/9ppt8k6gqhrz",
-      "cover": "https://store-images.s-microsoft.com/image/apps.21528.14322280443288156.36e7f1cd-07a6-4e2a-a35d-485380706ab1.bbf3d2d5-bb2b-4714-88bf-967e8cc6993b?q=90&w=177&h=265",
-      "platforms": [
-        "pc",
-        "xbox"
-      ]
-    },
-    {
-      "name": "Towerborne (Game Preview)",
-      "date": "2025-04-29",
-      "url": "http://www.xbox.com/es-ES/games/store/towerborne-game-preview/9P7TLX79S7N7/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.56718.14100945740468620.f7c55d6b-e535-4591-a835-7fa6ffedcc1f.4228e448-8f56-4942-9990-6ab20594e17d?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc"
-      ]
-    },
-    {
-      "name": "Far Cry® 4",
-      "date": "2025-04-30",
-      "url": "http://www.xbox.com/es-ES/games/store/far-cry-4/C0KJ40T9QD86/0001",
-      "cover": "https://store-images.s-microsoft.com/image/apps.39188.64350501736896385.0158164c-9008-42ec-b99b-4d15df40e65a.c322e570-1422-4839-8a7b-3f9929e6b649?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
       "name": "Call of Duty®: Modern Warfare® II - Lote Multigeneración",
       "date": "2025-05-01",
       "url": "http://www.xbox.com/es-ES/games/store/call-of-duty-modern-warfare-ii-lote-multigeneracion/9PFMF665QXL2/0010",
@@ -190,6 +42,16 @@
         "xbox",
         "pc",
         "cloud"
+      ]
+    },
+    {
+      "name": "Kulebra and the Souls of Limbo",
+      "date": "2025-05-16",
+      "url": "http://www.xbox.com/es-ES/games/store/kulebra-and-the-souls-of-limbo/9PFT2MJKJHWX/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.58314.14193966455764021.2770c71f-6051-45a9-b765-9028dd955314.3f0dbd3a-b03e-4f33-9437-8e5a8ded72ea?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox"
       ]
     },
     {
@@ -247,10 +109,20 @@
   ],
   "leavingGames": [
     {
-      "name": "Orcs Must Die! 3",
-      "date": "2025-04-15",
-      "url": "https://www.xbox.com/es-ES/games/store/orcs-must-die-3/9NCWF7RRR52G/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.7498.13555606646249745.8af2643b-c841-4eb8-b91d-698e142015fd.c58ae464-d2f3-4b9e-a6d7-5e27c91c53b2?q=90&w=177&h=265",
+      "name": "Brothers: a Tale of Two Sons",
+      "date": "2025-05-15",
+      "url": "http://www.xbox.com/es-ES/games/store/brothers-a-tale-of-two-sons/C4Q29CMJ31NX/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.54833.67312949670211111.e02ca682-7627-49bb-a230-6f831f2e93d2.ba364000-a28e-4117-b936-c0d1b77af8a5?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Hauntii",
+      "date": "2025-05-15",
+      "url": "http://www.xbox.com/es-ES/games/store/hauntii/9N9DVL82PR0D/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.27917.13534188749393159.6bee1793-dd42-4c8a-952d-a59bcfe8fcbd.6aa4455e-043f-4e93-8fec-036e6d12d00d?q=90&w=177&h=265",
       "platforms": [
         "xbox",
         "pc",
@@ -258,30 +130,10 @@
       ]
     },
     {
-      "name": "Kona",
-      "date": "2025-04-15",
-      "url": "https://www.xbox.com/es-ES/games/store/kona/BXDSG249D6Q2/0001",
-      "cover": "https://store-images.s-microsoft.com/image/apps.13956.63579060588016569.6eb380da-b190-4777-b70f-99fd2b3b8470.629467d4-063b-4588-9f07-addaf6317ae4?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Botany Manor",
-      "date": "2025-04-15",
-      "url": "https://www.xbox.com/es-ES/games/store/botany-manor/9MZT90B954XF/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.25746.13863921042564074.17873b9f-63ef-43eb-99b2-9905fb67a2c6.455ae26d-42ff-480d-8fa4-62ed3e5fba15?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Homestead Arcana",
-      "date": "2025-04-15",
-      "url": "https://www.xbox.com/es-ES/games/store/homestead-arcana/9N7THWLZZBWR/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.52287.14057839366848438.3205b748-306a-493a-94f1-60de9c7722f6.041f7779-e4ce-4d58-b51d-18ba6b5c9071?q=90&w=177&h=265",
+      "name": "Little Kitty, Big City",
+      "date": "2025-05-15",
+      "url": "http://www.xbox.com/es-ES/games/store/little-kitty-big-city/9NF5S7MLM8XT/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.42325.13605545843678606.ba639605-7305-422e-9637-2411fb07e5f6.b0cdeb87-1dea-418a-82c3-84a977c47a4b?q=90&w=177&h=265",
       "platforms": [
         "xbox",
         "pc",
@@ -289,21 +141,10 @@
       ]
     },
     {
-      "name": "Coral Island",
-      "date": "2025-04-15",
-      "url": "https://www.xbox.com/es-ES/games/store/coral-island/9N1T1MQ92PVS/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.34913.13965383722089887.db70e3c6-249c-431b-af22-61e3c106e18e.688905d0-6fd8-4407-8b59-47df7e8e853d?q=90&w=177&h=265",
-      "platforms": [
-        "pc",
-        "xbox",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Turbo Golf Racing",
-      "date": "2025-04-15",
-      "url": "https://www.xbox.com/es-ES/games/store/turbo-golf-racing/9N6781PMXC02/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.51431.14023533452078841.712f8f21-7efa-4130-9c82-a55506b403bb.354e80ef-dc7f-4f52-9316-7268c0dabea9?q=90&w=177&h=265",
+      "name": "Planet of Lana",
+      "date": "2025-05-15",
+      "url": "http://www.xbox.com/es-ES/games/store/planet-of-lana/9MXK2RSQJQND/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.50793.13893421366981179.51ad56f7-1d70-465a-9fc2-517da8c59416.21627984-e9d9-4db1-addb-040ffd2b1c39?q=90&w=177&h=265",
       "platforms": [
         "xbox",
         "pc",
@@ -311,85 +152,31 @@
       ]
     },
     {
-      "name": "Harold Halibut",
-      "date": "2025-04-15",
-      "url": "https://www.xbox.com/es-ES/games/store/harold-halibut/9PBV5F2DBNC6/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.56652.14116268439808247.4e8906b5-f1d2-4d47-b73d-ad01e2b3edef.f579400a-35d1-4a52-ab50-52d2be1b5d5e?q=90&w=177&h=265",
+      "name": "Chants of Sennaar",
+      "date": "2025-05-15",
+      "url": "http://www.xbox.com/es-ES/games/store/chants-of-sennaar/9NR8V6M3QH57/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.39234.14387125352545950.14deeaf6-6b04-4044-b0c1-33b6c118f707.896bdbfb-762a-4309-b6a5-ce3b609025e9?q=90&w=177&h=265",
       "platforms": [
         "xbox",
-        "pc",
         "cloud"
       ]
     },
     {
-      "name": "NHL 23 en Xbox Series X|S",
-      "date": "2025-04-30",
-      "url": "http://www.xbox.com/es-ES/games/store/nhl-23-en-xbox-series-xs/9NV8BHF1N9F4/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.58634.14403495887145177.0f61b992-e430-42c9-9a35-e19ca4088244.4ea947e6-4651-4ffd-8945-955c08124386?q=90&w=177&h=265",
+      "name": "Dune: Spice Wars",
+      "date": "2025-05-15",
+      "url": "http://www.xbox.com/es-ES/games/store/dune-spice-wars/9N46JZZNGS3P/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.62876.13993061156496216.c5c83445-c83d-441f-8d79-a05fa134dcd7.2848beaf-9db0-45de-892d-c87095de9fb7?q=90&w=177&h=265",
       "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "Have a Nice Death",
-      "date": "2025-04-30",
-      "url": "http://www.xbox.com/es-ES/games/store/have-a-nice-death/9PF1ZX4HHGSW/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.36882.14213858983094140.57d02486-b6c6-428e-9161-a8d84f5e25da.c3ee3917-3075-47f3-b707-cb314dbeb7ff?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
         "pc",
+        "xbox",
         "cloud"
       ]
     },
     {
-      "name": "Kona II: Brume",
-      "date": "2025-04-30",
-      "url": "http://www.xbox.com/es-ES/games/store/kona-ii-brume/9MWG18BH5ML7/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.62029.13844667147142160.362497bb-868e-416f-b78d-359043e116a5.0d88c96f-161e-42de-a89e-2d7e3b87fcba?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Sniper Elite 5",
-      "date": "2025-04-30",
-      "url": "http://www.xbox.com/es-ES/games/store/sniper-elite-5/9PP8Q82H79LC/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.34732.14329012547000484.7cb39222-264a-4c98-a0f1-007c4e95f1e1.d7d5968f-4e09-4b2b-aea5-ea36b059cec1?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "The Last Case of Benedict Fox: Definitive Edition",
-      "date": "2025-04-30",
-      "url": "http://www.xbox.com/es-ES/games/store/the-last-case-of-benedict-fox-definitive-edition/9PMNGB89CLJ2/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.34080.14290343103192837.c78c2314-95c1-46e6-900b-b8b53f190827.674e6faa-08c5-49f5-8562-bc42070c0e4f?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Thirsty Suitors",
-      "date": "2025-04-30",
-      "url": "http://www.xbox.com/es-ES/games/store/thirsty-suitors/9PLS01JRJCWB/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.31136.14307611151014007.4b05f350-c598-4742-9e65-e2a06d52c9d0.40993b41-18e4-419f-aeb3-ff4ca4f4752a?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "The Rewinder",
-      "date": "2025-04-30",
-      "url": "http://www.xbox.com/es-ES/games/store/the-rewinder/9PJ2HR6WGRND/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.26707.14220055173742695.54d9b731-9a91-40c2-8bc9-07801594b8df.0f2aab0d-eb99-4983-91ab-891b0973b399?q=90&w=177&h=265",
+      "name": "Jurassic World Evolution 2",
+      "date": "2025-05-15",
+      "url": "http://www.xbox.com/es-ES/games/store/jurassic-world-evolution-2/9MWHMJ0SRBXV/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.1077.13843646153700405.faf0a0ab-da0c-4a73-a182-1b5794b3f805.46323daa-e6c1-4bdd-a1e4-2c78222de22e?q=90&w=177&h=265",
       "platforms": [
         "pc",
         "xbox",
@@ -398,118 +185,6 @@
     }
   ],
   "freePlayDays": [
-    {
-      "name": "Age of Wonders 4",
-      "date": "2025-04-03",
-      "url": "https://www.xbox.com/es-ES/games/store/age-of-wonders-4/9NW6LB2HXH17/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.44302.14455012292951382.a6f7f48d-bf80-4c25-ad2c-ed5398d13884.c3430a8b-2a63-40d9-84f9-1fbe59f23249?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ],
-      "dateLeaving": "2025-04-06"
-    },
-    {
-      "name": "Dead by Daylight",
-      "date": "2025-04-03",
-      "url": "https://www.xbox.com/es-ES/games/store/dead-by-daylight/C0N22P73QZ60/0001",
-      "cover": "https://store-images.s-microsoft.com/image/apps.16719.64366672042187759.733004ed-c696-44cf-98cc-30eddf2375a8.3dd6c96e-e0c3-4a0b-aeb0-810f815a6d37?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "cloud"
-      ],
-      "dateLeaving": "2025-04-06"
-    },
-    {
-      "name": "CATAN® - Edición para consolas",
-      "date": "2025-04-03",
-      "url": "https://www.xbox.com/es-ES/games/store/catan-edicion-para-consolas/9PPMQ5R4F6WB/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.18523.14321522258952035.0bdbf2e3-3d9e-4997-92d8-7874c1432866.69d1b8a0-afe6-4f07-abce-a29565980c36?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ],
-      "dateLeaving": "2025-04-06"
-    },
-    {
-      "name": "EVERSPACE™ 2",
-      "date": "2025-04-03",
-      "url": "https://www.xbox.com/es-ES/games/store/everspace-2/9PFX7F33KVG8/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.811.14196602045405435.162a3492-f482-45e9-8022-a849e99a6850.c224c09d-43b3-43fb-acac-a163ad2e3144?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc"
-      ],
-      "dateLeaving": "2025-04-06"
-    },
-    {
-      "name": "Moving Out 2",
-      "date": "2025-04-10",
-      "url": "http://www.xbox.com/es-ES/games/store/moving-out-2/9P88K6NQW12H/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.52583.14092419520193072.64e53d99-3172-4ca7-856b-dd313b69b944.e83589b5-de0e-470f-80a6-21ea4709fe39?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ],
-      "dateLeaving": "2025-04-13"
-    },
-    {
-      "name": "Crime Boss: Rockay City",
-      "date": "2025-04-10",
-      "url": "http://www.xbox.com/es-ES/games/store/crime-boss-rockay-city/9P4KF63WK5P9/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.57810.14591636857132348.6b939bdc-1357-4e20-b5ba-a9b8ef7eb22e.ccf02e1d-5db4-4708-8df9-8baf5c73b39f?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ],
-      "dateLeaving": "2025-04-13"
-    },
-    {
-      "name": "NBA 2K25 Edición Estándar",
-      "date": "2025-04-17",
-      "url": "http://www.xbox.com/es-ES/games/store/nba-2k25-edicion-estandar/9PL2XQ4GF10R/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.17984.14250775457519092.f33de21f-07ee-4aaf-a0c4-413615c9c9f0.e0fa7993-a5bd-4036-a403-6db666315d8b?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ],
-      "dateLeaving": "2025-04-20"
-    },
-    {
-      "name": "Skull and Bones",
-      "date": "2025-04-17",
-      "url": "http://www.xbox.com/es-ES/games/store/skull-and-bones/BXF9VWKCD6QW/0001",
-      "cover": "https://store-images.s-microsoft.com/image/apps.4282.63081064281400272.22dc605b-57df-47ca-ae17-888c5e63e437.718dae96-63c6-4795-be26-ea0a395fdd73?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ],
-      "dateLeaving": "2025-04-20"
-    },
-    {
-      "name": "Alien Isolation",
-      "date": "2025-04-24",
-      "url": "https://www.xbox.com/es-ES/games/store/alien-isolation/C1H9V6SLK2K5/0001",
-      "cover": "https://store-images.s-microsoft.com/image/apps.61074.64854652411309764.b4096ab7-d7c5-44f0-a216-0ae26d8620af.2ef4ccf2-ebad-49a1-bd38-18834c758df2?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ],
-      "dateLeaving": "2025-04-27"
-    },
-    {
-      "name": "NHL 25",
-      "date": "2025-04-24",
-      "url": "https://www.xbox.com/es-ES/games/store/nhl-25-para-xbox-series-xs/9PB3GGBSG27C/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.24761.14126797277715794.df83955a-9b36-4f4a-a5f3-294738bfc10c.98934944-ccff-42ee-b971-2a3c30eb344c?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ],
-      "dateLeaving": "2025-04-27"
-    },
-    {
-      "name": "Make Way",
-      "date": "2025-04-24",
-      "url": "https://www.xbox.com/es-ES/games/store/make-way/9PLH1D2V949F/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.40928.14313280471766564.676c9f72-0f30-4cc1-9d40-55eae555239e.27928ca0-1419-4142-ae3e-6c98f0f87f53?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ],
-      "dateLeaving": "2025-04-27"
-    },
     {
       "name": "Forza Motorsport",
       "date": "2025-05-01",
