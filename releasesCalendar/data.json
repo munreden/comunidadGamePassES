@@ -205,21 +205,10 @@
       ]
     },
     {
-      "name": "Little Kitty, Big City",
+      "name": "The Big Con",
       "date": "2025-05-15",
-      "url": "http://www.xbox.com/es-ES/games/store/little-kitty-big-city/9NF5S7MLM8XT/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.42325.13605545843678606.ba639605-7305-422e-9637-2411fb07e5f6.b0cdeb87-1dea-418a-82c3-84a977c47a4b?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Planet of Lana",
-      "date": "2025-05-15",
-      "url": "http://www.xbox.com/es-ES/games/store/planet-of-lana/9MXK2RSQJQND/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.50793.13893421366981179.51ad56f7-1d70-465a-9fc2-517da8c59416.21627984-e9d9-4db1-addb-040ffd2b1c39?q=90&w=177&h=265",
+      "url": "https://www.xbox.com/es-ES/games/store/the-big-con/9P01R01ZJ9BX/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.41914.14465388396342523.f3be3027-1fd8-4a1e-9cb7-5194d8be4620.9ec9fbba-97d7-4bd4-a418-49cea45378f9?q=90&w=177&h=265",
       "platforms": [
         "xbox",
         "pc",
