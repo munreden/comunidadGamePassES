@@ -257,6 +257,28 @@
         "xbox"
       ],
       "dateLeaving": "2025-05-04"
+    },
+    {
+      "name": "PAC-MAN Mega Tunnel Battle: Chomp Champs",
+      "date": "2025-05-08",
+      "url": "http://www.xbox.com/es-ES/games/store/pac-man-mega-tunnel-battle-chomp-champs/9P62D661TVGW/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.54706.14628447357770696.557fdd03-d253-4760-a0d9-24ed16af7133.3ea08a69-8c6a-4891-9cc5-eebd27f174e0?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-05-11"
+    },
+    {
+      "name": "Still Wakes the Deep",
+      "date": "2025-05-08",
+      "url": "http://www.xbox.com/es-ES/games/store/still-wakes-the-deep/9N88DFRX8WCJ/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.56102.14049385901429569.7e7c59ac-85c6-43f6-8148-3aad230895b3.628604b0-3f2d-49ad-9b28-3050c6bcc7ff?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ],
+      "dateLeaving": "2025-05-11"
     }
   ]
 }
