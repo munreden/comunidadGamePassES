@@ -279,6 +279,37 @@
         "cloud"
       ],
       "dateLeaving": "2025-05-11"
+    },
+    {
+      "name": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+      "date": "2025-05-15",
+      "url": "http://www.xbox.com/es-ES/games/store/stranger-of-paradise-final-fantasy-origin/9P765QZ2NXKX/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.60172.14605937374147085.89cb2b2f-1b3b-4a2a-ac50-13ac7cc9f643.d4ccc634-7912-4ffc-8be9-49c8e6105c85?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-05-18"
+    },
+    {
+      "name": "Train Sim World 5: Edición Thomas y sus amigos™",
+      "date": "2025-05-15",
+      "url": "http://www.xbox.com/es-ES/games/store/train-sim-world-5-edicion-thomas-y-sus-amigos/9NGL96VCKMQ1/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.49475.13643322381192110.f7073537-a069-453a-9b35-f889191c03d9.04678e1b-2280-4651-92d5-8dc7ca2dedba?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-05-18"
+    },
+    {
+      "name": "House Flipper 2",
+      "date": "2025-05-15",
+      "url": "http://www.xbox.com/es-ES/games/store/house-flipper-2/9N67Z2D5PHW2/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.1982.14023314147306487.8fec5dc6-0cc1-4255-8f54-e57299d9fdb1.8d727145-bad1-41c9-8081-d01b4007a84f?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
+      ],
+      "dateLeaving": "2025-05-18"
     }
   ]
 }
