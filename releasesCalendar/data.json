@@ -132,6 +132,17 @@
       ]
     },
     {
+      "name": "RainbowSix Siege X",
+      "date": "2025-06-10",
+      "url": "https://www.xbox.com/es-ES/games/store/paquete-siege-x-tom-clancys-rainbow-six-siege/9MWLSK75PZMR",
+      "cover": "https://store-images.s-microsoft.com/image/apps.48358.13836929063982506.9b73cc65-3a79-4459-bb66-140badb5576a.1e63f117-ae6d-4802-bd3e-33d8034aec99?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
       "name": "The Alters",
       "date": "2025-06-13",
       "url": "https://www.xbox.com/es-ES/games/store/the-alters/9N0P25WJHM8C/0010",
@@ -244,6 +255,59 @@
         "pc",
         "xbox",
         "cloud"
+      ]
+    },
+    {
+      "name": "Cassette Beasts",
+      "date": "2025-05-31",
+      "url": "http://www.xbox.com/es-ES/games/store/cassette-beasts/9N82SNQTZVMQ/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.32760.14053398568595271.6df710ab-5b0b-4a3d-8691-4e7b0afae807.9b2a78ee-482b-43a9-bb0a-5d90279fb438?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Humanity",
+      "date": "2025-05-31",
+      "url": "http://www.xbox.com/es-ES/games/store/humanity/9PNW4CC69T4B/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.61751.14340778445303609.99c3ca9e-2f2d-46b2-9909-ee0ddb61f6f4.8fcad535-e5b7-4f6a-81f4-c27b9441c993?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Remnant II® - Standard Edition",
+      "date": "2025-05-31",
+      "url": "http://www.xbox.com/es-ES/games/store/remnant-ii-standard-edition/9P9278ZMGQLJ/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.24650.14081014349971267.d4f5e4f0-b6a4-4b3a-a03e-37c8a633409c.616c8074-1ae8-49dc-8ef5-0cd0e4187b06?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Slayers X: Terminal Aftermath: Vengance of the Slayer",
+      "date": "2025-05-31",
+      "url": "http://www.xbox.com/es-ES/games/store/slayers-x-terminal-aftermath-vengance-of-the-slayer/9P2Q0J0GW1FJ/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.65188.14553231729498821.e9cc3b13-c182-473c-8a24-a1a8ef58f202.82a5b302-014a-4503-a72d-d35ab7ee1f66?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Firework (Windows)",
+      "date": "2025-05-31",
+      "url": "http://www.xbox.com/es-ES/games/store/firework-windows/9P57NK5V2137/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.757.14578697293977714.1a77ecb0-1d3a-4ac5-bb7b-6bd079a70772.b9dc8427-4301-44d8-af32-cf7e96e66a0d?q=90&w=177&h=265",
+      "platforms": [
+        "pc"
       ]
     }
   ],
