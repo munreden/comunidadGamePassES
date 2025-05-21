@@ -121,10 +121,86 @@
       ]
     },
     {
+      "name": "Monster Train 2",
+      "date": "2025-05-21",
+      "url": "http://www.xbox.com/es-ES/games/store/monster-train-2/9NJC29JG70LM/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.1187.13679035728642800.49d6c527-ad8c-4dc9-8d35-edbd72e5ef8a.669da7c4-947c-4d08-9e49-86fb43e85eee?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox"
+      ]
+    },
+    {
+      "name": "Tales of Kenzera™: ZAU",
+      "date": "2025-05-22",
+      "url": "http://www.xbox.com/es-ES/games/store/tales-of-kenzera-zau/9NNNMBXFFG4W/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.49238.14012275248437429.73a17f66-eab6-4d8a-a508-df38d04a8084.9ecf8f3e-3210-4d41-a34c-b69eb3629009?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Tom Clancy's The Division 2",
+      "date": "2025-05-27",
+      "url": "http://www.xbox.com/es-ES/games/store/tom-clancys-the-division-2/9NRXKRVCGRNM/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.46486.14374220740306400.e1a08859-d002-40cc-8605-3b4d4006909c.ba03125f-0d0b-482a-a71e-7084e93b6320?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
       "name": "to a T",
       "date": "2025-05-28",
       "url": "https://www.xbox.com/es-ES/games/store/to-a-t/9NM6NMBJ7ZK4/0010",
       "cover": "https://store-images.s-microsoft.com/image/apps.49116.13697941361368537.ef1cd539-f6c5-4b4a-a6a6-b9f16e466316.7eb60409-d634-479e-aecd-40d13da6e338?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Metaphor: ReFantazio",
+      "date": "2025-05-29",
+      "url": "http://www.xbox.com/es-ES/games/store/metaphor-refantazio/9N5DV8310XP7/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.20352.14035448967936250.5e8a162e-c753-4d47-98df-aa3051d0b434.34a3fd4c-1e41-4237-8fa6-17f1a0c13698?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Spray Paint Simulator",
+      "date": "2025-05-29",
+      "url": "http://www.xbox.com/es-ES/games/store/spray-paint-simulator/9NDKXPQBBNJN/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.42931.13612516096322675.ce9d35a3-af66-4b69-8743-e1028c3e1264.62a629d5-a60e-4d2a-90b8-1200926f6f82?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Crypt Custodian",
+      "date": "2025-06-03",
+      "url": "http://www.xbox.com/es-ES/games/store/crypt-custodian/9PLG24BMTP3T/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.6686.14318558795301256.fdb9c324-55d8-4241-98a2-33ab157bad50.f65669a3-d6b8-4fc3-b2b4-74cff6bfb588?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Symphonia 𝄞",
+      "date": "2025-06-03",
+      "url": "http://www.xbox.com/es-ES/games/store/symphonia/9NBLHDB0WLHZ/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.1651.13510847361693800.60401b82-c495-4eb5-9aae-6b84c459941e.d9b56173-9197-4b3b-8202-8d7da7528278?q=90&w=177&h=265",
       "platforms": [
         "xbox",
         "pc",
