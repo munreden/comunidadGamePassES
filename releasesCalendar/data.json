@@ -456,10 +456,69 @@
       "url": "http://www.xbox.com/es-ES/games/store/house-flipper-2/9N67Z2D5PHW2/0010",
       "cover": "https://store-images.s-microsoft.com/image/apps.1982.14023314147306487.8fec5dc6-0cc1-4255-8f54-e57299d9fdb1.8d727145-bad1-41c9-8081-d01b4007a84f?q=90&w=177&h=265",
       "platforms": [
-        "xbox",
-        "cloud"
+        "xbox"
       ],
       "dateLeaving": "2025-05-18"
+    },
+    {
+      "name": "Call of Duty®: Black Ops 6 - Free Trial",
+      "date": "2025-05-29",
+      "url": "http://www.xbox.com/es-ES/games/store/house-flipper-2/9N67Z2D5PHW2/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.1982.14023314147306487.8fec5dc6-0cc1-4255-8f54-e57299d9fdb1.8d727145-bad1-41c9-8081-d01b4007a84f?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-05-18"
+    },
+    {
+      "name": "Call of Duty®: Black Ops 6 - Free Trial",
+      "date": "2025-05-29",
+      "url": "https://www.xbox.com/es-ES/games/store/call-of-duty-black-ops-6-lote-multigeneracion/9PF528M6CRHQ/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.37927.14207097610490811.5b338e31-5c12-4d95-9a2a-2f16ceb01377.52b31dce-5e51-4f9f-88c3-9f40367f021f?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-06-01"
+    },
+    {
+      "name": "Tom Clancy's The Division 2",
+      "date": "2025-05-29",
+      "url": "http://www.xbox.com/es-ES/games/store/tom-clancys-the-division-2/9NRXKRVCGRNM/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.46486.14374220740306400.e1a08859-d002-40cc-8605-3b4d4006909c.ba03125f-0d0b-482a-a71e-7084e93b6320?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-06-01"
+    },
+    {
+      "name": "ARK: Survival Ascended",
+      "date": "2025-05-29",
+      "url": "https://www.xbox.com/es-es/games/store/ark-survival-ascended/9p33vjgvphvp",
+      "cover": "https://store-images.s-microsoft.com/image/apps.47381.14545480955348978.f72b621c-2a7f-403c-8bd4-126f7310ad33.c2cc3983-f689-401d-9deb-e46cb33271be?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-06-01"
+    },
+    {
+      "name": "Football Manager 2024",
+      "date": "2025-05-29",
+      "url": "https://www.xbox.com/es-ES/games/store/football-manager-2024-console/9N7GJJ2WTPBZ/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.40979.14065042993795106.481a54a3-96a1-4426-85ce-63c7ba75f93d.8ef9448a-29bf-449a-a73e-dec0e35cfdaf?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-06-01"
+    },
+    {
+      "name": "Killer Klowns From Outer Space: The Game",
+      "date": "2025-05-29",
+      "url": "https://www.xbox.com/es-es/games/store/killer-klowns-from-outer-space-the-game/9nvhcv80zzmh",
+      "cover": "https://store-images.s-microsoft.com/image/apps.34934.14398907729629362.cdb4e5b7-2ca0-4338-9e6f-1baf9c50098d.8bbde38e-a941-434f-b667-5034497917be?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-06-01"
     }
   ]
 }
