@@ -151,6 +151,65 @@
         "pc",
         "cloud"
       ]
+    },
+    {
+      "name": "WUCHANG: Fallen Feathers",
+      "date": "2025-07-24",
+      "url": "http://www.xbox.com/es-ES/games/store/wuchang-fallen-feathers/9NPRHD8GQKQS/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.44761.13783945394833991.9c211df2-6d91-4ddb-8a9b-d22dd17d57de.2d4b818f-ca01-45f0-b255-54b665c38ac6?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Grounded 2",
+      "date": "2025-07-29",
+      "url": "http://www.xbox.com/es-ES/games/store/grounded-2/9P77PG7DK0W2/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.54353.14609679373210979.beb28026-7f6b-4b1f-b526-43d0d04b269b.6dcfd9cd-f291-4121-b9d8-a09dd620a5c3?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox"
+      ]
+    },
+    {
+      "name": "Gears of War: Reloaded",
+      "date": "2025-08-26",
+      "url": "http://www.xbox.com/es-ES/games/store/gears-of-war-reloaded/9P8PS6993LSL/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.55549.14083498106527717.baf556ff-4380-4b5b-9e66-afb4977d6535.ed9482e8-90c6-4198-952b-9a084078cb92?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox"
+      ]
+    },
+    {
+      "name": "Keeper",
+      "date": "2025-10-17",
+      "url": "http://www.xbox.com/es-ES/games/store/keeper/9NCJWHHMVHR0/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.14247.13566978592979529.8c034f7f-7f73-4897-9410-31e1512536ea.6b82459c-abd9-4712-b097-0d1164781ebe?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox"
+      ]
+    },
+    {
+      "name": "NINJA GAIDEN 4",
+      "date": "2025-10-21",
+      "url": "http://www.xbox.com/es-ES/games/store/ninja-gaiden-4/9P0SQ1S72G4J/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.26007.13662544137337260.2aeaed0d-c8b8-4ff2-a7a0-0e630acc03d7.1162e912-c49b-40a3-bb35-7861a0490086?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox"
+      ]
+    },
+    {
+      "name": "The Outer Worlds 2",
+      "date": "2025-10-29",
+      "url": "http://www.xbox.com/es-ES/games/store/the-outer-worlds-2/9P8RMKXRML7D/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.29783.14086924108488409.8dd1428c-d108-469c-b8d2-05e105d1cd97.a5643420-ee0f-4b36-b0cc-c313cc34bcca?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox"
+      ]
     }
   ],
   "leavingGames": [
