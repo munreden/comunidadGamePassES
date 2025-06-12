@@ -312,11 +312,39 @@
       "url": "http://www.xbox.com/es-ES/games/store/hell-let-loose/9N44WK3WV2HJ/0010",
       "cover": "https://store-images.s-microsoft.com/image/apps.57414.13994037977696381.63b08053-b0ed-4a8f-852e-39f4b513b2d3.77caf06c-66b6-4ed8-ab29-73b2901b20d1?q=90&w=177&h=265",
       "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
+        "xbox"
       ],
       "dateLeaving": "2025-06-08"
+    },
+    {
+      "name": "Towerborne (Game Preview)",
+      "date": "2025-06-12",
+      "url": "http://www.xbox.com/es-ES/games/store/towerborne-game-preview/9P7TLX79S7N7/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.56718.14100945740468620.f7c55d6b-e535-4591-a835-7fa6ffedcc1f.4228e448-8f56-4942-9990-6ab20594e17d?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-06-15"
+    },
+    {
+      "name": "Construction Simulator",
+      "date": "2025-06-12",
+      "url": "http://www.xbox.com/es-ES/games/store/construction-simulator/9NLFZVMSQ7CC/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.32906.13712624405302534.e55738fd-2c3b-455f-a5a8-9e7ddcadb7c8.6c4f61fb-f3b1-4a31-b247-4a329e382abd?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-06-15"
+    },
+    {
+      "name": "Bassmaster® Fishing: 2022 Bassmaster Classic®",
+      "date": "2025-06-12",
+      "url": "http://www.xbox.com/es-ES/games/store/bassmaster-fishing-2022-bassmaster-classic/9MXMXF6XTR4R/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.40279.13891444095709700.6f71229e-dffe-4ca7-ab7d-0789d439d116.c9ce9462-f222-49b2-bce2-f17e5cef39cd?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-06-15"
     }
   ]
 }
