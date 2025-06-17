@@ -153,6 +153,16 @@
       ]
     },
     {
+      "name": "Wheel World",
+      "date": "2025-07-23",
+      "url": "http://www.xbox.com/es-ES/games/store/wheel-world/9NGCFDHR2MV3/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.15368.13648167123945660.0abed91b-bdc3-4159-bfec-9e1ba1ec545f.1c4cf44d-3271-4033-8cdb-a4265b3bacdb?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox"
+      ]
+    },
+    {
       "name": "WUCHANG: Fallen Feathers",
       "date": "2025-07-24",
       "url": "http://www.xbox.com/es-ES/games/store/wuchang-fallen-feathers/9NPRHD8GQKQS/0010",
@@ -281,6 +291,68 @@
       "url": "http://www.xbox.com/es-ES/games/store/keplerth/9MT2FXTBCNDG/0010",
       "cover": "https://store-images.s-microsoft.com/image/apps.12968.13821329994604169.93645c5e-df5b-4052-8008-c8c8f59491a5.b62699cc-88f1-4578-bb5a-69b2eacdecd4?q=90&w=177&h=265",
       "platforms": [
+        "pc"
+      ]
+    },
+    {
+      "name": "Arcade Paradise",
+      "date": "2025-06-30",
+      "url": "http://www.xbox.com/es-ES/games/store/arcade-paradise/9N2FQCGWH32D/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.34339.13957312526507243.94fe35e3-4bb7-4224-8eee-d723937ca03f.0609ad3e-d7ef-46af-a855-d5fc5211c954?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Journey to the Savage Planet",
+      "date": "2025-06-30",
+      "url": "http://www.xbox.com/es-ES/games/store/journey-to-the-savage-planet/BZ3CVPFPDSHK/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.28465.64018774417873828.42c2f71f-f575-4f9b-aa08-dc41fe05171e.f17c14ed-3c1e-4d64-8ca5-f5df194aa6f4?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Mi Amiga, Peppa Pig",
+      "date": "2025-06-30",
+      "url": "http://www.xbox.com/es-ES/games/store/mi-amiga-peppa-pig/9NDJLXD2X2DM/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.39927.13613420443671332.a6ea2e8e-4acd-4934-b589-2d8cfaba7189.b557ae97-c138-4202-8f5d-a1c6ae2579a4?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Robin Hood - Sherwood Builders",
+      "date": "2025-06-30",
+      "url": "https://www.xbox.com/es-es/games/store/robin-hood-sherwood-builders/9p7ld2nmmmrn",
+      "cover": "https://store-images.s-microsoft.com/image/apps.31980.14105414348544973.9bef7109-ae4f-4d2d-840a-a27f3acfe32a.0af8317c-0b58-401a-9cf5-dad0fd8fed52?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "SteamWorld Dig",
+      "date": "2025-06-30",
+      "url": "http://www.xbox.com/es-ES/games/store/steamworld-dig/C289KCH8WP0F/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.52353.65316930463474702.8bd81916-34f9-4e21-9716-b1f55adb797a.85394748-695a-4460-85d6-046309b7449d?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "SteamWorld Dig 2",
+      "date": "2025-06-30",
+      "url": "http://www.xbox.com/es-ES/games/store/steamworld-dig-2/9P45LLRNDP1R/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.43126.14599425922253294.95904bbc-623a-4bdd-83de-0dcc69babd49.762e25f8-30de-4e01-bb6e-5cad06fdf50c?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
         "pc"
       ]
     }
