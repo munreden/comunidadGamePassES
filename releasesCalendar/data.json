@@ -123,13 +123,43 @@
       ]
     },
     {
+      "name": "Star Trucker (Standard)",
+      "date": "2025-06-18",
+      "url": "http://www.xbox.com/es-ES/games/store/star-trucker/9MT19Q3CRMQZ/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.44532.13821700683757810.93b2f721-fab5-4d3d-b441-a854a8efa421.7556908b-9456-422f-8836-10c24c5e5e2d?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Wildfrost (Standard)",
+      "date": "2025-06-18",
+      "url": "http://www.xbox.com/es-ES/games/store/wildfrost/9N061M9R7BVQ/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.39650.13931596525681733.af07647a-b35c-4933-8895-2d513f2402b5.9f9f7db5-3817-43f8-9764-3db8abbe7970?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
       "name": "REMATCH",
       "date": "2025-06-19",
       "url": "http://www.xbox.com/es-ES/games/store/rematch/9N5K7HWXL4Q6/0010",
       "cover": "https://store-images.s-microsoft.com/image/apps.51500.14036668029170653.97838000-87b6-4a56-9c79-e4eddcea3b6f.af638a10-8481-45d3-9a46-0be4a02a01d5?q=90&w=177&h=265",
       "platforms": [
         "xbox",
-        "pc"
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Volcano Princess",
+      "date": "2025-06-24",
+      "url": "https://store.steampowered.com/app/1669980/Volcano_Princess/",
+      "cover": "https://products.eneba.games/resized-products/WrwT3s3f7WyR3zZvrFSkhx_Mm1rLSgKR_vv76UpSTh8_1920x1080_1x-0.jpg",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
       ]
     },
     {
@@ -138,7 +168,67 @@
       "url": "https://www.xbox.com/es-es/games/store/against-the-storm/9nrlrjpv4hwl",
       "cover": "https://store-images.s-microsoft.com/image/apps.56295.14385363172001343.ef67463b-a065-4ebb-ae31-992199a7c91f.5cf59ead-2745-4f4f-9f20-9527e1ed7dc1?q=90&w=177&h=265",
       "platforms": [
-        "xbox"
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Warcraft I: Remastered (PC)",
+      "date": "2025-06-26",
+      "url": "https://eu.shop.battle.net/es-es/product/warcraft-1-remastered",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co91fe.jpg",
+      "platforms": [
+        "pc"
+      ]
+    },
+    {
+      "name": "Warcraft II: Remastered (PC)",
+      "date": "2025-06-26",
+      "url": "https://eu.shop.battle.net/es-es/product/warcraft-2-remastered",
+      "cover": "https://i.redd.it/4wiwaiy206zd1.jpeg",
+      "platforms": [
+        "pc"
+      ]
+    },
+    {
+      "name": "Warcraft III: Reforged (PC)",
+      "date": "2025-06-26",
+      "url": "https://eu.shop.battle.net/es-es/product/warcraft-3-reforged",
+      "cover": "https://i.redd.it/rqu59ntdwi021.png",
+      "platforms": [
+        "pc"
+      ]
+    },
+    {
+      "name": "Call of Duty®: WWII",
+      "date": "2025-06-30",
+      "url": "http://www.xbox.com/es-ES/games/store/call-of-duty-wwii/BV0NSD4NN4V4/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.26312.70628478259232551.a0089f3a-b3b5-4c4b-bdaf-0d97810a4816.772b3a20-259a-4178-be6f-3db7bcdc9830?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc"
+      ]
+    },
+    {
+      "name": "Little Nightmares II",
+      "date": "2025-07-01",
+      "url": "http://www.xbox.com/es-ES/games/store/little-nightmares-ii/C1H74N0TR8KT/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.1273.64860558234786024.c6d17f3a-2d73-46e6-8a1e-c828e528d51f.c0546c16-c1b2-4f91-921f-762c88c3ab54?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Rise of the Tomb Raider",
+      "date": "2025-07-01",
+      "url": "http://www.xbox.com/es-ES/games/store/rise-of-the-tomb-raider/BPCN22ZVT05C/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.49298.68439056452236222.b811fa33-c33f-40bf-a2b2-4595319deabe.c331b082-cda2-42b1-9323-922b0b5b5cb1?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
       ]
     },
     {
