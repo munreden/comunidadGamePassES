@@ -1,215 +1,6 @@
 {
   "releaseGames": [
     {
-      "name": "Crypt Custodian",
-      "date": "2025-06-03",
-      "url": "http://www.xbox.com/es-ES/games/store/crypt-custodian/9PLG24BMTP3T/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.6686.14318558795301256.fdb9c324-55d8-4241-98a2-33ab157bad50.f65669a3-d6b8-4fc3-b2b4-74cff6bfb588?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Symphonia 𝄞",
-      "date": "2025-06-03",
-      "url": "http://www.xbox.com/es-ES/games/store/symphonia/9NBLHDB0WLHZ/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.1651.13510847361693800.60401b82-c495-4eb5-9aae-6b84c459941e.d9b56173-9197-4b3b-8202-8d7da7528278?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Baldur's Gate and Baldur's Gate II: Enhanced Editions",
-      "date": "2025-06-05",
-      "url": "http://www.xbox.com/es-ES/games/store/baldurs-gate-and-baldurs-gate-ii-enhanced-editions/9NCNBWZSHZR5/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.12371.13560318840337204.7fb799bf-0c83-4102-a67b-891603f5661f.2f7ad583-ffde-4899-9aca-40397ee33c42?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "cloud"
-      ]
-    },
-    {
-      "name": "RainbowSix Siege X",
-      "date": "2025-06-10",
-      "url": "https://www.xbox.com/es-ES/games/store/paquete-siege-x-tom-clancys-rainbow-six-siege/9MWLSK75PZMR",
-      "cover": "https://store-images.s-microsoft.com/image/apps.48358.13836929063982506.9b73cc65-3a79-4459-bb66-140badb5576a.1e63f117-ae6d-4802-bd3e-33d8034aec99?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Warhammer 40,000: Space Marine - Master Crafted Edition",
-      "date": "2025-06-10",
-      "url": "http://www.xbox.com/es-ES/games/store/warhammer-40000-space-marine-master-crafted-edition/9NDS24HS4N02/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.15013.13608813797993653.5fea78ce-699f-4781-940d-07bc51037d8a.31ba3fd2-c17f-4c62-b283-aed519145a16?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc"
-      ]
-    },
-    {
-      "name": "Barbie™ Proyecto Amistad",
-      "date": "2025-06-11",
-      "url": "http://www.xbox.com/es-ES/games/store/barbie-proyecto-amistad/9NBV7KW62RXV/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.1726.13580776852131209.78c22c06-31c4-422f-83a5-ddfc250feff9.0c48e106-190c-48a1-83dc-f1a1d7b734c9?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc"
-      ]
-    },
-    {
-      "name": "Kingdom Two Crowns",
-      "date": "2025-06-11",
-      "url": "http://www.xbox.com/es-ES/games/store/kingdom-two-crowns/BWT2GPVWCH2F/0001",
-      "cover": "https://store-images.s-microsoft.com/image/apps.50703.71673052342730938.755a1636-e311-4e76-b788-08cd89fc0781.6b300305-6096-42c6-a3b6-58256debb2ef?q=90&w=177&h=265",
-      "platforms": [
-        "pc"
-      ]
-    },
-    {
-      "name": "EA SPORTS FC™ 25",
-      "date": "2025-06-12",
-      "url": "http://www.xbox.com/es-ES/games/store/ea-sports-fc-25-standard-edition-para-xbox-one-y-xbox-series-xs/9MVK78MGD737/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.39617.13862251612333050.ec09080a-b13c-432f-96c1-4c1d38bfef9c.b0deca43-6ba3-4ec9-9013-4b1b0763011d?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "The Alters",
-      "date": "2025-06-13",
-      "url": "https://www.xbox.com/es-ES/games/store/the-alters/9N0P25WJHM8C/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.7753.13917104365848520.a4bd4730-c578-4118-a439-d16f88dde25a.b8d20204-e6cf-4c18-a714-53e1fbb53591?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc"
-      ]
-    },
-    {
-      "name": "Crash Bandicoot™ 4: It’s About Time",
-      "date": "2025-06-17",
-      "url": "http://www.xbox.com/es-ES/games/store/crash-bandicoot-4-its-about-time/9PMXPQ307Z5P/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.44037.14289021587791584.b9937e17-71a6-4b7c-9b62-a2203c893d9c.8aa52a71-f9d0-4eeb-893c-7dac7774cc9f?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "Lost in Random: The Eternal Die",
-      "date": "2025-06-17",
-      "url": "http://www.xbox.com/es-ES/games/store/lost-in-random-the-eternal-die/9N72G399183F/0017",
-      "cover": "https://store-images.s-microsoft.com/image/apps.3325.14006964332473416.10d59252-1152-47fd-84d5-bff9655a949d.66800450-ad18-407b-b6d7-cb091dd50358?q=90&w=177&h=265",
-      "platforms": [
-        "pc",
-        "xbox"
-      ]
-    },
-    {
-      "name": "FBC: Firebreak",
-      "date": "2025-06-17",
-      "url": "https://www.xbox.com/es-es/games/store/fbc-firebreak/9pdcn8z4hkrn",
-      "cover": "https://store-images.s-microsoft.com/image/apps.45469.14156548122363733.4f126492-95e8-406b-9e86-dfd11800657e.4ed60f35-3ca8-40af-9722-2e99a1608f49?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc"
-      ]
-    },
-    {
-      "name": "Star Trucker (Standard)",
-      "date": "2025-06-18",
-      "url": "http://www.xbox.com/es-ES/games/store/star-trucker/9MT19Q3CRMQZ/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.44532.13821700683757810.93b2f721-fab5-4d3d-b441-a854a8efa421.7556908b-9456-422f-8836-10c24c5e5e2d?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "Wildfrost (Standard)",
-      "date": "2025-06-18",
-      "url": "http://www.xbox.com/es-ES/games/store/wildfrost/9N061M9R7BVQ/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.39650.13931596525681733.af07647a-b35c-4933-8895-2d513f2402b5.9f9f7db5-3817-43f8-9764-3db8abbe7970?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "REMATCH",
-      "date": "2025-06-19",
-      "url": "http://www.xbox.com/es-ES/games/store/rematch/9N5K7HWXL4Q6/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.51500.14036668029170653.97838000-87b6-4a56-9c79-e4eddcea3b6f.af638a10-8481-45d3-9a46-0be4a02a01d5?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Volcano Princess",
-      "date": "2025-06-24",
-      "url": "https://store.steampowered.com/app/1669980/Volcano_Princess/",
-      "cover": "https://products.eneba.games/resized-products/WrwT3s3f7WyR3zZvrFSkhx_Mm1rLSgKR_vv76UpSTh8_1920x1080_1x-0.jpg",
-      "platforms": [
-        "pc",
-        "xbox",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Against the Storm (XBOX)",
-      "date": "2025-06-26",
-      "url": "https://www.xbox.com/es-es/games/store/against-the-storm/9nrlrjpv4hwl",
-      "cover": "https://store-images.s-microsoft.com/image/apps.56295.14385363172001343.ef67463b-a065-4ebb-ae31-992199a7c91f.5cf59ead-2745-4f4f-9f20-9527e1ed7dc1?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Warcraft I: Remastered (PC)",
-      "date": "2025-06-26",
-      "url": "https://eu.shop.battle.net/es-es/product/warcraft-1-remastered",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co91fe.jpg",
-      "platforms": [
-        "pc"
-      ]
-    },
-    {
-      "name": "Warcraft II: Remastered (PC)",
-      "date": "2025-06-26",
-      "url": "https://eu.shop.battle.net/es-es/product/warcraft-2-remastered",
-      "cover": "https://i.redd.it/4wiwaiy206zd1.jpeg",
-      "platforms": [
-        "pc"
-      ]
-    },
-    {
-      "name": "Warcraft III: Reforged (PC)",
-      "date": "2025-06-26",
-      "url": "https://eu.shop.battle.net/es-es/product/warcraft-3-reforged",
-      "cover": "https://i.redd.it/rqu59ntdwi021.png",
-      "platforms": [
-        "pc"
-      ]
-    },
-    {
-      "name": "Call of Duty®: WWII",
-      "date": "2025-06-30",
-      "url": "http://www.xbox.com/es-ES/games/store/call-of-duty-wwii/BV0NSD4NN4V4/0001",
-      "cover": "https://store-images.s-microsoft.com/image/apps.26312.70628478259232551.a0089f3a-b3b5-4c4b-bdaf-0d97810a4816.772b3a20-259a-4178-be6f-3db7bcdc9830?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc"
-      ]
-    },
-    {
       "name": "Little Nightmares II",
       "date": "2025-07-01",
       "url": "http://www.xbox.com/es-ES/games/store/little-nightmares-ii/C1H74N0TR8KT/0001",
@@ -314,61 +105,53 @@
   ],
   "leavingGames": [
     {
-      "name": "My Time at Sandrock",
-      "date": "2025-06-15",
-      "url": "http://www.xbox.com/es-ES/games/store/my-time-at-sandrock/9N15RZTXDNPG/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.53895.13907683889228979.59937977-1a57-4871-afde-66c690b605c2.b1de6635-0bdc-4113-bd3b-5dac2d24c904?q=90&w=177&h=265",
+      "name": "Flock",
+      "date": "2025-07-15",
+      "url": "http://www.xbox.com/es-ES/games/store/flock/9N6DGNBPNRNN/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.687.14020382961984479.ef4aaad0-42be-418f-ac4e-3b83d39eb75d.936cfb97-ca49-4025-b1ac-7c23937017dd?q=90&w=177&h=265",
       "platforms": [
+        "xbox",
         "pc",
-        "xbox",
         "cloud"
       ]
     },
     {
-      "name": "Isonzo",
-      "date": "2025-06-15",
-      "url": "http://www.xbox.com/es-ES/games/store/isonzo/9P892X2CCQ74/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.53668.14092075966704801.81e8e95e-a526-44e7-bd1d-f64c90929b0d.d83cc2e2-da7b-4ce5-b20b-e67c868660f6?q=90&w=177&h=265",
+      "name": "Magical Delicacy",
+      "date": "2025-07-15",
+      "url": "http://www.xbox.com/es-ES/games/store/magical-delicacy/9PCRBQG481Q1/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.64700.14168840589167806.ccbf85fe-2d24-4d2b-b05d-d8e67ae3ec54.90407ab5-9aa5-408d-b361-ae8a4868840a?q=90&w=177&h=265",
       "platforms": [
         "xbox",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Dordogne",
-      "date": "2025-06-15",
-      "url": "http://www.xbox.com/es-ES/games/store/dordogne/9PBC65KXPV5V/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.25712.14125819564703927.dd9bbb84-3917-487c-9340-54f8a8ac460d.28ca88ad-10dc-47c9-b1d5-968ccefd433f?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Hypnospace Outlaw",
-      "date": "2025-06-15",
-      "url": "http://www.xbox.com/es-ES/games/store/hypnospace-outlaw/9PM3NVB3PXG0/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.30063.14305718799508027.42641e91-23d0-46ea-ba6f-12aa317fe516.a189d063-dacb-440b-b6a7-3ecae63b3ab4?q=90&w=177&h=265",
-      "platforms": [
         "pc",
-        "xbox",
         "cloud"
       ]
     },
     {
-      "name": "Depersonalization",
-      "date": "2025-06-15",
-      "url": "http://www.xbox.com/es-ES/games/store/depersonalization/9N70SM8985W1/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.51308.14003683450151848.fb1907ac-3deb-42b0-a8a8-456541334591.4744c691-9cd7-4145-a5b4-1c627eb268b0?q=90&w=177&h=265",
+      "name": "Tchia",
+      "date": "2025-07-15",
+      "url": "http://www.xbox.com/es-ES/games/store/tchia/9NK4WRQX5ZC5/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.43956.13667888518526652.393ec2ec-cfcf-4c3f-9526-8f76e651c1e3.1ebb0450-dd1b-41e3-bdf3-4f29293ccbee?q=90&w=177&h=265",
       "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "The Callisto Protocol",
+      "date": "2025-07-15",
+      "url": "http://www.xbox.com/es-ES/games/store/the-callisto-protocol/9MTC2CG0PGN7/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.58803.13811176246156808.4ffec24c-6cbb-48f1-a24f-7054713839a9.dba347b0-23d8-4637-84cd-03260cdb949d?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
         "pc"
       ]
     },
     {
-      "name": "Rolling Hills: Make Sushi, Make Friends",
-      "date": "2025-06-15",
-      "url": "http://www.xbox.com/es-ES/games/store/rolling-hills-make-sushi-make-friends/9N491626R5XP/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.55055.13987004839193022.e60f93d4-33b6-450a-9e73-fd2c1a2733ce.546f90f2-9dba-4475-be6c-b21b7a1fd8b1?q=90&w=177&h=265",
+      "name": "The Case of the Golden Idol",
+      "date": "2025-07-15",
+      "url": "http://www.xbox.com/es-ES/games/store/the-case-of-the-golden-idol/9NBH78WD7XPQ/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.21952.13517632720763203.9431a067-e43c-4a7c-8792-a79a71e66ccb.8b5cb105-4b63-4941-bac4-d137fe4623a6?q=90&w=177&h=265",
       "platforms": [
         "xbox",
         "pc",
@@ -376,74 +159,13 @@
       ]
     },
     {
-      "name": "Keplerth",
-      "date": "2025-06-15",
-      "url": "http://www.xbox.com/es-ES/games/store/keplerth/9MT2FXTBCNDG/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.12968.13821329994604169.93645c5e-df5b-4052-8008-c8c8f59491a5.b62699cc-88f1-4578-bb5a-69b2eacdecd4?q=90&w=177&h=265",
-      "platforms": [
-        "pc"
-      ]
-    },
-    {
-      "name": "Arcade Paradise",
-      "date": "2025-06-30",
-      "url": "http://www.xbox.com/es-ES/games/store/arcade-paradise/9N2FQCGWH32D/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.34339.13957312526507243.94fe35e3-4bb7-4224-8eee-d723937ca03f.0609ad3e-d7ef-46af-a855-d5fc5211c954?q=90&w=177&h=265",
-      "platforms": [
-        "pc",
-        "xbox",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Journey to the Savage Planet",
-      "date": "2025-06-30",
-      "url": "http://www.xbox.com/es-ES/games/store/journey-to-the-savage-planet/BZ3CVPFPDSHK/0001",
-      "cover": "https://store-images.s-microsoft.com/image/apps.28465.64018774417873828.42c2f71f-f575-4f9b-aa08-dc41fe05171e.f17c14ed-3c1e-4d64-8ca5-f5df194aa6f4?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "Mi Amiga, Peppa Pig",
-      "date": "2025-06-30",
-      "url": "http://www.xbox.com/es-ES/games/store/mi-amiga-peppa-pig/9NDJLXD2X2DM/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.39927.13613420443671332.a6ea2e8e-4acd-4934-b589-2d8cfaba7189.b557ae97-c138-4202-8f5d-a1c6ae2579a4?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Robin Hood - Sherwood Builders",
-      "date": "2025-06-30",
-      "url": "https://www.xbox.com/es-es/games/store/robin-hood-sherwood-builders/9p7ld2nmmmrn",
-      "cover": "https://store-images.s-microsoft.com/image/apps.31980.14105414348544973.9bef7109-ae4f-4d2d-840a-a27f3acfe32a.0af8317c-0b58-401a-9cf5-dad0fd8fed52?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "SteamWorld Dig",
-      "date": "2025-06-30",
-      "url": "http://www.xbox.com/es-ES/games/store/steamworld-dig/C289KCH8WP0F/0001",
-      "cover": "https://store-images.s-microsoft.com/image/apps.52353.65316930463474702.8bd81916-34f9-4e21-9716-b1f55adb797a.85394748-695a-4460-85d6-046309b7449d?q=90&w=177&h=265",
+      "name": "Mafia: Edición Definitiva",
+      "date": "2025-07-15",
+      "url": "http://www.xbox.com/es-ES/games/store/mafia-edicion-definitiva/9NZC09NNR93L/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.22534.14479109482538687.fee2b7fd-33b8-463e-b444-b5f0839c1d2b.9e1c69d0-5107-4eda-8b73-1a50f3b88b32?q=90&w=177&h=265",
       "platforms": [
         "xbox",
         "cloud"
-      ]
-    },
-    {
-      "name": "SteamWorld Dig 2",
-      "date": "2025-06-30",
-      "url": "http://www.xbox.com/es-ES/games/store/steamworld-dig-2/9P45LLRNDP1R/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.43126.14599425922253294.95904bbc-623a-4bdd-83de-0dcc69babd49.762e25f8-30de-4e01-bb6e-5cad06fdf50c?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc"
       ]
     }
   ],
