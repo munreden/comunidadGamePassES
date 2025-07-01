@@ -23,10 +23,54 @@
       ]
     },
     {
+      "name": "Ultimate Chicken Horse",
+      "date": "2025-07-03",
+      "url": "http://www.xbox.com/es-ES/games/store/ultimate-chicken-horse/BNNMLWZRNQF6/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.58204.68078631346001331.49a472fe-4e1f-4aab-8e4f-732405dfb269.ce6698ca-5c6b-4afd-b288-03689fd03f7d?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "The Ascent",
+      "date": "2025-07-08",
+      "url": "http://www.xbox.com/es-ES/games/store/the-ascent/C27QL5JBKQ8M/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.50939.65332188737297236.e956bc32-e423-4920-b547-86181e7ed68d.5d1e69b9-96f7-4cd1-b87e-1e694ac71ee2?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Minami Lane",
+      "date": "2025-07-09",
+      "url": "http://www.xbox.com/es-ES/games/store/minami-lane/9NRL00D96M3R/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.7151.14385535525236346.6b91828b-0da4-4a9d-a72a-7686dfd21a21.602c9a5f-f320-4216-9947-79c7fab163a9?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
       "name": "Tony Hawk's™ Pro Skater™ 3 + 4",
       "date": "2025-07-11",
       "url": "https://www.xbox.com/es-ES/games/store/tony-hawks-pro-skater-3-4/9N1WK33QNSRJ/0010",
       "cover": "https://store-images.s-microsoft.com/image/apps.40.13968131629601189.02100553-7fb7-4f1a-b080-6b3ac33c153c.fb963dfe-c59b-4477-a990-9b6f76e653bb?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "High On Life",
+      "date": "2025-07-15",
+      "url": "http://www.xbox.com/es-ES/games/store/high-on-life/9NL4714VTLRS/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.24623.13714596773589453.b0e22fc5-f8b4-4b36-b12d-db5d42554c10.6f0900bc-34c9-486d-996b-89c8de1cc280?q=90&w=177&h=265",
       "platforms": [
         "xbox",
         "pc",
