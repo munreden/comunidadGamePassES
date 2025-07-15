@@ -270,6 +270,39 @@
         "xbox",
         "cloud"
       ]
+    },
+    {
+      "name": "Gigantic: Rampage Edition",
+      "date": "2025-07-31",
+      "url": "http://www.xbox.com/es-ES/games/store/gigantic-rampage-edition/9PGG5GF9326C/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.60538.14186146097487224.a177411c-2e29-4441-9ac7-5ba4f0fef7c4.ec9447f9-c6ad-4fce-b8dc-48dc4fd68b2e?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Kunitsu-Gami: Path of the Goddess",
+      "date": "2025-07-31",
+      "url": "http://www.xbox.com/es-ES/games/store/kunitsu-gami-path-of-the-goddess/9PCWXX0MS15S/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.46179.14165819607364549.f3c32f2d-bd97-40ba-91aa-3c1d1d534464.9263c6df-0980-439a-a17b-58f3dfe62920?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Turnip Boy Robs a Bank",
+      "date": "2025-07-31",
+      "url": "http://www.xbox.com/es-ES/games/store/turnip-boy-robs-a-bank/9NDT1MS39FXZ/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.13818.13607962435826086.cd471fe6-3dd8-4df9-a01c-9b94312c7c3b.d29ae9a9-0509-4b05-b1be-d18eea5a6d72?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
     }
   ],
   "freePlayDays": [
