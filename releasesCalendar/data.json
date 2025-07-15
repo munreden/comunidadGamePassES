@@ -78,13 +78,58 @@
       ]
     },
     {
+      "name": "RoboCop: Rogue City",
+      "date": "2025-07-17",
+      "url": "http://www.xbox.com/es-ES/games/store/robocop-rogue-city/9PKF2LDFPXTN/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.20805.14264121933111165.18ce11d9-27ff-4812-97a9-53625c3634eb.9debbafb-49dc-441f-abf2-dd5852a91fd5?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Mi amigable vecindario",
+      "date": "2025-07-17",
+      "url": "http://www.xbox.com/es-ES/games/store/mi-amigable-vecindario/9MWV1MV9LWF4/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.54533.13832354349125905.43143cd3-426b-4a91-a56a-b6ff2d3a6231.5039abe6-fd55-496d-b92b-1e0eb1b3a966?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Back to the Dawn",
+      "date": "2025-07-18",
+      "url": "http://www.xbox.com/es-ES/games/store/back-to-the-dawn/9PKWJSJ4NWC7/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.46027.14254385379777466.8ff2da73-ccca-40bf-ba1d-d4a22cee3c97.c2ed08e5-def6-4894-bb98-9ec0ec3c2455?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Abiotic Factor",
+      "date": "2025-07-22",
+      "url": "http://www.xbox.com/es-ES/games/store/abiotic-factor/9P4NV23Q6QC2/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.19958.14585229772819603.06d592a4-a006-4f6e-901f-b18fb39d663a.61a5398e-bac4-4f45-91d8-ef4de785728e?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
       "name": "Wheel World",
       "date": "2025-07-23",
       "url": "http://www.xbox.com/es-ES/games/store/wheel-world/9NGCFDHR2MV3/0010",
       "cover": "https://store-images.s-microsoft.com/image/apps.15368.13648167123945660.0abed91b-bdc3-4159-bfec-9e1ba1ec545f.1c4cf44d-3271-4033-8cdb-a4265b3bacdb?q=90&w=177&h=265",
       "platforms": [
         "pc",
-        "xbox"
+        "xbox",
+        "cloud"
       ]
     },
     {
@@ -93,7 +138,9 @@
       "url": "http://www.xbox.com/es-ES/games/store/wuchang-fallen-feathers/9NPRHD8GQKQS/0010",
       "cover": "https://store-images.s-microsoft.com/image/apps.44761.13783945394833991.9c211df2-6d91-4ddb-8a9b-d22dd17d57de.2d4b818f-ca01-45f0-b255-54b665c38ac6?q=90&w=177&h=265",
       "platforms": [
-        "xbox"
+        "pc",
+        "xbox",
+        "cloud"
       ]
     },
     {
@@ -103,7 +150,18 @@
       "cover": "https://store-images.s-microsoft.com/image/apps.54353.14609679373210979.beb28026-7f6b-4b1f-b526-43d0d04b269b.6dcfd9cd-f291-4121-b9d8-a09dd620a5c3?q=90&w=177&h=265",
       "platforms": [
         "pc",
-        "xbox"
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Farming Simulator 25",
+      "date": "2025-08-01",
+      "url": "http://www.xbox.com/es-ES/games/store/farming-simulator-25/9NMCDQ6RCJKH/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.10230.13694869141916354.1f0e293f-084f-4059-a175-14b2b8b8d7a5.13e362df-bc90-4d9f-b465-33ae82e71c7f?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
       ]
     },
     {
@@ -113,7 +171,8 @@
       "cover": "https://store-images.s-microsoft.com/image/apps.55549.14083498106527717.baf556ff-4380-4b5b-9e66-afb4977d6535.ed9482e8-90c6-4198-952b-9a084078cb92?q=90&w=177&h=265",
       "platforms": [
         "pc",
-        "xbox"
+        "xbox",
+        "cloud"
       ]
     },
     {
