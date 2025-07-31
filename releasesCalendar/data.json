@@ -404,6 +404,18 @@
         "xbox"
       ],
       "dateLeaving": "2025-08-03"
+    },
+    {
+      "name": "The Ascent",
+      "date": "2025-07-31",
+      "url": "http://www.xbox.com/es-ES/games/store/the-ascent/C27QL5JBKQ8M/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.50939.65332188737297236.e956bc32-e423-4920-b547-86181e7ed68d.5d1e69b9-96f7-4cd1-b87e-1e694ac71ee2?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ],
+      "dateLeaving": "2025-08-03"
     }
   ]
 }
