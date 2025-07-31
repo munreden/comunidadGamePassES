@@ -374,6 +374,36 @@
         "xbox"
       ],
       "dateLeaving": "2025-06-15"
+    },
+    {
+      "name": "WWE 2K25 Edición Estándar",
+      "date": "2025-07-31",
+      "url": "http://www.xbox.com/es-ES/games/store/wwe-2k25-edicion-estandar/9P4LD7LTFZS9/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.50736.14591309837674898.827ca3d1-44be-4015-a263-c377a8b2e28e.706f2d7e-3002-41e1-b0d3-d735240f6b0b?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-08-03"
+    },
+    {
+      "name": "DYNASTY WARRIORS: ORIGINS",
+      "date": "2025-07-31",
+      "url": "http://www.xbox.com/es-ES/games/store/dynasty-warriors-origins/9P5HJQNX53XJ/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.7844.14573256002111387.cf80983a-e56e-4d24-951d-78e83c5deb4e.fa9a40f5-40d3-4d21-92ca-9388628983e9?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-08-03"
+    },
+    {
+      "name": "I, Robot",
+      "date": "2025-07-31",
+      "url": "http://www.xbox.com/es-ES/games/store/i-robot/9PHF27SH4QC4/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.37975.14233160234811217.559f46ce-2d8c-406c-ba88-c62ff50f6950.547b4f57-c334-43c8-a8a2-388825df4cc8?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-08-03"
     }
   ]
 }
