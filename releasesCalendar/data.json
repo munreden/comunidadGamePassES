@@ -172,6 +172,60 @@
         "pc",
         "cloud"
       ]
+    },
+    {
+      "name": "Borderlands 3",
+      "date": "2025-08-31",
+      "url": "http://www.xbox.com/es-ES/games/store/borderlands-3/C34NB0F1B5WQ/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.29198.66416288418246547.8db04ed4-6710-424c-b2c7-fc1b8f89e9a2.125b501a-844a-4ec6-86ef-3c46ebf4c698?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Sea of Stars",
+      "date": "2025-08-31",
+      "url": "http://www.xbox.com/es-ES/games/store/sea-of-stars/9NLLTTJZH40L/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.38545.13704965593711325.c8ed22ec-c56d-4ecd-bbbf-e9f6934161c4.31cf7163-fa87-4b36-a2a7-80c86dc947c7?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Paw Patrol La poderosa patrulla CANINA salva Bahía Aventura",
+      "date": "2025-08-31",
+      "url": "https://www.xbox.com/es-ES/games/store/paw-patrol-la-poderosa-patrulla-canina-salva-bahia-aventura/9N3TF03KNTBD/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.33071.13996206863599819.e2c5aea7-cee9-4965-bcf2-983a449c260d.b5f542cf-aa9a-4dff-8cb7-533d0a756ad3?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Ben 10: Power Trip",
+      "date": "2025-08-31",
+      "url": "http://www.xbox.com/es-ES/games/store/ben-10-power-trip/9NJWFF2KHL6H/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.683.13672727399820228.e1322d27-4961-46da-9c7b-c310d3e28cb1.e9be41b7-c7f3-4c93-b981-113631a8fa2d?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "This War of Mine: Final Cut",
+      "date": "2025-08-31",
+      "url": "http://www.xbox.com/es-ES/games/store/this-war-of-mine-final-cut/9MT6TG9CXR2H/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.15460.13818178861591472.06d4cfd1-e581-4b7f-8268-7ed2cfca3f35.4df1e370-a679-4bdb-8a09-01ea6481da81?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
     }
   ],
   "freePlayDays": [
