@@ -100,10 +100,68 @@
       ]
     },
     {
+      "name": "Blacksmith Master (Game Preview)",
+      "date": "2025-08-19",
+      "url": "http://www.xbox.com/es-ES/games/store/blacksmith-master-game-preview/9NMZH1KXLTSB/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.56617.13748669332067305.778de514-4db5-4c62-a9b3-3de28b17b8cd.55cbe94a-0b6c-4cea-9753-a98b050b006d?q=90&w=177&h=265",
+      "platforms": [
+        "pc"
+      ]
+    },
+    {
+      "name": "VOID/BREAKER (Versión preliminar del juego)",
+      "date": "2025-08-19",
+      "url": "http://www.xbox.com/es-ES/games/store/voidbreaker-version-preliminar-del-juego/9N9K5QP9G3GL/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.28376.13536036111571877.589d3b26-235b-491c-b54b-52bb688c551a.fde4f1b9-ce6d-4948-b766-947672614697?q=90&w=177&h=265",
+      "platforms": [
+        "pc"
+      ]
+    },
+    {
+      "name": "Goat Simulator: Remastered [S]",
+      "date": "2025-08-20",
+      "url": "http://www.xbox.com/es-ES/games/store/goat-simulator-remastered/9P71QFSC7Q34/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.23941.14613594387174793.c8989194-dd0a-4922-b0ab-c64275ecf8b0.3513efd2-b8ca-4377-b4e6-f5f4b7ab29d8?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Persona 4 Golden [S]",
+      "date": "2025-08-20",
+      "url": "http://www.xbox.com/es-ES/games/store/persona-4-golden/9PK4B09SMN5C/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.39006.14274331993185118.d1429e04-9d9f-4a4f-bb4c-5514229e3a28.acebbd5b-e1a7-4097-8a75-9bd2d77ae2dd?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Herdling",
+      "date": "2025-08-21",
+      "url": "http://www.xbox.com/es-ES/games/store/herdling/9NNHK7K8RV9C/0017",
+      "cover": "https://store-images.s-microsoft.com/image/apps.28060.13742556933276558.09935f63-bc59-4aec-9e7d-67306264be9b.933c709a-17be-4c80-b977-f8c7be2e3903?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
       "name": "Gears of War: Reloaded",
       "date": "2025-08-26",
       "url": "http://www.xbox.com/es-ES/games/store/gears-of-war-reloaded/9P8PS6993LSL/0010",
       "cover": "https://store-images.s-microsoft.com/image/apps.55549.14083498106527717.baf556ff-4380-4b5b-9e66-afb4977d6535.ed9482e8-90c6-4198-952b-9a084078cb92?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Dragon Age™: The Veilguard",
+      "date": "2025-08-28",
+      "url": "http://www.xbox.com/es-ES/games/store/dragon-age-the-veilguard/BSDX4FNNC0DK/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.38833.70235499116980422.afa790bc-d40d-4662-8558-79a66a5c76b9.5c6739b8-ef9e-4816-8508-0b72704957f5?q=90&w=177&h=265",
       "platforms": [
         "pc",
         "xbox",
