@@ -197,6 +197,16 @@
         "pc",
         "xbox"
       ]
+    },
+    {
+      "name": "High On Life 2",
+      "date": "2026-02-13",
+      "url": "http://www.xbox.com/es-ES/games/store/high-on-life-2/9NF6XPSBTTGB/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.24508.13600359535610445.83a29ac7-f121-4e17-8768-bd1631b536e6.f02f14c4-46aa-493a-aa6b-e1b28399f5ef?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox"
+      ]
     }
   ],
   "leavingGames": [
