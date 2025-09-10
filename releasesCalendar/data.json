@@ -1,67 +1,28 @@
 {
   "releaseGames": [
     {
-      "name": "Farming Simulator 25",
-      "date": "2025-08-01",
-      "url": "http://www.xbox.com/es-ES/games/store/farming-simulator-25/9NMCDQ6RCJKH/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.10230.13694869141916354.1f0e293f-084f-4059-a175-14b2b8b8d7a5.13e362df-bc90-4d9f-b465-33ae82e71c7f?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Rain World",
-      "date": "2025-08-05",
-      "url": "http://www.xbox.com/es-ES/games/store/rain-world/9PNPFBPLGCMW/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.21995.14344758136653430.0a9ce6ed-b26d-40f7-a6e0-5e2514866b02.c5adc4e8-fba7-4ac5-b220-ca281c299074?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Citizen Sleeper 2: Starward Vector [Standard]",
-      "date": "2025-08-06",
-      "url": "http://www.xbox.com/es-ES/games/store/citizen-sleeper-2-starward-vector/9MWCF1XBJBR2/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.47283.13841979780106331.acb28221-4c2d-40dc-b1e1-dbee254379de.abf1f1a2-f310-4d90-a369-37a94a90dd42?q=90&w=177&h=265",
+      "name": "I Am Your Beast [S]",
+      "date": "2025-09-02",
+      "url": "http://www.xbox.com/es-ES/games/store/i-am-your-beast/9PF9FQGH89WM/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.59175.14208859939056310.d1ec68da-591a-444e-932d-068d9ca0f8b5.7705a309-6657-4ee1-b7da-35dacec59b89?q=90&w=177&h=265",
       "platforms": [
         "xbox"
       ]
     },
     {
-      "name": "Lonely Mountains: Snow Riders [Standard]",
-      "date": "2025-08-06",
-      "url": "http://www.xbox.com/es-ES/games/store/lonely-mountains-snow-riders/9PF3MC3V9Q27/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.57296.14212743398014260.4c0cc9e4-575b-4fb6-b786-48db66a30ec0.fe7edd9e-1253-4ca4-a33a-08330bf2aee3?q=90&w=177&h=265",
+      "name": "Nine Sols [S]",
+      "date": "2025-09-03",
+      "url": "http://www.xbox.com/es-ES/games/store/nine-sols/9N3LGKGF3CC2/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.45976.14000456863863255.e1180b2d-029d-4c02-9385-6ad73421ad63.508279c9-acdd-45b3-9321-9d8f45feb958?q=90&w=177&h=265",
       "platforms": [
         "xbox"
       ]
     },
     {
-      "name": "MechWarrior 5: Clans [Standard]",
-      "date": "2025-08-06",
-      "url": "http://www.xbox.com/es-ES/games/store/mechwarrior-5-clans/9P9FJCK32PMT/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.11196.14143931878007168.03344273-b496-420a-9599-61992eabf325.59d84f74-86b3-4ba1-884e-a34bb805880f?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "Orcs Must Die! Deathtrap [Standard]",
-      "date": "2025-08-06",
-      "url": "http://www.xbox.com/es-ES/games/store/orcs-must-die-deathtrap/9P0302F6V9VT/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.47409.14468803747722334.03cd3f6a-9768-4ae5-ad95-5c7dc9ddeb76.47bd1969-8415-40a1-9bdf-7a6c503852b0?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "Assassin's Creed® Mirage",
-      "date": "2025-08-07",
-      "url": "http://www.xbox.com/es-ES/games/store/assassins-creed-mirage/9NZCJF5VF1NV/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.51627.14478378080353577.d9dde1a0-41ed-4026-93ef-d3e32de2f685.3a37ac18-73a3-42f9-813e-fefef8ef07e5?q=90&w=177&h=265",
+      "name": "Hollow Knight: Silksong",
+      "date": "2025-09-04",
+      "url": "http://www.xbox.com/es-ES/games/store/hollow-knight-silksong/9N116V0599HB/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.21346.13915115277924383.ab2daab8-cb71-4e1a-ad73-9e4a3e87c3f3.508fc374-c9ac-44bf-b71a-9d4b29515e2f?q=90&w=177&h=265",
       "platforms": [
         "pc",
         "xbox",
@@ -69,103 +30,30 @@
       ]
     },
     {
-      "name": "Heretic + Hexen",
-      "date": "2025-08-07",
-      "url": "http://www.xbox.com/es-ES/games/store/heretic-hexen/9NC7NRD0CM11/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.45242.13568632792554292.fea70ec4-25b5-4014-996b-52c5abc58b71.3631a6a8-0f15-49b7-8ffc-b7ddb5d0dd2a?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Aliens: Fireteam Elite",
-      "date": "2025-08-12",
-      "url": "http://www.xbox.com/es-ES/games/store/aliens-fireteam-elite/9PG28RXDG9GQ/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.48016.14189206062547849.34667497-3c97-48d3-916d-0cd555e3aee9.bf7b37bc-9777-47ae-98c1-a56ad4015ae7?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "9 Kings (Game Preview)",
-      "date": "2025-08-14",
-      "url": "https://store.steampowered.com/app/2784470/9_Kings/",
-      "cover": "https://cdn2.steamgriddb.com/thumb/fde4b0619c89be4a7c55ef008e68dcdd.jpg",
+      "name": "Cataclismo",
+      "date": "2025-09-04",
+      "url": "http://www.xbox.com/es-ES/games/store/cataclismo/9N77QBDKKM4C/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.39507.14069783637787952.1ce111e4-c3d7-4ea2-9289-8a73f033fcbf.926cb7e6-5cf2-48c3-b81d-4857bd482571?q=90&w=177&h=265",
       "platforms": [
         "pc"
       ]
     },
     {
-      "name": "Blacksmith Master (Game Preview)",
-      "date": "2025-08-19",
-      "url": "http://www.xbox.com/es-ES/games/store/blacksmith-master-game-preview/9NMZH1KXLTSB/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.56617.13748669332067305.778de514-4db5-4c62-a9b3-3de28b17b8cd.55cbe94a-0b6c-4cea-9753-a98b050b006d?q=90&w=177&h=265",
-      "platforms": [
-        "pc"
-      ]
-    },
-    {
-      "name": "VOID/BREAKER (Versión preliminar del juego)",
-      "date": "2025-08-19",
-      "url": "http://www.xbox.com/es-ES/games/store/voidbreaker-version-preliminar-del-juego/9N9K5QP9G3GL/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.28376.13536036111571877.589d3b26-235b-491c-b54b-52bb688c551a.fde4f1b9-ce6d-4948-b766-947672614697?q=90&w=177&h=265",
-      "platforms": [
-        "pc"
-      ]
-    },
-    {
-      "name": "Goat Simulator: Remastered [S]",
-      "date": "2025-08-20",
-      "url": "http://www.xbox.com/es-ES/games/store/goat-simulator-remastered/9P71QFSC7Q34/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.23941.14613594387174793.c8989194-dd0a-4922-b0ab-c64275ecf8b0.3513efd2-b8ca-4377-b4e6-f5f4b7ab29d8?q=90&w=177&h=265",
+      "name": "PAW Patrol World - La Patrulla Canina [S]",
+      "date": "2025-09-10",
+      "url": "http://www.xbox.com/es-ES/games/store/paw-patrol-world-la-patrulla-canina/9N2VDS259QP1/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.45471.13948993858025072.92023a0f-4cb5-4ee3-8396-0122fea8fafe.8f3a375f-b8a6-429d-8d7d-607ea603887e?q=90&w=177&h=265",
       "platforms": [
         "xbox"
       ]
     },
     {
-      "name": "Persona 4 Golden [S]",
-      "date": "2025-08-20",
-      "url": "http://www.xbox.com/es-ES/games/store/persona-4-golden/9PK4B09SMN5C/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.39006.14274331993185118.d1429e04-9d9f-4a4f-bb4c-5514229e3a28.acebbd5b-e1a7-4097-8a75-9bd2d77ae2dd?q=90&w=177&h=265",
+      "name": "RoadCraft [S]",
+      "date": "2025-09-16",
+      "url": "http://www.xbox.com/es-ES/games/store/roadcraft/9N4J937WLFPZ/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.26113.13982274548286624.6ccdd9db-6d03-467c-b6c3-b56c939a6347.183108bb-777b-453b-a8da-e08cfbca64cc?q=90&w=177&h=265",
       "platforms": [
         "xbox"
-      ]
-    },
-    {
-      "name": "Herdling",
-      "date": "2025-08-21",
-      "url": "http://www.xbox.com/es-ES/games/store/herdling/9NNHK7K8RV9C/0017",
-      "cover": "https://store-images.s-microsoft.com/image/apps.28060.13742556933276558.09935f63-bc59-4aec-9e7d-67306264be9b.933c709a-17be-4c80-b977-f8c7be2e3903?q=90&w=177&h=265",
-      "platforms": [
-        "pc",
-        "xbox",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Gears of War: Reloaded",
-      "date": "2025-08-26",
-      "url": "http://www.xbox.com/es-ES/games/store/gears-of-war-reloaded/9P8PS6993LSL/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.55549.14083498106527717.baf556ff-4380-4b5b-9e66-afb4977d6535.ed9482e8-90c6-4198-952b-9a084078cb92?q=90&w=177&h=265",
-      "platforms": [
-        "pc",
-        "xbox",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Dragon Age™: The Veilguard",
-      "date": "2025-08-28",
-      "url": "http://www.xbox.com/es-ES/games/store/dragon-age-the-veilguard/BSDX4FNNC0DK/0001",
-      "cover": "https://store-images.s-microsoft.com/image/apps.38833.70235499116980422.afa790bc-d40d-4662-8558-79a66a5c76b9.5c6739b8-ef9e-4816-8508-0b72704957f5?q=90&w=177&h=265",
-      "platforms": [
-        "pc",
-        "xbox",
-        "cloud"
       ]
     },
     {
@@ -210,69 +98,6 @@
     }
   ],
   "leavingGames": [
-    {
-      "name": "Anthem™",
-      "date": "2025-08-15",
-      "url": "http://www.xbox.com/es-ES/games/store/anthem/BP9JQBJM0FNW/0001",
-      "cover": "https://store-images.s-microsoft.com/image/apps.57681.68414427103463856.1f5379b8-b0df-4559-8bfc-233157d35637.5e82d382-3ee0-4c61-b10d-b244c8f284af?q=90&w=177&h=265",
-      "platforms": [
-        "pc",
-        "xbox"
-      ]
-    },
-    {
-      "name": "Farming Simulator 22",
-      "date": "2025-08-15",
-      "url": "http://www.xbox.com/es-ES/games/store/farming-simulator-22/9P6SRW1HVW9K/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.27765.14617846210383148.f5d1d30e-892f-4959-a5b8-f2ef506cf0ae.06b579ad-96f8-4022-8597-30495b89c26a?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Persona 3 Reload",
-      "date": "2025-08-15",
-      "url": "http://www.xbox.com/es-ES/games/store/persona-3-reload/9NKK6Z0K3RH2/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.14266.13660021874166335.cf99aaa0-1039-41d3-bafe-7239ec9e261c.99536512-d642-4538-a4d0-21872ec5d097?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Borderlands 3",
-      "date": "2025-08-31",
-      "url": "http://www.xbox.com/es-ES/games/store/borderlands-3/C34NB0F1B5WQ/0001",
-      "cover": "https://store-images.s-microsoft.com/image/apps.29198.66416288418246547.8db04ed4-6710-424c-b2c7-fc1b8f89e9a2.125b501a-844a-4ec6-86ef-3c46ebf4c698?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Sea of Stars",
-      "date": "2025-08-31",
-      "url": "http://www.xbox.com/es-ES/games/store/sea-of-stars/9NLLTTJZH40L/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.38545.13704965593711325.c8ed22ec-c56d-4ecd-bbbf-e9f6934161c4.31cf7163-fa87-4b36-a2a7-80c86dc947c7?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Paw Patrol La poderosa patrulla CANINA salva Bahía Aventura",
-      "date": "2025-08-31",
-      "url": "https://www.xbox.com/es-ES/games/store/paw-patrol-la-poderosa-patrulla-canina-salva-bahia-aventura/9N3TF03KNTBD/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.33071.13996206863599819.e2c5aea7-cee9-4965-bcf2-983a449c260d.b5f542cf-aa9a-4dff-8cb7-533d0a756ad3?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
     {
       "name": "Ben 10: Power Trip",
       "date": "2025-08-31",
