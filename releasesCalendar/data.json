@@ -84,12 +84,13 @@
       ]
     },
     {
-      "name": "Deep Rock Galactic: Survivor [S]",
+      "name": "Deep Rock Galactic: Survivor",
       "date": "2025-09-17",
       "url": "http://www.xbox.com/es-ES/games/store/deep-rock-galactic-survivor/9PHGQPRBBSXK/0010",
       "cover": "https://store-images.s-microsoft.com/image/apps.62117.14236455618786574.7da56d6f-3f92-4177-864c-483af4ecce05.54c72459-96aa-4856-b63f-8b7858f31b2e?q=90&w=177&h=265",
       "platforms": [
-        "xbox"
+        "xbox",
+        "pc"
       ]
     },
     {
@@ -263,14 +264,45 @@
   ],
   "leavingGames": [
     {
-      "name": "Ben 10: Power Trip",
-      "date": "2025-08-31",
-      "url": "http://www.xbox.com/es-ES/games/store/ben-10-power-trip/9NJWFF2KHL6H/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.683.13672727399820228.e1322d27-4961-46da-9c7b-c310d3e28cb1.e9be41b7-c7f3-4c93-b981-113631a8fa2d?q=90&w=177&h=265",
+      "name": "NINJA GAIDEN Σ",
+      "date": "2025-09-30",
+      "url": "http://www.xbox.com/es-ES/games/store/ninja-gaiden-s/9NZ5QW71X49G/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.49920.14486675416442203.186df2ad-99aa-4e4f-bcb4-cb37ca999946.42958f01-d624-46f5-a48d-341f74093096?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "NINJA GAIDEN Σ2",
+      "date": "2025-09-30",
+      "url": "https://www.xbox.com/es-ES/games/store/ninja-gaiden-s2/9pgsc3pw4n8z",
+      "cover": "https://store-images.s-microsoft.com/image/apps.43320.14245467679473898.001107c4-7d89-4b24-ae55-6960d7565280.f5c073da-71f7-48f3-9f5d-5bd871daa221?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "NINJA GAIDEN 3: Razor's Edge",
+      "date": "2025-09-30",
+      "url": "http://www.xbox.com/es-ES/games/store/ninja-gaiden-3-razors-edge/9N27DBP8GNNB/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.39709.13957002730398149.0cea4e4d-b211-438d-b3fc-78fd52485184.6877fb58-c972-4791-ba93-470d2cb3ab6a?q=90&w=177&h=265",
       "platforms": [
         "xbox",
         "pc",
         "cloud"
+      ]
+    },
+    {
+      "name": "Terra Invicta (Game Preview)",
+      "date": "2025-09-30",
+      "url": "http://www.xbox.com/es-ES/games/store/terra-invicta-game-preview/9PB0GLGXQZ83/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.50360.14128659347127760.50ff03f9-5305-4110-a165-58d579d11a5f.48b27e18-0fdd-418a-813f-bd5a23739c73?q=90&w=177&h=265",
+      "platforms": [
+        "pc"
       ]
     },
     {
