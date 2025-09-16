@@ -57,6 +57,170 @@
       ]
     },
     {
+      "name": "Call of Duty®: Modern Warfare® III [S]",
+      "date": "2025-09-17",
+      "url": "http://www.xbox.com/es-ES/games/store/call-of-duty-modern-warfare-iii-lanzador/9PMFDKG5F9R7/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.55183.14294905624066082.fe6438c3-35eb-479e-9a62-93f8c5cb99f9.2f8c7f01-ea95-40bb-b5fb-7e6d7322e568?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "For The King II [S]",
+      "date": "2025-09-17",
+      "url": "http://www.xbox.com/es-ES/games/store/for-the-king-ii/9NVC9KWJVLT0/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.12766.14401580739712929.1516cf95-6368-4bda-ba63-aea64b42d32f.6302e8ec-135f-48a5-aafc-d560fdf76e40?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Overthrown [S]",
+      "date": "2025-09-17",
+      "url": "http://www.xbox.com/es-ES/games/store/overthrown-version-preliminar-del-juego/9MT5KSV3RCWD/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.35112.13814604299939965.c904f2ba-0ff1-460d-85a1-9ff776c41025.ae238b04-b76e-4638-9048-cfb05ab046d1?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Deep Rock Galactic: Survivor [S]",
+      "date": "2025-09-17",
+      "url": "http://www.xbox.com/es-ES/games/store/deep-rock-galactic-survivor/9PHGQPRBBSXK/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.62117.14236455618786574.7da56d6f-3f92-4177-864c-483af4ecce05.54c72459-96aa-4856-b63f-8b7858f31b2e?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Frostpunk 2",
+      "date": "2025-09-18",
+      "url": "http://www.xbox.com/es-ES/games/store/frostpunk-2/9N0KN24FWP6B/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.4430.13923668312910701.01edfea1-db44-49e5-8fd9-8f546040b4b7.9bb1a96f-07fb-4b50-9506-21ef028813fc?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Wobbly Life",
+      "date": "2025-09-18",
+      "url": "http://www.xbox.com/es-ES/games/store/wobbly-life/9NS86BQ33SPX/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.4650.14372274785244461.706c2fec-9d0d-41b1-843a-98970af758ca.88651a20-dfdb-4372-bf50-18485feb8c30?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Hades",
+      "date": "2025-09-19",
+      "url": "http://www.xbox.com/es-ES/games/store/hades/9P8DL6W0JBB8/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.48496.14093828725404571.e8c4fd85-da7e-4c33-9a85-c97c9f3eeb38.fde6f3ed-4a08-4bb8-8240-9cd19e049803?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "ENDLESS™ Legend 2",
+      "date": "2025-09-22",
+      "url": "http://www.xbox.com/es-ES/games/store/endless-legend-2-game-preview/9NQNRZG07H94/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.15567.13770097640131441.74491efb-0a53-4874-a733-c0ee57659915.59391571-4e77-44eb-8499-835d4042f0c6?q=90&w=177&h=265",
+      "platforms": [
+        "pc"
+      ]
+    },
+    {
+      "name": "SWORN",
+      "date": "2025-09-23",
+      "url": "http://www.xbox.com/es-ES/games/store/sworn/9NBL6KM4N8JL/0017",
+      "cover": "https://store-images.s-microsoft.com/image/apps.64072.13511316360139765.c27c733b-7cf6-4671-a04c-5a2fcb95b0f0.9e92bee3-e2bf-4b07-9382-3f8347455466?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Peppa Pig: Un mundo de aventuras",
+      "date": "2025-09-25",
+      "url": "http://www.xbox.com/es-ES/games/store/peppa-pig-un-mundo-de-aventuras/9P0P58R3NQDS/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.20709.14523056830753135.0f821659-b4b7-49e6-ae3a-dcc2319454d6.43fc4d54-7753-4ef6-adc3-bcc69ada8eff?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Visions of Mana",
+      "date": "2025-09-25",
+      "url": "http://www.xbox.com/es-ES/games/store/visions-of-mana/9NJ5WV40PD08/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.38758.13682791436862455.fd616451-bc9e-4d12-b724-a0f613e579be.f2f0d7e2-8d7d-4aeb-8582-e16db8121630?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Lara Croft and the Guardian of Light",
+      "date": "2025-09-30",
+      "url": "http://www.xbox.com/es-ES/games/store/lara-croft-and-the-guardian-of-light-pc/9NS37Q75LBCG/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.30416.14375628118106119.0b332df6-8930-4796-a54f-b6a7fba77404.9411324e-666c-4897-a8b9-db7cbe7cae69?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Cities: Skylines - Remastered [GP CORE]",
+      "date": "2025-10-01",
+      "url": "http://www.xbox.com/es-ES/games/store/cities-skylines-remastered/9MZ4GBWX9GND/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.41631.13877341660077011.7198ab78-e545-4cfe-8105-110d8c697dac.7f82efb8-521a-4424-89b3-3d8c14075fcc?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Disney Dreamlight Valley [GP CORE]",
+      "date": "2025-10-01",
+      "url": "http://www.xbox.com/es-ES/games/store/disney-dreamlight-valley/9NSF0BGH8D86/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.49214.14365104417622257.42e17a74-81d1-4e35-8c38-a935ba30ef21.1dbd1112-2f72-47f3-9f32-391095d1cc02?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Warhammer 40,000: Darktide [GP CORE]",
+      "date": "2025-10-01",
+      "url": "http://www.xbox.com/es-ES/games/store/warhammer-40000-darktide/9NT3WC6RKBVQ/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.45862.14421726920549205.4ed1a8ed-1549-4013-8769-b57c45ca99b5.353eafe7-074e-479e-8f87-a93b482e3f6c?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Sopa - Tale of the Stolen Potato",
+      "date": "2025-10-07",
+      "url": "https://store.steampowered.com/app/1935330/SOPA__Tale_of_the_Stolen_Potato/",
+      "cover": "https://shared.steamstatic.com/store_item_assets/steam/apps/1935330/library_600x900_2x.jpg?t=1754404191",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
       "name": "Keeper",
       "date": "2025-10-17",
       "url": "http://www.xbox.com/es-ES/games/store/keeper/9NCJWHHMVHR0/0010",
