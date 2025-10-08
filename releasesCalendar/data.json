@@ -199,10 +199,31 @@
   ],
   "leavingGames": [
     {
-      "name": "This War of Mine: Final Cut",
-      "date": "2025-08-31",
-      "url": "http://www.xbox.com/es-ES/games/store/this-war-of-mine-final-cut/9MT6TG9CXR2H/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.15460.13818178861591472.06d4cfd1-e581-4b7f-8268-7ed2cfca3f35.4df1e370-a679-4bdb-8a09-01ea6481da81?q=90&w=177&h=265",
+      "name": "Cocoon",
+      "date": "2025-10-15",
+      "url": "http://www.xbox.com/es-ES/games/store/cocoon/9N3FPS4LDHCR/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.14049.13933554322251706.0a9bd242-c253-4ad3-882f-a5699d708be5.5ab9988a-0928-47c8-bd59-62fc62fb2f25?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Core Keeper",
+      "date": "2025-10-15",
+      "url": "http://www.xbox.com/es-ES/games/store/core-keeper/9PKW4GMX4J8K/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.35511.14254653956732518.ee4db869-b080-4312-9405-1bf254e12616.ecba3eeb-5e13-430c-b6f4-2dcaa4095f7d?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Ninja Turtles: Mutantes Desencadenados",
+      "date": "2025-10-15",
+      "url": "http://www.xbox.com/es-ES/games/store/ninja-turtles-mutantes-desencadenados/9P27ZX0DH2JN/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.42181.14562706045768227.d2247107-35cd-40b8-84cc-fe1ac03a1696.b9a1ed75-d127-47b2-badf-8d5d71b548f6?q=90&w=177&h=265",
       "platforms": [
         "xbox",
         "pc",
