@@ -55,6 +55,89 @@
       ]
     },
     {
+      "name": "Supermarket Simulator",
+      "date": "2025-10-08",
+      "url": "http://www.xbox.com/es-ES/games/store/supermarket-simulator/9NR0GCBSLDW4/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.63656.13763814357241001.e01392b6-0898-4953-8acf-030f03590bbb.afb78fab-c656-4ed4-a4a4-3aca6f24fae0?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc"
+      ]
+    },
+    {
+      "name": "Baldur's Gate and Baldur's Gate II: Enhanced Editions",
+      "date": "2025-10-09",
+      "url": "http://www.xbox.com/es-ES/games/store/baldurs-gate-and-baldurs-gate-ii-enhanced-editions/9NCNBWZSHZR5/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.12371.13560318840337204.7fb799bf-0c83-4102-a67b-891603f5661f.2f7ad583-ffde-4899-9aca-40397ee33c42?q=90&w=177&h=265",
+      "platforms": [
+        "pc"
+      ]
+    },
+    {
+      "name": "The Casting of Frank Stone™",
+      "date": "2025-10-14",
+      "url": "http://www.xbox.com/es-ES/games/store/the-casting-of-frank-stone/9PG0PMB5Q0GT/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.57876.14194909325684282.4555d428-db78-49a6-b09e-ad174d55ec29.fef64c0a-42a2-41ec-94db-06a33a017716?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "BALL x PIT",
+      "date": "2025-10-15",
+      "url": "http://www.xbox.com/es-ES/games/store/ball-x-pit/9MWXF3SRD7QN/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.41615.13835016463632115.a5cef575-d953-487b-9311-f25cca59bc7c.3fc8dbfb-f70e-4591-a04a-f75028587427?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "The Grinch: Christmas Adventures",
+      "date": "2025-10-15",
+      "url": "http://www.xbox.com/es-ES/games/store/the-grinch-christmas-adventures/9PDBV8R4TSNH/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.37255.14157244946877624.cf4bddda-e8a8-4c73-af27-38ac56f856cc.41b5afc8-acdd-4def-baf6-f0c81cbc1eb0?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Eternal Strands [PREMIUM]",
+      "date": "2025-10-15",
+      "url": "http://www.xbox.com/es-ES/games/store/eternal-strands/9NNKJNRKFT0G/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.55883.13736859116442717.a1ffa0ea-8877-44c8-8310-2433a1850d55.289fef47-87b7-442a-baab-439a9636d846?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "He is Coming (Game Preview) [PREMIUM]",
+      "date": "2025-10-15",
+      "url": "http://www.xbox.com/es-ES/games/store/he-is-coming-game-preview/9N86QX607TMR/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.23863.14054902319068378.1242797e-f749-4908-8275-ba478258f0e3.3152133e-a131-4f39-9658-a9d4addc9868?q=90&w=177&h=265",
+      "platforms": [
+        "pc"
+      ]
+    },
+    {
+      "name": "NINJA GAIDEN 2 Black [PREMIUM]",
+      "date": "2025-10-15",
+      "url": "http://www.xbox.com/es-ES/games/store/ninja-gaiden-2-black/9N51FH42VQDS/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.2339.13976941088581007.e581c7fc-0a79-4f79-9d86-95424f162e3e.0ee2186b-8ff5-43d7-8024-02dbbd850286?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
       "name": "Keeper",
       "date": "2025-10-17",
       "url": "http://www.xbox.com/es-ES/games/store/keeper/9NCJWHHMVHR0/0010",
@@ -72,6 +155,16 @@
       "platforms": [
         "pc",
         "xbox"
+      ]
+    },
+    {
+      "name": "Evil West",
+      "date": "2025-10-21",
+      "url": "http://www.xbox.com/es-ES/games/store/evil-west/9MW581HCJPM6/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.3216.14176554647910182.b03fa26e-38ab-4eae-a31e-457e38d3b885.98515c15-2cca-42ec-ad44-9b778e4722f4?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
       ]
     },
     {
