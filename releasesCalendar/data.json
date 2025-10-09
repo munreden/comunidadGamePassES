@@ -233,26 +233,69 @@
   ],
   "freePlayDays": [
     {
-      "name": "I, Robot",
-      "date": "2025-07-31",
-      "url": "http://www.xbox.com/es-ES/games/store/i-robot/9PHF27SH4QC4/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.37975.14233160234811217.559f46ce-2d8c-406c-ba88-c62ff50f6950.547b4f57-c334-43c8-a8a2-388825df4cc8?q=90&w=177&h=265",
+      "name": "Riders Republic™",
+      "date": "2025-10-09",
+      "url": "http://www.xbox.com/es-ES/games/store/riders-republic/9P1RPXHWZ1C7/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.65212.14187388825692711.ad9b5612-f684-41a7-86b1-6e485a58e79a.0ba5540c-499a-4520-b52f-9a46194a9292?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
+      ],
+      "dateLeaving": "2025-10-12"
+    },
+    {
+      "name": "AEW: Fight Forever",
+      "date": "2025-10-09",
+      "url": "http://www.xbox.com/es-ES/games/store/aew-fight-forever/9P3ZQ8PZNNCJ/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.35521.14598884381661533.dd24e9b2-b075-4d00-96da-c10581003d1e.93324510-bdd9-4729-ac7a-7d0ea1a39c0e?q=90&w=177&h=265",
       "platforms": [
         "xbox"
       ],
-      "dateLeaving": "2025-08-03"
+      "dateLeaving": "2025-10-12"
     },
     {
-      "name": "The Ascent",
-      "date": "2025-07-31",
-      "url": "http://www.xbox.com/es-ES/games/store/the-ascent/C27QL5JBKQ8M/0001",
-      "cover": "https://store-images.s-microsoft.com/image/apps.50939.65332188737297236.e956bc32-e423-4920-b547-86181e7ed68d.5d1e69b9-96f7-4cd1-b87e-1e694ac71ee2?q=90&w=177&h=265",
+      "name": "Dovetail Games Euro Fishing",
+      "date": "2025-10-09",
+      "url": "http://www.xbox.com/es-ES/games/store/dovetail-games-euro-fishing/C5828HS8K39D/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.27253.67073149647456953.a76348fa-961c-45e7-b37b-19a0044d1494.91e7d2a0-ec0b-4891-95ac-fb2d6b11cfd3?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-10-12"
+    },
+    {
+      "name": "Kingdom Two Crowns",
+      "date": "2025-10-09",
+      "url": "http://www.xbox.com/es-ES/games/store/kingdom-two-crowns/BWT2GPVWCH2F/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.50703.71673052342730938.755a1636-e311-4e76-b788-08cd89fc0781.6b300305-6096-42c6-a3b6-58256debb2ef?q=90&w=177&h=265",
       "platforms": [
         "pc",
         "xbox",
         "cloud"
       ],
-      "dateLeaving": "2025-08-03"
+      "dateLeaving": "2025-10-12"
+    },
+    {
+      "name": "Under The Waves",
+      "date": "2025-10-09",
+      "url": "http://www.xbox.com/es-ES/games/store/under-the-waves/9NQ6CHXKNJ3K/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.44934.13775499997385404.d9c152c9-a962-4ec5-a60f-17859248d4d9.7624cd9e-12fb-4a8f-a3ac-0cd0d7a40756?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-10-12"
+    },
+    {
+      "name": "Grounded 2",
+      "date": "2025-10-09",
+      "url": "http://www.xbox.com/es-ES/games/store/grounded-2/9P77PG7DK0W2/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.54353.14609679373210979.beb28026-7f6b-4b1f-b526-43d0d04b269b.6dcfd9cd-f291-4121-b9d8-a09dd620a5c3?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ],
+      "dateLeaving": "2025-10-12"
     }
   ]
 }
