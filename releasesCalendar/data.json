@@ -205,6 +205,46 @@
       ]
     },
     {
+      "name": "Football Manager 26",
+      "date": "2025-11-04",
+      "url": "http://www.xbox.com/es-ES/games/store/football-manager-26-console/9NMNZ4CK59DM/0017",
+      "cover": "https://store-images.s-microsoft.com/image/apps.63033.13754609462095808.6e939a74-099e-490d-b009-02e7105155bd.6e09f097-e938-4a50-85b4-6e14b4800029?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc"
+      ]
+    },
+    {
+      "name": "Whiskerwood (Game Preview)",
+      "date": "2025-11-06",
+      "url": "http://www.xbox.com/es-ES/games/store/whiskerwood-game-preview/9NM2T0DMP4XV/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.15526.13695831805699613.e09b9554-b031-482b-a223-893ddf497fef.6fd9a641-966d-4c09-87d2-3aed1df9bcc3?q=90&w=177&h=265",
+      "platforms": [
+        "pc"
+      ]
+    },
+    {
+      "name": "Winter Burrow",
+      "date": "2025-11-12",
+      "url": "http://www.xbox.com/es-ES/games/store/winter-burrow/9ND3HTTQ0GKB/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.32865.13551922362408999.f7f37582-a540-481d-ab53-fdf8347f428c.e4579368-2547-4d88-96d0-70145fb7eaf9?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc"
+      ]
+    },
+    {
+      "name": "Call of Duty®: Black Ops 7",
+      "date": "2025-11-14",
+      "url": "http://www.xbox.com/es-ES/games/store/call-of-duty-black-ops-7-lote-multigeneracion/9PLBM5790L94/0017",
+      "cover": "https://store-images.s-microsoft.com/image/apps.60392.14316447222402733.7ce700b1-c1f1-4c72-a33b-ea4a18861dcb.db2c57af-5234-4641-b092-5d6f90ccf8f4?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
       "name": "High On Life 2",
       "date": "2026-02-13",
       "url": "http://www.xbox.com/es-ES/games/store/high-on-life-2/9NF6XPSBTTGB/0010",
