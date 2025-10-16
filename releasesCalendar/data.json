@@ -354,6 +354,56 @@
         "cloud"
       ],
       "dateLeaving": "2025-10-12"
+    },
+    {
+      "name": "F1® 25",
+      "date": "2025-10-16",
+      "url": "http://www.xbox.com/es-ES/games/store/f1-25/9NWPW7F19FS5/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.15088.14440852722460694.8e2c0727-2c64-434e-9a33-2ef751fed0b8.a5a86328-5160-4b43-b83a-1359de26c5f8?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-10-19"
+    },
+    {
+      "name": "EVERSPACE™",
+      "date": "2025-10-16",
+      "url": "http://www.xbox.com/es-ES/games/store/everspace/9NBLGGH4SF90/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.23687.13510798887570821.ea845859-503f-450b-b413-22378f9a8c65.ad9c4c58-c89a-4043-8db2-7d0c8b1c95a8?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-10-19"
+    },
+    {
+      "name": "Hell Let Loose",
+      "date": "2025-10-16",
+      "url": "http://www.xbox.com/es-ES/games/store/hell-let-loose/9N44WK3WV2HJ/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.63026.13994037977696381.11786523-fa42-45f3-be9b-efb6e563d28d.0a6fe171-a209-4c1c-ae3b-b04d736768dc?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-10-19"
+    },
+    {
+      "name": "The Stone of Madness",
+      "date": "2025-10-16",
+      "url": "http://www.xbox.com/es-ES/games/store/the-stone-of-madness/9N0RJRF5JRP8/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.28640.13915438865037613.e687a32e-bfee-4e62-90bc-b770851fa3ae.34f2c7ab-a255-4864-809d-ab181b43f993?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-10-19"
+    },
+    {
+      "name": "Ra Ra BOOM",
+      "date": "2025-10-16",
+      "url": "http://www.xbox.com/es-ES/games/store/ra-ra-boom/9PLJHRNXP2ZH/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.9727.14312584493173682.8b81a63b-d94d-4204-aa60-120cdd212233.60ec14aa-b184-42bd-a151-717856444fcc?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-10-19"
     }
   ]
 }
