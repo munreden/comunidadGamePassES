@@ -287,6 +287,50 @@
         "pc",
         "cloud"
       ]
+    },
+    {
+      "name": "Jusant",
+      "date": "2025-10-31",
+      "url": "https://www.xbox.com/es-ES/games/store/jusant/9PJB1ZRJDCBQ/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.42181.14562706045768227.d2247107-35cd-40b8-84cc-fe1ac03a1696.b9a1ed75-d127-47b2-badf-8d5d71b548f6?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Jusant",
+      "date": "2025-10-31",
+      "url": "https://www.xbox.com/es-ES/games/store/jusant/9PJB1ZRJDCBQ/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.17942.14215108845219593.24efa074-5329-4fb7-9ee7-875398d40686.a7e1c361-f8d6-4f2d-a3eb-d018d305a944?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Metal Slug Tactics",
+      "date": "2025-10-31",
+      "url": "https://www.xbox.com/es-es/games/store/metal-slug-tactics/9ngnzp1j1jn7",
+      "cover": "https://store-images.s-microsoft.com/image/apps.33936.13646304231559376.0397570c-fcf7-4ee9-a581-d728135dc834.119515ad-b41a-4efb-8fc3-5d5ae8d46408?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Return to Monkey Island",
+      "date": "2025-10-31",
+      "url": "https://www.xbox.com/es-es/games/store/return-to-monkey-island/9pc4r8n1n2t6",
+      "cover": "https://store-images.s-microsoft.com/image/apps.32947.14176324986442763.11fa95be-f98f-4be1-a416-9571cd1286df.80a3abd4-c71c-4e0a-88a9-1c8542fbd318?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
     }
   ],
   "freePlayDays": [
