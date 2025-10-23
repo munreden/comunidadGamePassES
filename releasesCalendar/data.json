@@ -195,13 +195,78 @@
       ]
     },
     {
+      "name": "Commandos: Origins [PREMIUM]",
+      "date": "2025-10-22",
+      "url": "http://www.xbox.com/es-ES/games/store/commandos-origins/9NNRCR6MBNDR/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.50462.13737393634442056.0e44fc6f-e14b-46fe-b0b4-5f9ff152b330.104a062e-7a2a-477e-8f83-0bc9a7682659?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Microsoft Flight Simulator 2024 [PREMIUM]",
+      "date": "2025-10-22",
+      "url": "http://www.xbox.com/es-ES/games/store/microsoft-flight-simulator-2024/9P38D19T7LRV/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.17285.14546949033229931.f4e841b6-7779-427d-8821-1b81b953e7fb.948eab19-e79f-4f0f-901d-6677c39b100d?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "PowerWash Simulator 2",
+      "date": "2025-10-23",
+      "url": "http://www.xbox.com/es-ES/games/store/powerwash-simulator-2/9P45GGDTFNSM/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.46430.14599755904534716.1db4a72b-b82e-4475-af6c-9adfe3cee911.c147533f-7220-44f6-ab9f-a068228ba900?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Bounty Star",
+      "date": "2025-10-23",
+      "url": "http://www.xbox.com/es-ES/games/store/bounty-star/9P66TM1HLGLX/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.31443.14625186925899671.501e7018-6bac-4211-9bc8-ad75750ad01e.934dc6e8-9fc2-4aec-acef-7bb2c1027154?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Super Fantasy Kingdom (Game Preview)",
+      "date": "2025-10-24",
+      "url": "http://www.xbox.com/es-ES/games/store/super-fantasy-kingdom-game-preview/9MZ8B96NDG1T/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.52949.13879203897836456.c844470f-6f27-40ff-9f4b-8ac011a83d55.e58f45fa-eeb2-4164-af1b-f9b33dfd1100?q=90&w=177&h=265",
+      "platforms": [
+        "pc"
+      ]
+    },
+    {
+      "name": "Halls of Torment [PREMIUM]",
+      "date": "2025-10-28",
+      "url": "http://www.xbox.com/es-ES/games/store/halls-of-torment/9NMNMS626R59/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.11163.13945805245546121.f6dfab60-ee0a-4b20-b702-c24f420913e6.704e62de-a195-4320-886a-96f0af52ef77?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
       "name": "The Outer Worlds 2",
       "date": "2025-10-29",
       "url": "http://www.xbox.com/es-ES/games/store/the-outer-worlds-2/9P8RMKXRML7D/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.29783.14086924108488409.8dd1428c-d108-469c-b8d2-05e105d1cd97.a5643420-ee0f-4b36-b0cc-c313cc34bcca?q=90&w=177&h=265",
+      "cover": "https://store-images.s-microsoft.com/image/apps.1625.14363740088739089.0c76ac14-b415-4e44-a04d-716bea9e29db.6a935f52-9100-43e7-aeef-b393f99fb707?q=90&w=177&h=265",
       "platforms": [
+        "xbox",
         "pc",
-        "xbox"
+        "cloud"
       ]
     },
     {
@@ -211,7 +276,19 @@
       "cover": "https://store-images.s-microsoft.com/image/apps.63033.13754609462095808.6e939a74-099e-490d-b009-02e7105155bd.6e09f097-e938-4a50-85b4-6e14b4800029?q=90&w=177&h=265",
       "platforms": [
         "xbox",
-        "pc"
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "1000xRESIST [PREMIUM]",
+      "date": "2025-11-04",
+      "url": "http://www.xbox.com/es-ES/games/store/1000xresist/9NPDN9R45JX4/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.42712.13724740810259939.b66dd818-9d75-4097-b510-7e4f8f43131a.ac32cda4-2fd9-4049-a090-966d3ace3e22?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
       ]
     },
     {
