@@ -437,6 +437,56 @@
         "xbox"
       ],
       "dateLeaving": "2025-10-19"
+    },
+    {
+      "name": "Descenders Next",
+      "date": "2025-10-23",
+      "url": "http://www.xbox.com/es-ES/games/store/descenders-next-version-preliminar-del-juego/9N66JJQFX3RX/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.62844.14024037955784685.f1298079-5f9c-4427-8bdd-d0232cc70ebf.b73665da-bd3d-4ebb-8fe2-23e2a5f317df?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-10-26"
+    },
+    {
+      "name": "EA SPORTS FC™ 26",
+      "date": "2025-10-23",
+      "url": "http://www.xbox.com/es-ES/games/store/ea-sports-fc-26-para-xbox-series-xs/9P9FTXPKQ35P/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.10782.14143997528953872.6dedfcb1-25c9-4700-a587-b5e8d2190c68.12c48214-554d-4f98-a995-c19b9101d1aa?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-10-26"
+    },
+    {
+      "name": "House Flipper 2",
+      "date": "2025-10-23",
+      "url": "http://www.xbox.com/es-ES/games/store/house-flipper-2/9N67Z2D5PHW2/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.1982.14023314147306487.8fec5dc6-0cc1-4255-8f54-e57299d9fdb1.8d727145-bad1-41c9-8081-d01b4007a84f?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-10-26"
+    },
+    {
+      "name": "Phasmaphobia",
+      "date": "2025-10-23",
+      "url": "https://www.xbox.com/es-es/games/store/phasmophobia-versión-preliminar-del-juego/9n6d60sbzn05",
+      "cover": "https://store-images.s-microsoft.com/image/apps.29867.14020606539089642.f080e5a8-2e29-4355-a9e1-8aad7f690719.9f82ea01-f518-478d-86fc-817053e27d86?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-10-26"
+    },
+    {
+      "name": "The Outlast Trials",
+      "date": "2025-10-23",
+      "url": "https://www.xbox.com/es-es/games/store/the-outlast-trials/9nr13rf1v2wv",
+      "cover": "https://store-images.s-microsoft.com/image/apps.26001.13759164993259851.cd66780b-381b-47cd-acbc-3364318eb4bd.68919d2e-d6d5-4141-ab5a-2682e0bb15bd?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-10-26"
     }
   ]
 }
