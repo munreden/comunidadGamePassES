@@ -238,7 +238,7 @@
         "cloud"
       ]
     },
-        {
+    {
       "name": "Pacific Drive",
       "date": "2025-10-23",
       "url": "https://www.xbox.com/es-sv/games/store/pacific-drive/9pnkg0wbl61w",
@@ -574,6 +574,78 @@
         "xbox"
       ],
       "dateLeaving": "2025-10-26"
+    },
+    {
+      "name": "Call of Duty®: Black Ops 6 - Multijugador & Zombies",
+      "date": "2025-10-30",
+      "url": "http://www.xbox.com/es-ES/games/store/call-of-duty-black-ops-6-lote-multigeneracion/9PF528M6CRHQ/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.37927.14207097610490811.5b338e31-5c12-4d95-9a2a-2f16ceb01377.52b31dce-5e51-4f9f-88c3-9f40367f021f?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-11-02"
+    },
+    {
+      "name": "DRAGON BALL XENOVERSE 2",
+      "date": "2025-10-30",
+      "url": "http://www.xbox.com/es-ES/games/store/dragon-ball-xenoverse-2/BX03760D0QGN/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.32513.63336639312113079.ceb7d6d9-5c03-4721-ab3f-09019902f961.e4eb532e-0d8b-41c0-ac6a-dbeb6ff4e9dd?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc"
+      ],
+      "dateLeaving": "2025-11-02"
+    },
+    {
+      "name": "Dead by Daylight",
+      "date": "2025-10-30",
+      "url": "http://www.xbox.com/es-ES/games/store/dead-by-daylight/C0N22P73QZ60/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.2356.64366672042187759.3206cea0-6fe7-4f64-8c91-cdc6057442fd.444b8bb2-9033-4fbb-96ac-5886b2cc1ec3?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-11-02"
+    },
+    {
+      "name": "Yes, Your Grace",
+      "date": "2025-10-30",
+      "url": "http://www.xbox.com/es-ES/games/store/yes-your-grace/9NX14Q0QZD1T/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.55425.14434818467872696.ebbabf35-221f-46cb-8dca-5d30f05a2b0f.91b4d2b2-f071-455d-8b20-4cf30305304f?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-11-02"
+    },
+    {
+      "name": "CATAN® - Edición para consolas",
+      "date": "2025-10-30",
+      "url": "http://www.xbox.com/es-ES/games/store/catan-edicion-para-consolas/9PPMQ5R4F6WB/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.18523.14321522258952035.0bdbf2e3-3d9e-4997-92d8-7874c1432866.69d1b8a0-afe6-4f07-abce-a29565980c36?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-11-02"
+    },
+    {
+      "name": "Warhammer 40,000: Rogue Trader",
+      "date": "2025-10-30",
+      "url": "http://www.xbox.com/es-ES/games/store/warhammer-40000-rogue-trader/9P30BFHZ1BKN/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.20319.14552508636920197.1053512f-39a1-498b-9519-3c30a004cc0c.b6316910-9aec-491b-93bf-7caf6427f6f8?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox"
+      ],
+      "dateLeaving": "2025-11-02"
+    },
+    {
+      "name": "Post Trauma (Prueba de 2h)",
+      "date": "2025-10-30",
+      "url": "http://www.xbox.com/es-ES/games/store/post-trauma/9P3K5N1H0P08/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.7378.14536752246767435.27820da1-f4c8-4780-8aa3-1c7d57363e92.edd44cbd-f7b9-4c6b-a9ca-2004d706c0f3?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-11-02"
     }
   ]
 }
