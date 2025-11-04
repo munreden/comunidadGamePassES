@@ -23,12 +23,99 @@
       ]
     },
     {
+      "name": "Dead Static Drive",
+      "date": "2025-11-05",
+      "url": "http://www.xbox.com/es-ES/games/store/dead-static-drive/9MXWL7VJ2SJW/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.5403.13882054236358572.6bfd2436-1337-41ff-8bba-a695d6c3d9e9.dda501bf-b544-4d26-a7dd-abbe3ad6d733?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox"
+      ]
+    },
+    {
+      "name": "Sniper Elite: Resistance [PREMIUM]",
+      "date": "2025-11-05",
+      "url": "http://www.xbox.com/es-ES/games/store/sniper-elite-resistance/9MXRG5GCRPXZ/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.51551.13884837624671830.a1b4bcb8-63aa-419a-ac34-76ae03d6dca7.638d45d3-e816-4927-9355-71fc2e775cde?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Egging On",
+      "date": "2025-11-06",
+      "url": "http://www.xbox.com/es-ES/games/store/egging-on/9PDKDBQGG2N2/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.17074.14152749769454837.6267b1e7-52ba-45c3-8a48-c823ac92c3ba.0b606b68-2a85-4834-a620-c8db5791486c?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
       "name": "Whiskerwood",
       "date": "2025-11-06",
       "url": "http://www.xbox.com/es-ES/games/store/whiskerwood-game-preview/9NM2T0DMP4XV/0010",
       "cover": "https://store-images.s-microsoft.com/image/apps.15526.13695831805699613.e09b9554-b031-482b-a223-893ddf497fef.6fd9a641-966d-4c09-87d2-3aed1df9bcc3?q=90&w=177&h=265",
       "platforms": [
         "pc"
+      ]
+    },
+    {
+      "name": "Voidtrain [PREMIUM]",
+      "date": "2025-11-07",
+      "url": "http://www.xbox.com/es-ES/games/store/voidtrain/9NQMVR9WL9FW/0017",
+      "cover": "https://store-images.s-microsoft.com/image/apps.18451.13766638199955298.4ba9005e-82a9-4018-a9a2-9b3ba695cbb1.61a27185-5484-409e-a05f-7909350a72b4?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Great God Grove [PREMIUM]",
+      "date": "2025-11-11",
+      "url": "http://www.xbox.com/es-ES/games/store/great-god-grove/9N36BLQF3FX6/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.49217.13938047926882205.478db89a-539b-4b20-956d-db969f740012.51327afc-1102-47d8-8243-0a7e592ceb44?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Lara Croft and the Temple of Osiris [PREMIUM]",
+      "date": "2025-11-11",
+      "url": "http://www.xbox.com/es-ES/games/store/lara-croft-and-the-temple-of-osiris/C3553MB4P5TT/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.16416.66406861093311956.a8c8f515-daa8-479b-af0e-06d27ad9565d.0a9216e5-e802-4928-afdb-9ac03237966b?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Pigeon Simulator",
+      "date": "2025-11-11",
+      "url": "http://www.xbox.com/es-ES/games/store/pigeon-simulator/9NRHQLZX3900/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.63629.14382953481681867.8b1ccf01-d587-4b7f-afbc-ee46cb87b3d4.69ed27fb-c1a2-4c19-a803-a9f289039e26?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Relic Hunters Legend",
+      "date": "2025-11-12",
+      "url": "http://www.xbox.com/es-ES/games/store/relic-hunters-legend/9P81K2C8RBF4/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.37208.14097016447581693.ee94877f-b509-44d9-abed-33614d4bfc2b.bc2320d7-e0dd-4e46-91d9-33b920008b14?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
       ]
     },
     {
