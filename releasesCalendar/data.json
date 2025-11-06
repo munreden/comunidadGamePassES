@@ -213,14 +213,44 @@
       "dateLeaving": "2025-11-09"
     },
     {
-      "name": "Post Trauma (Prueba de 2h)",
-      "date": "2025-10-30",
-      "url": "http://www.xbox.com/es-ES/games/store/post-trauma/9P3K5N1H0P08/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.7378.14536752246767435.27820da1-f4c8-4780-8aa3-1c7d57363e92.edd44cbd-f7b9-4c6b-a9ca-2004d706c0f3?q=90&w=177&h=265",
+      "name": "Wild Bastards",
+      "date": "2025-11-06",
+      "url": "http://www.xbox.com/es-ES/games/store/wild-bastards/9NCVCS3CWNH1/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.16949.13556569311042540.880a1060-4980-404c-86f6-e17cb15604c1.06c4b96c-1fd2-4bc4-a293-e0d8e540ec64?q=90&w=177&h=265",
       "platforms": [
         "xbox"
       ],
-      "dateLeaving": "2025-11-02"
+      "dateLeaving": "2025-11-09"
+    },
+    {
+      "name": "Crime Boss: Rockay City",
+      "date": "2025-11-06",
+      "url": "http://www.xbox.com/es-ES/games/store/crime-boss-rockay-city/9P4KF63WK5P9/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.57810.14591636857132348.6b939bdc-1357-4e20-b5ba-a9b8ef7eb22e.ccf02e1d-5db4-4708-8df9-8baf5c73b39f?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-11-09"
+    },
+    {
+      "name": "Trailmakers",
+      "date": "2025-11-06",
+      "url": "http://www.xbox.com/es-ES/games/store/trailmakers/9NSFGM8J6MBJ/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.57019.14364758607471359.5497a0ed-4b70-4e20-ac65-ae6509b7e4e7.ee3d7404-0018-4a3c-ae01-e48a590a5ae3?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-11-09"
+    },
+    {
+      "name": "Big Helmet Heroes",
+      "date": "2025-11-06",
+      "url": "http://www.xbox.com/es-ES/games/store/big-helmet-heroes/9N6JFWVMM7CM/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.44646.14013102022440310.f9acf2cf-ee9c-41cb-a346-112bb3506493.c6dd6527-c1a6-4435-a6ea-9a8a3ccd283b?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-11-09"
     }
   ]
 }
