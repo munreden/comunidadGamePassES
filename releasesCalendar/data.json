@@ -108,7 +108,7 @@
       ]
     },
     {
-      "name": "Relic Hunters Legend",
+      "name": "Relic Hunters Legend [PREMIUM]",
       "date": "2025-11-12",
       "url": "http://www.xbox.com/es-ES/games/store/relic-hunters-legend/9P81K2C8RBF4/0010",
       "cover": "https://store-images.s-microsoft.com/image/apps.37208.14097016447581693.ee94877f-b509-44d9-abed-33614d4bfc2b.bc2320d7-e0dd-4e46-91d9-33b920008b14?q=90&w=177&h=265",
@@ -203,15 +203,14 @@
   ],
   "freePlayDays": [
     {
-      "name": "Warhammer 40,000: Rogue Trader",
-      "date": "2025-10-30",
-      "url": "http://www.xbox.com/es-ES/games/store/warhammer-40000-rogue-trader/9P30BFHZ1BKN/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.20319.14552508636920197.1053512f-39a1-498b-9519-3c30a004cc0c.b6316910-9aec-491b-93bf-7caf6427f6f8?q=90&w=177&h=265",
+      "name": "Kingdom Come: Deliverance II",
+      "date": "2025-11-06",
+      "url": "https://www.xbox.com/es-es/games/store/kingdom-come-deliverance-ii/9n4w31hsmvvd",
+      "cover": "https://store-images.s-microsoft.com/image/apps.21024.13979588110779567.5e6f9542-73ca-4800-a714-e6819fafc7f7.7b53caab-0160-44a9-8960-31c0a5f687f9?q=90&w=177&h=265",
       "platforms": [
-        "pc",
         "xbox"
       ],
-      "dateLeaving": "2025-11-02"
+      "dateLeaving": "2025-11-09"
     },
     {
       "name": "Post Trauma (Prueba de 2h)",
