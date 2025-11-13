@@ -251,6 +251,56 @@
         "xbox"
       ],
       "dateLeaving": "2025-11-09"
+    },
+    {
+      "name": "Train Sim World 6: Standard Edition",
+      "date": "2025-11-13",
+      "url": "https://www.xbox.com/en-GB/games/store/train-sim-world-6-standard-edition/9PJJ15JR1ZWK/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.51099.14281557677549488.87085b62-392f-47bd-a56b-ccabe487cce9.296f4401-7511-4cfe-b32e-b33610eb0ea3?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-11-16"
+    },
+    {
+      "name": "Grand Theft Auto Online",
+      "date": "2025-11-13",
+      "url": "https://www.xbox.com/en-GB/games/store/grand-theft-auto-online-xbox-series-xs/9P079R5LGV4T/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.10245.14461740201982510.10849893-1b50-4a26-b3f1-c1402fe39b3e.c735378d-cafb-49a1-8992-17ceb3af4713?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-11-16"
+    },
+    {
+      "name": "Rubber Bandits",
+      "date": "2025-11-13",
+      "url": "https://www.xbox.com/en-GB/games/store/rubber-bandits/9PL36RW9ZTPW/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.20195.14250942844501146.7ced7713-c00b-4f8c-b761-1fcff916c360.20bdd31b-9c43-43cd-9043-600482dd675b?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-11-16"
+    },
+    {
+      "name": "Soccer Story",
+      "date": "2025-11-13",
+      "url": "https://www.xbox.com/en-US/games/store/soccer-story/9PJ1045MHZJ0",
+      "cover": "https://www.xbox.com/en-US/games/store/soccer-story/9PJ1045MHZJ0",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-11-16"
+    },
+    {
+      "name": "Wreckfest",
+      "date": "2025-11-13",
+      "url": "https://www.xbox.com/en-US/games/store/wreckfest/BRJNRZ9N734V/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.62864.69762792333465121.4086c71f-fab9-4c14-b959-3e77164a74cf.20973bfd-77f7-41d0-8e0a-7cb51d9f8add?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-11-16"
     }
   ]
 }
