@@ -199,6 +199,95 @@
         "xbox",
         "cloud"
       ]
+    },
+    {
+      "name": "Moonlighter 2: The Endless Vault",
+      "date": "2025-11-19",
+      "url": "http://www.xbox.com/es-ES/games/store/moonlighter-2-the-endless-vault/9NDJX252Q5BW/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.42742.13613495733795404.f608471a-3b5d-40c6-8d16-e83de47f4af8.3d496c62-74bb-4b32-b692-6029bd672daf?q=90&w=177&h=265",
+      "platforms": [
+        "pc"
+      ]
+    },
+    {
+      "name": "Kulebra and the Souls of Limbo",
+      "date": "2025-11-19",
+      "url": "http://www.xbox.com/es-ES/games/store/kulebra-and-the-souls-of-limbo/9PFT2MJKJHWX/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.58314.14193966455764021.2770c71f-6051-45a9-b765-9028dd955314.3f0dbd3a-b03e-4f33-9437-8e5a8ded72ea?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Revenge of the Savage Planet",
+      "date": "2025-11-19",
+      "url": "http://www.xbox.com/es-ES/games/store/revenge-of-the-savage-planet/9PFTV8DKNCHX/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.43456.14176254346868851.857f24d0-66fa-437a-9dc7-248c2b5828ce.9fee4420-1c4f-4f69-b18c-3cab1644fe80?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Monsters are Coming! Rock & Road",
+      "date": "2025-11-20",
+      "url": "http://www.xbox.com/es-ES/games/store/monsters-are-coming-rock-road/9PJBKF27C16M/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.6742.14214770193219588.08b466ac-cafe-4a45-aece-907c87e732bf.f1602d75-3ea1-4dad-8f4a-301231074642?q=90&w=177&h=265",
+      "platforms": [
+        "pc"
+      ]
+    },
+    {
+      "name": "The Crew Motorfest",
+      "date": "2025-11-20",
+      "url": "http://www.xbox.com/es-ES/games/store/the-crew-motorfest/9NNS41P5J1C7/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.20396.14129800763179072.8318e611-9b54-4d4b-8698-d8fc8efc52db.565abc5f-93c1-4663-927f-9c026649f7d2?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Banishers: Ghosts of New Eden",
+      "date": "2025-11-25",
+      "url": "http://www.xbox.com/es-ES/games/store/banishers-ghosts-of-new-eden/9NKFS43DLFFL/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.37841.13657630976058747.9ef5e6b7-85d8-4766-8d40-394c59f5ad8f.fdc9e117-c9db-4f9e-8394-06693e430745?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "KILL IT WITH FIRE! 2",
+      "date": "2025-11-25",
+      "url": "http://www.xbox.com/es-ES/games/store/kill-it-with-fire-2/9MXHL3TT792F/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.30617.13889690924508162.9345444b-8806-473d-9690-5adb9e55317b.5183b21d-d24d-4cbe-9aa6-4c16e0033151?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "MARVEL Cosmic Invasion",
+      "date": "2025-12-01",
+      "url": "http://www.xbox.com/es-ES/games/store/marvel-cosmic-invasion/9N79TQTZTQQ4/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.45589.14072829118255167.ff1664d8-c187-4947-9c20-847c3ddd6dae.0288dbf2-a78d-45ed-a155-f539ce6bfd40?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "Lost Records: Bloom & Rage",
+      "date": "2025-12-02",
+      "url": "http://www.xbox.com/es-ES/games/store/lost-records-bloom-rage/9N3F1LW9HC6C/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.58711.13933652051346116.c13bbe67-324e-411f-a97e-18de58664521.bbd6062f-adc1-4376-9789-e41b4d4c2706?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
+      ]
     }
   ],
   "freePlayDays": [
