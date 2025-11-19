@@ -148,57 +148,6 @@
         "pc",
         "xbox"
       ]
-    }
-  ],
-  "leavingGames": [
-    {
-      "name": "Blacksmith Master",
-      "date": "2025-11-15",
-      "url": "http://www.xbox.com/es-ES/games/store/blacksmith-master-game-preview/9NMZH1KXLTSB/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.56617.13748669332067305.778de514-4db5-4c62-a9b3-3de28b17b8cd.55cbe94a-0b6c-4cea-9753-a98b050b006d?q=90&w=177&h=265",
-      "platforms": [
-        "pc"
-      ]
-    },
-    {
-      "name": "Football Manager 2024",
-      "date": "2025-11-15",
-      "url": "https://www.xbox.com/es-ES/games/store/football-manager-2024/9p4czqnrxw34",
-      "cover": "https://store-images.s-microsoft.com/image/apps.14873.14595211424650301.3f5b9cf7-e0fe-4f44-8a6c-3a829d7a5561.29f9e5c8-1caa-4ccd-aeda-d5ff8d89cca0?q=90&w=177&h=265",
-      "platforms": [
-        "pc"
-      ]
-    },
-    {
-      "name": "Frostpunk",
-      "date": "2025-11-15",
-      "url": "http://www.xbox.com/es-ES/games/store/frostpunk-console-edition/9NP539LHJD8S/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.60016.13729671074412623.f72f7df4-e873-4e52-a4dc-651d0b3e8b0f.cc8acfbd-41d0-4e59-a807-5140924e9378?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Spirittea",
-      "date": "2025-11-15",
-      "url": "http://www.xbox.com/es-ES/games/store/spirittea/9PPK59BXLD4N/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.60550.14327532839373067.e3a24cb8-3eb5-47ad-8d1b-19797522f44c.7f370a1c-e01f-4c2e-9c1a-38f0f333bd52?q=90&w=177&h=265",
-      "platforms": [
-        "pc",
-        "xbox",
-        "cloud"
-      ]
-    },
-    {
-      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-      "date": "2025-11-15",
-      "url": "http://www.xbox.com/es-ES/games/store/stalker-2-heart-of-chornobyl-xbox-edition/9P7ZBF3S7PSS/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.15281.14102836618611203.a0c0e3ae-152e-400e-9afe-a59e5468b2a6.d7860502-077b-4921-9223-d5c6112896bd?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "cloud"
-      ]
     },
     {
       "name": "Moonlighter 2: The Endless Vault",
@@ -284,6 +233,57 @@
       "date": "2025-12-02",
       "url": "http://www.xbox.com/es-ES/games/store/lost-records-bloom-rage/9N3F1LW9HC6C/0010",
       "cover": "https://store-images.s-microsoft.com/image/apps.58711.13933652051346116.c13bbe67-324e-411f-a97e-18de58664521.bbd6062f-adc1-4376-9789-e41b4d4c2706?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
+      ]
+    }
+  ],
+  "leavingGames": [
+    {
+      "name": "Blacksmith Master",
+      "date": "2025-11-15",
+      "url": "http://www.xbox.com/es-ES/games/store/blacksmith-master-game-preview/9NMZH1KXLTSB/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.56617.13748669332067305.778de514-4db5-4c62-a9b3-3de28b17b8cd.55cbe94a-0b6c-4cea-9753-a98b050b006d?q=90&w=177&h=265",
+      "platforms": [
+        "pc"
+      ]
+    },
+    {
+      "name": "Football Manager 2024",
+      "date": "2025-11-15",
+      "url": "https://www.xbox.com/es-ES/games/store/football-manager-2024/9p4czqnrxw34",
+      "cover": "https://store-images.s-microsoft.com/image/apps.14873.14595211424650301.3f5b9cf7-e0fe-4f44-8a6c-3a829d7a5561.29f9e5c8-1caa-4ccd-aeda-d5ff8d89cca0?q=90&w=177&h=265",
+      "platforms": [
+        "pc"
+      ]
+    },
+    {
+      "name": "Frostpunk",
+      "date": "2025-11-15",
+      "url": "http://www.xbox.com/es-ES/games/store/frostpunk-console-edition/9NP539LHJD8S/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.60016.13729671074412623.f72f7df4-e873-4e52-a4dc-651d0b3e8b0f.cc8acfbd-41d0-4e59-a807-5140924e9378?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Spirittea",
+      "date": "2025-11-15",
+      "url": "http://www.xbox.com/es-ES/games/store/spirittea/9PPK59BXLD4N/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.60550.14327532839373067.e3a24cb8-3eb5-47ad-8d1b-19797522f44c.7f370a1c-e01f-4c2e-9c1a-38f0f333bd52?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "date": "2025-11-15",
+      "url": "http://www.xbox.com/es-ES/games/store/stalker-2-heart-of-chornobyl-xbox-edition/9P7ZBF3S7PSS/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.15281.14102836618611203.a0c0e3ae-152e-400e-9afe-a59e5468b2a6.d7860502-077b-4921-9223-d5c6112896bd?q=90&w=177&h=265",
       "platforms": [
         "xbox",
         "cloud"
