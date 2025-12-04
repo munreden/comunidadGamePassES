@@ -185,24 +185,66 @@
   ],
   "freePlayDays": [
     {
-      "name": "Soccer Story",
-      "date": "2025-11-13",
-      "url": "https://www.xbox.com/en-US/games/store/soccer-story/9PJ1045MHZJ0",
-      "cover": "https://store-images.s-microsoft.com/image/apps.39701.14225521066737419.4d59d91e-770c-4a84-9fda-21fa57c19bbc.84a88906-c3ac-4576-ae14-3e6f56c7efc7?q=90&w=177&h=265",
+      "name": "Bassmaster® Fishing",
+      "date": "2025-12-04",
+      "url": "http://www.xbox.com/es-ES/games/store/bassmaster-fishing/9MTTMQ6WSDP8/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.36911.13801370712672953.2d024847-30c1-486a-b9bf-1d36e598b349.e4b2efdd-f97c-43a8-9426-fce8b456edbb?q=90&w=177&h=265",
       "platforms": [
         "xbox"
       ],
-      "dateLeaving": "2025-11-16"
+      "dateLeaving": "2025-11-07"
     },
     {
-      "name": "Wreckfest",
-      "date": "2025-11-13",
-      "url": "https://www.xbox.com/en-US/games/store/wreckfest/BRJNRZ9N734V/0001",
-      "cover": "https://store-images.s-microsoft.com/image/apps.62864.69762792333465121.4086c71f-fab9-4c14-b959-3e77164a74cf.20973bfd-77f7-41d0-8e0a-7cb51d9f8add?q=90&w=177&h=265",
+      "name": "EVERSPACE™ 2",
+      "date": "2025-12-04",
+      "url": "http://www.xbox.com/es-ES/games/store/everspace-2/9PFX7F33KVG8/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.811.14196602045405435.162a3492-f482-45e9-8022-a849e99a6850.c224c09d-43b3-43fb-acac-a163ad2e3144?q=90&w=177&h=265",
       "platforms": [
         "xbox"
       ],
-      "dateLeaving": "2025-11-16"
+      "dateLeaving": "2025-11-07"
+    },
+    {
+      "name": "Astria Ascending",
+      "date": "2025-12-04",
+      "url": "http://www.xbox.com/es-ES/games/store/astria-ascending/9MW7H0DVS9T6/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.40636.13848754335407647.66ca62ea-ec06-4597-8c24-d1dd403875c5.a57d9349-e85b-4646-847e-386a023dfe24?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-12-07"
+    },
+    {
+      "name": "Way of the Hunter",
+      "date": "2025-12-04",
+      "url": "http://www.xbox.com/es-ES/games/store/way-of-the-hunter/9PHW62DC4LGS/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.36365.14223582053027315.049d5f5a-0c16-42ff-bd51-1517829076f2.1540197d-d50a-4f36-bdea-49d27e18c2e8?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-12-07"
+    },
+    {
+      "name": "Destiny 2",
+      "date": "2025-12-04",
+      "url": "http://www.xbox.com/es-ES/games/store/destiny-2/BPQ955FQFPH6/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.30303.68655995542193491.618ba70a-85c2-47a4-944e-7a9b39528ca8.c3eb629f-7dac-460f-adc2-ba0f395b6c66?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-12-07"
+    },
+    {
+      "name": "Descenders",
+      "date": "2025-12-04",
+      "url": "http://www.xbox.com/es-ES/games/store/descenders/C37XBX7DCBZ0/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.24333.65934155925401073.cdde9208-c05c-4015-852b-3c48d95ed87b.52e0d392-5541-4ba1-84b8-656727390fd5?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ],
+      "dateLeaving": "2025-12-07"
     }
   ]
 }
