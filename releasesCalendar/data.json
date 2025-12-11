@@ -240,11 +240,39 @@
       "url": "http://www.xbox.com/es-ES/games/store/descenders/C37XBX7DCBZ0/0001",
       "cover": "https://store-images.s-microsoft.com/image/apps.24333.65934155925401073.cdde9208-c05c-4015-852b-3c48d95ed87b.52e0d392-5541-4ba1-84b8-656727390fd5?q=90&w=177&h=265",
       "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
+        "xbox"
       ],
       "dateLeaving": "2025-12-07"
+    },
+    {
+      "name": "Spirittea",
+      "date": "2025-12-11",
+      "url": "https://www.xbox.com/es-ES/games/store/spirittea/9PPK59BXLD4N/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.60550.14327532839373067.e3a24cb8-3eb5-47ad-8d1b-19797522f44c.7f370a1c-e01f-4c2e-9c1a-38f0f333bd52?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-12-14"
+    },
+    {
+      "name": "theHunter: Call of the Wild",
+      "date": "2025-12-11",
+      "url": "https://www.xbox.com/es-ES/games/store/thehunter-call-of-the-wild/BXBJQ1932138",
+      "cover": "https://store-images.s-microsoft.com/image/apps.31673.63553167684393025.1b31f51e-c4c6-49b1-bf61-a2e65ea14c73.150d2a5d-49a6-4724-8e53-cb908f866746?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-12-14"
+    },
+    {
+      "name": "The Dungeon Of Naheulbeuk: The Amulet Of Chaos - Chicken Edition",
+      "date": "2025-12-11",
+      "url": "https://www.xbox.com/es-es/games/store/the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition/9MT8HTJC4GSB",
+      "cover": "https://store-images.s-microsoft.com/image/apps.8896.13817077164703749.cd543429-7cae-4721-ab65-6ad0bd406b04.fe30a3c6-8907-42ea-88fa-5650c8a7abe6?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2025-12-14"
     }
   ]
 }
