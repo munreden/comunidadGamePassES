@@ -1,111 +1,6 @@
 {
   "releaseGames": [
     {
-      "name": "MARVEL Cosmic Invasion",
-      "date": "2025-12-01",
-      "url": "http://www.xbox.com/es-ES/games/store/marvel-cosmic-invasion/9N79TQTZTQQ4/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.45589.14072829118255167.ff1664d8-c187-4947-9c20-847c3ddd6dae.0288dbf2-a78d-45ed-a155-f539ce6bfd40?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ]
-    },
-    {
-      "name": "Lost Records: Bloom & Rage",
-      "date": "2025-12-02",
-      "url": "http://www.xbox.com/es-ES/games/store/lost-records-bloom-rage/9N3F1LW9HC6C/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.58711.13933652051346116.c13bbe67-324e-411f-a97e-18de58664521.bbd6062f-adc1-4376-9789-e41b4d4c2706?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Monster Train 2",
-      "date": "2025-12-03",
-      "url": "https://www.xbox.com/games/store/monster-train-2/9NJC29JG70LM",
-      "cover": "https://store-images.s-microsoft.com/image/apps.23536.13679035728642800.cc3fbd7a-d940-48e3-9856-e592793b72e5.1c9bd841-f5f8-4c42-8fe7-ecf4b7767aaa?q=90&w=177&h=265",
-      "platforms": [
-        "cloud",
-        "xbox",
-        "pc"
-      ]
-    },
-    {
-      "name": "Spray Paint Simulator",
-      "date": "2025-12-03",
-      "url": "https://www.xbox.com/games/store/spray-paint-simulator/9NDKXPQBBNJN",
-      "cover": "https://store-images.s-microsoft.com/image/apps.42931.13612516096322675.ce9d35a3-af66-4b69-8743-e1028c3e1264.62a629d5-a60e-4d2a-90b8-1200926f6f82?q=90&w=177&h=265",
-      "platforms": [
-        "cloud",
-        "xbox",
-        "pc"
-      ]
-    },
-    {
-      "name": "33 Immortals",
-      "date": "2025-12-04",
-      "url": "https://www.xbox.com/games/store/33-immortals-game-preview/9p8lr42ptrgj",
-      "cover": "https://store-images.s-microsoft.com/image/apps.18797.14090162823233215.13794def-6f5d-4292-86b7-5b23a5e557e5.e9a370ca-5f0a-4259-a422-09c7a3f596b9?q=90&w=177&h=265",
-      "platforms": [
-        "cloud",
-        "xbox",
-        "pc"
-      ]
-    },
-    {
-      "name": "Indiana Jones and the Great Circle",
-      "date": "2025-12-04",
-      "url": "https://www.xbox.com/games/store/indiana-jones-and-the-great-circle/9N8FQ28Z6QX3",
-      "cover": "https://store-images.s-microsoft.com/image/apps.394.14050533476382116.9ce9be62-6690-4c40-8e76-7e5af2a256fb.23519966-541f-46af-94a3-68d956e7cf85?q=90&w=177&h=265",
-      "platforms": [
-        "cloud",
-        "xbox",
-        "pc"
-      ]
-    },
-    {
-      "name": "Routine",
-      "date": "2025-12-04",
-      "url": "https://www.xbox.com/games/store/-/9PCJT6TLCGGV",
-      "cover": "https://store-images.s-microsoft.com/image/apps.39714.14172841759095673.813a49ea-ac20-4aed-8857-f3ba4b7e19a8.0afa4b40-088d-493b-a842-60d3d3a42b5b?q=90&w=177&h=265",
-      "platforms": [
-        "cloud",
-        "xbox",
-        "pc"
-      ]
-    },
-    {
-      "name": "A Game About Digging A Hole",
-      "date": "2025-12-09",
-      "url": "https://www.xbox.com/games/store/-/9NGLST31DG26",
-      "cover": "https://store-images.s-microsoft.com/image/apps.24203.13643221603035245.ddde7541-3c1c-43b1-8b36-964427f91e73.adc9d42b-63e9-4fae-822c-86eb5c5dae54?q=90&w=177&h=265",
-      "platforms": [
-        "cloud",
-        "xbox",
-        "pc"
-      ]
-    },
-    {
-      "name": "Death Howl",
-      "date": "2025-12-09",
-      "url": "https://www.xbox.com/games/store/death-howl/9pd9szgncmdz",
-      "cover": "https://store-images.s-microsoft.com/image/apps.51446.14153289927843166.28448503-40b7-4c34-8ef4-72a2d5f31f83.3b1bee04-d84f-4960-be3a-39be2c14dedc?q=90&w=177&h=265",
-      "platforms": [
-        "pc"
-      ]
-    },
-    {
-      "name": "Dome Keeper",
-      "date": "2025-12-09",
-      "url": "https://www.xbox.com/games/store/-/9P8XKV2D5DZ5",
-      "cover": "https://store-images.s-microsoft.com/image/apps.35087.14079008461384212.a43b3ec2-8b2f-4d11-9250-e93c114f8f48.cd346f39-d6e2-4021-b9d0-9cc6833e5f09?q=90&w=177&h=265",
-      "platforms": [
-        "cloud",
-        "xbox",
-        "pc"
-      ]
-    },
-    {
       "name": "Mortal Kombat 1",
       "date": "2025-12-10",
       "url": "https://www.xbox.com/games/store/-/9N7271QN4SGB",
@@ -130,10 +25,10 @@
   ],
   "leavingGames": [
     {
-      "name": "Mortal Kombat 11",
-      "date": "2025-12-15",
-      "url": "http://www.xbox.com/es-ES/games/store/mortal-kombat-11/BTC0L0BW6LWC/0001",
-      "cover": "https://store-images.s-microsoft.com/image/apps.9688.70804610839547354.8da93c46-fd13-4b16-8ebe-e8e02c53d93e.09c2e91e-28bd-4f6f-bfd6-79d6b241667a?q=90&w=177&h=265",
+      "name": "Neon White",
+      "date": "2026-01-15",
+      "url": "https://www.xbox.com/es-ES/games/store/neon-white/9MTGVHF37DFK/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.44502.13813113706771512.d189482c-40c5-41c0-8eeb-62010002ac44.e336798a-6968-4b16-af06-90c169b59ff9?q=90&w=177&h=265",
       "platforms": [
         "xbox",
         "pc",
@@ -141,10 +36,10 @@
       ]
     },
     {
-      "name": "Still Wakes the Deep",
-      "date": "2025-12-15",
-      "url": "http://www.xbox.com/es-ES/games/store/still-wakes-the-deep/9N88DFRX8WCJ/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.56102.14049385901429569.7e7c59ac-85c6-43f6-8148-3aad230895b3.628604b0-3f2d-49ad-9b28-3050c6bcc7ff?q=90&w=177&h=265",
+      "name": "Road 96",
+      "date": "2026-01-15",
+      "url": "https://www.xbox.com/es-ES/games/store/road-96/9NVBKDF85W8T/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.33921.14401791124788682.a53b3c8e-a868-4dbf-845f-6db87942340c.32c2bc03-fbaf-42e2-8326-1e68d22fa8ea?q=90&w=177&h=265",
       "platforms": [
         "xbox",
         "pc",
@@ -152,30 +47,32 @@
       ]
     },
     {
-      "name": "Wildfrost",
-      "date": "2025-12-15",
-      "url": "http://www.xbox.com/es-ES/games/store/wildfrost/9N061M9R7BVQ/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.39650.13931596525681733.af07647a-b35c-4933-8895-2d513f2402b5.9f9f7db5-3817-43f8-9764-3db8abbe7970?q=90&w=177&h=265",
+      "name": "Flintlock: The Siege of Dawn",
+      "date": "2026-01-15",
+      "url": "https://www.xbox.com/es-ES/games/store/flintlock-the-siege-of-dawn/9PBBQHX6V3PJ/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.55632.14126049473853317.736749ac-218e-4bab-8add-af9a80f33804.4ab757dc-ae70-4ba6-b95b-999f2b03a05b?q=90&w=177&h=265",
       "platforms": [
-        "xbox",
         "pc",
+        "xbox",
         "cloud"
       ]
     },
     {
-      "name": "Carrion",
-      "date": "2025-12-31",
-      "url": "http://www.xbox.com/es-ES/games/store/carrion/9MSMJH3C6TKR/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.3484.13825095341034174.4d73630f-5fdf-41c9-9c0d-7b119c720c3a.79b35494-07a5-475b-bc0b-512d5cf31e08?q=90&w=177&h=265",
+      "name": "El Grinch: Aventuras en Navidad",
+      "date": "2026-01-15",
+      "url": "https://www.xbox.com/es-ES/games/store/el-grinch-aventuras-en-navidad-edicion-felices-travesuras/9PPJP7X77NNB/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.27991.14328183670761549.9f59dc6c-04d4-45a6-b683-fcd1da4e439d.03bdf337-349e-4c40-9ee6-3260bc835dfb?q=90&w=177&h=265",
       "platforms": [
-        "pc"
+        "pc",
+        "xbox",
+        "cloud"
       ]
     },
     {
-      "name": "Hell Let Loose",
-      "date": "2025-12-31",
-      "url": "http://www.xbox.com/es-ES/games/store/hell-let-loose/9N44WK3WV2HJ/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.63026.13994037977696381.11786523-fa42-45f3-be9b-efb6e563d28d.0a6fe171-a209-4c1c-ae3b-b04d736768dc?q=90&w=177&h=265",
+      "name": "The Ascent",
+      "date": "2026-01-15",
+      "url": "https://www.xbox.com/es-ES/games/store/the-ascent/C27QL5JBKQ8M/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.50939.65332188737297236.e956bc32-e423-4920-b547-86181e7ed68d.5d1e69b9-96f7-4cd1-b87e-1e694ac71ee2?q=90&w=177&h=265",
       "platforms": [
         "pc",
         "xbox",
@@ -184,76 +81,6 @@
     }
   ],
   "freePlayDays": [
-    {
-      "name": "Bassmaster® Fishing",
-      "date": "2025-12-04",
-      "url": "http://www.xbox.com/es-ES/games/store/bassmaster-fishing/9MTTMQ6WSDP8/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.36911.13801370712672953.2d024847-30c1-486a-b9bf-1d36e598b349.e4b2efdd-f97c-43a8-9426-fce8b456edbb?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ],
-      "dateLeaving": "2025-11-07"
-    },
-    {
-      "name": "EVERSPACE™ 2",
-      "date": "2025-12-04",
-      "url": "http://www.xbox.com/es-ES/games/store/everspace-2/9PFX7F33KVG8/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.811.14196602045405435.162a3492-f482-45e9-8022-a849e99a6850.c224c09d-43b3-43fb-acac-a163ad2e3144?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ],
-      "dateLeaving": "2025-11-07"
-    },
-    {
-      "name": "Astria Ascending",
-      "date": "2025-12-04",
-      "url": "http://www.xbox.com/es-ES/games/store/astria-ascending/9MW7H0DVS9T6/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.40636.13848754335407647.66ca62ea-ec06-4597-8c24-d1dd403875c5.a57d9349-e85b-4646-847e-386a023dfe24?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ],
-      "dateLeaving": "2025-12-07"
-    },
-    {
-      "name": "Way of the Hunter",
-      "date": "2025-12-04",
-      "url": "http://www.xbox.com/es-ES/games/store/way-of-the-hunter/9PHW62DC4LGS/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.36365.14223582053027315.049d5f5a-0c16-42ff-bd51-1517829076f2.1540197d-d50a-4f36-bdea-49d27e18c2e8?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ],
-      "dateLeaving": "2025-12-07"
-    },
-    {
-      "name": "Destiny 2",
-      "date": "2025-12-04",
-      "url": "http://www.xbox.com/es-ES/games/store/destiny-2/BPQ955FQFPH6/0001",
-      "cover": "https://store-images.s-microsoft.com/image/apps.30303.68655995542193491.618ba70a-85c2-47a4-944e-7a9b39528ca8.c3eb629f-7dac-460f-adc2-ba0f395b6c66?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ],
-      "dateLeaving": "2025-12-07"
-    },
-    {
-      "name": "Descenders",
-      "date": "2025-12-04",
-      "url": "http://www.xbox.com/es-ES/games/store/descenders/C37XBX7DCBZ0/0001",
-      "cover": "https://store-images.s-microsoft.com/image/apps.24333.65934155925401073.cdde9208-c05c-4015-852b-3c48d95ed87b.52e0d392-5541-4ba1-84b8-656727390fd5?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ],
-      "dateLeaving": "2025-12-07"
-    },
-    {
-      "name": "Spirittea",
-      "date": "2025-12-11",
-      "url": "https://www.xbox.com/es-ES/games/store/spirittea/9PPK59BXLD4N/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.60550.14327532839373067.e3a24cb8-3eb5-47ad-8d1b-19797522f44c.7f370a1c-e01f-4c2e-9c1a-38f0f333bd52?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ],
-      "dateLeaving": "2025-12-14"
-    },
     {
       "name": "theHunter: Call of the Wild",
       "date": "2025-12-11",
