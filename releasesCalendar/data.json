@@ -176,24 +176,75 @@
   ],
   "freePlayDays": [
     {
-      "name": "theHunter: Call of the Wild",
-      "date": "2025-12-11",
-      "url": "https://www.xbox.com/es-ES/games/store/thehunter-call-of-the-wild/BXBJQ1932138",
-      "cover": "https://store-images.s-microsoft.com/image/apps.31673.63553167684393025.1b31f51e-c4c6-49b1-bf61-a2e65ea14c73.150d2a5d-49a6-4724-8e53-cb908f866746?q=90&w=177&h=265",
+      "name": "EA SPORTS FC™ 26 Standard Edition",
+      "date": "2026-01-15",
+      "url": "https://www.xbox.com/es-ES/games/store/ea-sports-fc-26-standard-edition-para-xbox-one-y-xbox-series-xs/9MXZBTLG26VX/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.39200.14145291960194275.263e78bd-2ea0-43c6-8a5b-5578131f4b02.ba171ef6-2bab-4956-b9d7-e67e253520d1?q=90&w=177&h=265",
       "platforms": [
         "xbox"
       ],
-      "dateLeaving": "2025-12-14"
+      "dateLeaving": "2026-01-18"
     },
     {
-      "name": "The Dungeon Of Naheulbeuk: The Amulet Of Chaos - Chicken Edition",
-      "date": "2025-12-11",
-      "url": "https://www.xbox.com/es-es/games/store/the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition/9MT8HTJC4GSB",
-      "cover": "https://store-images.s-microsoft.com/image/apps.8896.13817077164703749.cd543429-7cae-4721-ab65-6ad0bd406b04.fe30a3c6-8907-42ea-88fa-5650c8a7abe6?q=90&w=177&h=265",
+      "name": "EA SPORTS™ Madden NFL 26",
+      "date": "2026-01-15",
+      "url": "https://www.xbox.com/es-ES/games/store/ea-sports-madden-nfl-26/9NVD16NP4J8T/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.55917.14396710821719966.964c458e-b7d7-4c34-b2e4-5a677317a3e5.95d73381-0e83-4507-ab53-d7b17749686d?q=90&w=177&h=265",
       "platforms": [
         "xbox"
       ],
-      "dateLeaving": "2025-12-14"
+      "dateLeaving": "2026-01-18"
+    },
+    {
+      "name": "EA SPORTS™ College Football 26",
+      "date": "2026-01-15",
+      "url": "https://www.xbox.com/es-ES/games/store/ea-sports-college-football-26/9NLKS78C4F3Z/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.38319.13705897253211932.75581845-85e1-4e95-91f1-bcbfcf60e078.24ffce14-86c2-4d88-95f3-776ff3fbf249?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2026-01-18"
+    },
+    {
+      "name": "NHL 26 Edición Estándar",
+      "date": "2026-01-15",
+      "url": "https://www.xbox.com/es-ES/games/store/nhl-26-edicion-estandar-para-xbox-series-xs/9N5KC05F95XM/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.9361.14036865830677680.e3b49c32-835f-4209-adb5-b25cddfb1586.6616099b-9d55-4f00-98f4-79dda32fd6b6?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2026-01-18"
+    },
+    {
+      "name": "F1® 25",
+      "date": "2026-01-15",
+      "url": "https://www.xbox.com/es-ES/games/store/f1-25/9NWPW7F19FS5/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.15088.14440852722460694.8e2c0727-2c64-434e-9a33-2ef751fed0b8.a5a86328-5160-4b43-b83a-1359de26c5f8?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2026-01-18"
+    },
+    {
+      "name": "UFC™ 5",
+      "date": "2026-01-15",
+      "url": "https://www.xbox.com/es-ES/games/store/ufc-5/9NH8K4B707H0/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.43296.13630336651997545.a96b0d89-5d07-42df-a32b-c465113ff69c.180cb40d-58f2-48a5-829f-bf309187f337?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ],
+      "dateLeaving": "2026-01-18"
+    },
+    {
+      "name": "EA SPORTS™ PGA TOUR™",
+      "date": "2026-01-15",
+      "url": "https://www.xbox.com/es-ES/games/store/ea-sports-pga-tour/9P822XLW9PB8/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.19163.14096393311858391.003b64c1-1a3b-4b4e-9c47-80d6ec287ead.a28c0902-668d-4ace-b0c6-970d0df10b7e?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
+      ],
+      "dateLeaving": "2026-01-18"
     }
   ]
 }
