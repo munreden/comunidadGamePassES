@@ -172,6 +172,78 @@
         "xbox",
         "cloud"
       ]
+    },
+    {
+      "name": "Cataclismo",
+      "date": "2026-01-31",
+      "url": "https://www.xbox.com/es-ES/games/store/cataclismo/9N77QBDKKM4C/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.39507.14069783637787952.1ce111e4-c3d7-4ea2-9289-8a73f033fcbf.926cb7e6-5cf2-48c3-b81d-4857bd482571?q=90&w=177&h=265",
+      "platforms": [
+        "pc"
+      ]
+    },
+    {
+      "name": "Citizen Sleeper 2: Starward Vector",
+      "date": "2026-01-31",
+      "url": "https://www.xbox.com/es-ES/games/store/citizen-sleeper-2-starward-vector/9MWCF1XBJBR2/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.47283.13841979780106331.acb28221-4c2d-40dc-b1e1-dbee254379de.abf1f1a2-f310-4d90-a369-37a94a90dd42?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Lonely Mountains: Snow Riders",
+      "date": "2026-01-31",
+      "url": "https://www.xbox.com/es-ES/games/store/lonely-mountains-snow-riders/9PF3MC3V9Q27/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.57296.14212743398014260.4c0cc9e4-575b-4fb6-b786-48db66a30ec0.fe7edd9e-1253-4ca4-a33a-08330bf2aee3?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Orcs Must Die! Deathtrap",
+      "date": "2026-01-31",
+      "url": "https://www.xbox.com/es-ES/games/store/orcs-must-die-deathtrap/9P0302F6V9VT/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.47409.14468803747722334.03cd3f6a-9768-4ae5-ad95-5c7dc9ddeb76.47bd1969-8415-40a1-9bdf-7a6c503852b0?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "PAW Patrol World - La Patrulla Canina",
+      "date": "2026-01-31",
+      "url": "https://www.xbox.com/es-ES/games/store/paw-patrol-world-la-patrulla-canina/9N2VDS259QP1/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.45471.13948993858025072.92023a0f-4cb5-4ee3-8396-0122fea8fafe.8f3a375f-b8a6-429d-8d7d-607ea603887e?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Shady Part of Me",
+      "date": "2026-01-31",
+      "url": "https://www.xbox.com/es-ES/games/store/shady-part-of-me/9N9GTTGWZR90/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.2717.14568634156623763.b5abed1d-32f8-4125-a36b-86e3253aff32.3c981be2-9cd8-4272-b2d7-bbe751e37862?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Starbound",
+      "date": "2026-01-31",
+      "url": "https://www.xbox.com/es-ES/games/store/starbound/9MTSBWPWPQVQ/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.5801.13802186359317829.b9acdcf9-2e05-4328-812d-253b5ab5de76.cc2ee825-d31f-441a-8eba-442e0853957e?q=90&w=177&h=265",
+      "platforms": [
+        "pc"
+      ]
     }
   ],
   "freePlayDays": [
