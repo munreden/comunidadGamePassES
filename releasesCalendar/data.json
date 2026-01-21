@@ -115,6 +115,106 @@
         "xbox",
         "pc"
       ]
+    },
+    {
+      "name": "DEATH STRANDING DIRECTOR'S CUT",
+      "date": "2026-01-21",
+      "url": "https://www.xbox.com/es-ES/games/store/death-stranding-directors-cut/9NQGN8TGNT8P/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.9944.13774354316070254.dbfd815f-aaf8-4e63-b069-bd514601d13b.d92d38cc-8bb2-48c7-a102-27445555cc76?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "RoadCraft",
+      "date": "2026-01-21",
+      "url": "https://www.xbox.com/es-ES/games/store/roadcraft/9N4J937WLFPZ/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.26113.13982274548286624.6ccdd9db-6d03-467c-b6c3-b56c939a6347.183108bb-777b-453b-a8da-e08cfbca64cc?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "NINJA GAIDEN: Ragebound",
+      "date": "2026-01-21",
+      "url": "https://www.xbox.com/es-ES/games/store/ninja-gaiden-ragebound/9PGFSLP8GWQK/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.32236.14186314712076006.978d20b2-62d5-4e8b-b4ad-6c6161e1aeca.1e995cf5-0fb4-4783-8af0-71bd769e956f?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "The Talos Principle 2",
+      "date": "2026-01-27",
+      "url": "https://www.xbox.com/es-ES/games/store/the-talos-principle-2/9P4NGKMWFS1G/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.51568.14585549553875795.6bc4d8cb-7319-48a7-bdbc-a862d4f5c0a0.60413433-1d0f-42a7-a193-0486ee919582?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "ANNO : Mutationem",
+      "date": "2026-01-28",
+      "url": "https://www.xbox.com/es-ES/games/store/anno-mutationem/9PMHGHXLGLJM/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.62821.14297915627755596.63bda613-b706-49f5-b411-63eac88ab8f8.13f44d12-2a98-43ac-b787-ad769cb86121?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Drop Duchy - Complete Edition",
+      "date": "2026-01-28",
+      "url": "https://www.xbox.com/es-ES/games/store/drop-duchy-complete-edition/9NXVPTB0FXSZ/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.46421.14488445922975122.1488f171-486a-4fe8-a1a2-81caa1fce1ef.9362c126-fb9a-46d1-be64-762b06661b11?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox"
+      ]
+    },
+    {
+      "name": "Warhammer 40,000: Space Marine 2",
+      "date": "2026-01-29",
+      "url": "https://www.xbox.com/es-ES/games/store/warhammer-40000-space-marine-2/9N9PCZWHVP2L/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.939.13528912654162373.752dd58c-93b6-40eb-ba0f-2d5ce3229dff.c6499c2f-2c1f-4613-9031-089cbe7d35d9?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "MySims™: Colección Sofá y Mantita",
+      "date": "2026-01-29",
+      "url": "https://www.xbox.com/es-es/games/store/mysims-colección-sofá-y-mantita/9nkrf8hj45gx",
+      "cover": "https://store-images.s-microsoft.com/image/apps.40018.13655706602498995.149ae955-10f2-4011-a323-545ac134caef.e53f8dd4-ce45-4cfd-ac1d-647117f8fe4b?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "INDIKA",
+      "date": "2026-02-02",
+      "url": "https://www.xbox.com/es-ES/games/store/indika/9N020KFQG301/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.55783.13929914726070906.c9e03a60-d9a2-4eb2-aadd-7402c3ec742e.8b1d1eb2-281c-4dd4-a43f-5fa944d35073?q=90&w=177&h=265",
+      "platforms": [
+        "xbox"
+      ]
+    },
+    {
+      "name": "FINAL FANTASY II",
+      "date": "2026-02-03",
+      "url": "https://www.xbox.com/es-ES/games/store/final-fantasy-ii/9P8S1MN4066K/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.28704.14086627234907834.c86030ab-e956-465c-adca-f4a75ba02c31.093acd99-1540-4a34-945f-fa3f813bfe13?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
     }
   ],
   "leavingGames": [
@@ -171,78 +271,6 @@
         "pc",
         "xbox",
         "cloud"
-      ]
-    },
-    {
-      "name": "Cataclismo",
-      "date": "2026-01-31",
-      "url": "https://www.xbox.com/es-ES/games/store/cataclismo/9N77QBDKKM4C/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.39507.14069783637787952.1ce111e4-c3d7-4ea2-9289-8a73f033fcbf.926cb7e6-5cf2-48c3-b81d-4857bd482571?q=90&w=177&h=265",
-      "platforms": [
-        "pc"
-      ]
-    },
-    {
-      "name": "Citizen Sleeper 2: Starward Vector",
-      "date": "2026-01-31",
-      "url": "https://www.xbox.com/es-ES/games/store/citizen-sleeper-2-starward-vector/9MWCF1XBJBR2/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.47283.13841979780106331.acb28221-4c2d-40dc-b1e1-dbee254379de.abf1f1a2-f310-4d90-a369-37a94a90dd42?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Lonely Mountains: Snow Riders",
-      "date": "2026-01-31",
-      "url": "https://www.xbox.com/es-ES/games/store/lonely-mountains-snow-riders/9PF3MC3V9Q27/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.57296.14212743398014260.4c0cc9e4-575b-4fb6-b786-48db66a30ec0.fe7edd9e-1253-4ca4-a33a-08330bf2aee3?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Orcs Must Die! Deathtrap",
-      "date": "2026-01-31",
-      "url": "https://www.xbox.com/es-ES/games/store/orcs-must-die-deathtrap/9P0302F6V9VT/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.47409.14468803747722334.03cd3f6a-9768-4ae5-ad95-5c7dc9ddeb76.47bd1969-8415-40a1-9bdf-7a6c503852b0?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "PAW Patrol World - La Patrulla Canina",
-      "date": "2026-01-31",
-      "url": "https://www.xbox.com/es-ES/games/store/paw-patrol-world-la-patrulla-canina/9N2VDS259QP1/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.45471.13948993858025072.92023a0f-4cb5-4ee3-8396-0122fea8fafe.8f3a375f-b8a6-429d-8d7d-607ea603887e?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "pc",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Shady Part of Me",
-      "date": "2026-01-31",
-      "url": "https://www.xbox.com/es-ES/games/store/shady-part-of-me/9N9GTTGWZR90/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.2717.14568634156623763.b5abed1d-32f8-4125-a36b-86e3253aff32.3c981be2-9cd8-4272-b2d7-bbe751e37862?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "cloud"
-      ]
-    },
-    {
-      "name": "Starbound",
-      "date": "2026-01-31",
-      "url": "https://www.xbox.com/es-ES/games/store/starbound/9MTSBWPWPQVQ/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.5801.13802186359317829.b9acdcf9-2e05-4328-812d-253b5ab5de76.cc2ee825-d31f-441a-8eba-442e0853957e?q=90&w=177&h=265",
-      "platforms": [
-        "pc"
       ]
     }
   ],
