@@ -43,6 +43,15 @@
       ]
     },
     {
+      "name": "MENACE",
+      "date": "2026-02-05",
+      "url": "https://www.xbox.com/es-es/games/store/menace-versin-preliminar-del-juego/9NQCJ397CQ6P",
+      "cover": "https://store-images.s-microsoft.com/image/apps.2468.13771742326595134.4fa71590-3431-450f-bd7b-c15460aaef4d.c128d248-af58-4e02-bfb3-63cdb485980b?q=90&w=177&h=265",
+      "platforms": [
+        "pc"
+      ]
+    },
+    {
       "name": "Patrulla Canina™ Rescue Wheels™: Campeones",
       "date": "2026-02-05",
       "url": "https://www.xbox.com/es-ES/games/store/patrulla-canina-rescue-wheels-campeones/9NJQ3J8L1MDL/0010",
@@ -99,7 +108,7 @@
     },
     {
       "name": "Diablo® II: Resurrected™",
-      "date": "2026-02-12",
+      "date": "2026-02-11",
       "url": "https://www.xbox.com/es-ES/games/store/diablo-ii-resurrected/9NT0PNTL6B79",
       "cover": "https://store-images.s-microsoft.com/image/apps.27541.14357505034575924.27607c86-9992-48ed-bec3-f49a9af6a5d8.c3d9452f-19db-4fd6-9cfa-b95db18957d4?q=90&w=177&h=265",
       "platforms": [
@@ -146,6 +155,101 @@
       "date": "2026-02-17",
       "url": "https://www.xbox.com/es-ES/games/store/avowed/9NHRDQVFPQ34/0010",
       "cover": "https://store-images.s-microsoft.com/image/apps.63195.13624715126573049.35e3abd5-bd41-4efb-bc2a-0bfbdd50b02a.d3291934-3236-4279-91eb-792123046d1d?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Aerial_Knights DropShot",
+      "date": "2026-02-17",
+      "url": "https://www.xbox.com/es-ES/games/store/aerialknights-dropshot/9P59J86GHDGL/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.43895.14572770853787241.31b8f648-fd0c-4c5c-9410-bd777ff4646e.4b655ef3-e866-43e5-aa85-050317975c94?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Death Howl",
+      "date": "2026-02-19",
+      "url": "https://www.xbox.com/es-ES/games/store/death-howl/9PD9SZGNCMDZ/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.58487.14153289927843166.29c3c983-1635-4022-a6c5-a2cc6483c0d0.0b824240-91f2-40e6-8318-24cc1ecdec52?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "EA SPORTS™ College Football 26",
+      "date": "2026-02-19",
+      "url": "https://www.xbox.com/es-ES/games/store/ea-sports-college-football-26/9NLKS78C4F3Z/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.49451.13705897253211932.09e217c5-7820-4d7b-957c-a160cdfce255.f94917f6-e0c5-418e-820b-09061b7afe2b?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "The Witcher 3: Wild Hunt",
+      "date": "2026-02-19",
+      "url": "https://www.xbox.com/es-ES/games/store/the-witcher-3-wild-hunt/BR765873CQJD/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.13986.69531514236615003.534d4f71-03cb-4592-929a-b00a7de28b58.c4152bcf-9088-4e35-98b5-9a2e44b927c5?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "TCG Card Shop Simulator",
+      "date": "2026-02-24",
+      "url": "https://www.xbox.com/es-ES/games/store/tcg-card-shop-simulator-game-preview/9P9GX5D8H9DW/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.31469.14143053245725704.14ebe58d-2f1e-46da-9224-f0da06983250.3a495eda-df3b-4790-a3de-ee27888dfa75?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Dice a Million",
+      "date": "2026-02-25",
+      "url": "https://store.steampowered.com/app/3430340/Dice_A_Million/?l=spanish",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa8k2.webp",
+      "platforms": [
+        "pc"
+      ]
+    },
+    {
+      "name": "Towerborne",
+      "date": "2026-02-26",
+      "url": "https://www.xbox.com/es-ES/games/store/towerborne/9P7TLX79S7N7/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.10364.14100945740468620.e64e8a74-2c2b-437c-ae40-c08f6d244c4f.2b09dcc8-32b2-47ff-9c76-21dbd581a33b?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "FINAL FANTASY III",
+      "date": "2026-03-03",
+      "url": "https://www.xbox.com/es-ES/games/store/final-fantasy-iii/9NWDPFPPK30V/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.10723.14451317888346729.aa788569-1cd5-4640-bca3-a53d5278fc18.a82da078-1946-4c5d-9539-5428858c14fb?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Kingdom Come: Deliverance II",
+      "date": "2026-03-03",
+      "url": "https://www.xbox.com/es-ES/games/store/kingdom-come-deliverance-ii/9N4W31HSMVVD/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.21024.13979588110779567.5e6f9542-73ca-4800-a714-e6819fafc7f7.7b53caab-0160-44a9-8960-31c0a5f687f9?q=90&w=177&h=265",
       "platforms": [
         "xbox",
         "pc",
