@@ -259,12 +259,43 @@
   ],
   "leavingGames": [
     {
-      "name": "The Ascent",
-      "date": "2026-01-15",
-      "url": "https://www.xbox.com/es-ES/games/store/the-ascent/C27QL5JBKQ8M/0001",
-      "cover": "https://store-images.s-microsoft.com/image/apps.50939.65332188737297236.e956bc32-e423-4920-b547-86181e7ed68d.5d1e69b9-96f7-4cd1-b87e-1e694ac71ee2?q=90&w=177&h=256",
+      "name": "Monster Train",
+      "date": "2026-02-28",
+      "url": "https://www.xbox.com/es-ES/games/store/monster-train/9NP4BGBLLLXM/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.43919.13730273714404372.ea561b73-8f7b-40a2-b473-ec2ebf0c6300.dc3d6ec4-0b1f-4f01-a975-533226a28eba?q=90&w=177&h=265",
       "platforms": [
+        "xbox",
         "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Expeditions: A MudRunner Game",
+      "date": "2026-02-28",
+      "url": "https://www.xbox.com/es-ES/games/store/expeditions-a-mudrunner-game/9NP9J3T0JWRL/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.43838.14597110433860134.e1b00ab2-df20-4549-ae9c-6d23606372a7.fa33edec-e631-47eb-a620-d8d0cd345665?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "La Tierra Media™: Sombras de Guerra™",
+      "date": "2026-02-28",
+      "url": "https://www.xbox.com/es-ES/games/store/la-tierra-media-sombras-de-guerra/9PDV8FKWP3B4/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.17286.14146895813128195.1152921504736932716.20a13764-58ac-4f79-88e8-08f56551da66?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Injustice™ 2",
+      "date": "2026-02-28",
+      "url": "https://www.xbox.com/es-ES/games/store/injustice-2/BPKVH4C4XV4N/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.51626.68598211680266771.73ef9826-822a-4a0b-ab4a-4fe8fd87fc3b.714f1b5c-6793-443d-a291-74b81479dc92?q=90&w=177&h=265",
+      "platforms": [
         "xbox",
         "cloud"
       ]
@@ -272,75 +303,54 @@
   ],
   "freePlayDays": [
     {
-      "name": "EA SPORTS FC™ 26 Standard Edition",
-      "date": "2026-01-15",
-      "url": "https://www.xbox.com/es-ES/games/store/ea-sports-fc-26-standard-edition-para-xbox-one-y-xbox-series-xs/9MXZBTLG26VX/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.39200.14145291960194275.263e78bd-2ea0-43c6-8a5b-5578131f4b02.ba171ef6-2bab-4956-b9d7-e67e253520d1?q=90&w=177&h=265",
+      "name": "Battlefield™ 6",
+      "date": "2026-02-19",
+      "url": "https://www.xbox.com/es-ES/games/store/battlefield-6/9P2FF14JZLL3/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.65490.14559138935406168.e7f01a08-ebf9-41d8-88ba-39fb1a148711.c65ba007-7378-497e-b934-101230f24e82?q=90&w=177&h=265",
       "platforms": [
         "xbox"
       ],
-      "dateLeaving": "2026-01-18"
+      "dateLeaving": "2026-02-22"
     },
     {
-      "name": "EA SPORTS™ Madden NFL 26",
-      "date": "2026-01-15",
-      "url": "https://www.xbox.com/es-ES/games/store/ea-sports-madden-nfl-26/9NVD16NP4J8T/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.55917.14396710821719966.964c458e-b7d7-4c34-b2e4-5a677317a3e5.95d73381-0e83-4507-ab53-d7b17749686d?q=90&w=177&h=265",
+      "name": "Chip ‘n Clawz vs. The Brainioids",
+      "date": "2026-02-19",
+      "url": "https://www.xbox.com/es-ES/games/store/chip-n-clawz-vs-the-brainioids/9NC8XKMWB5DJ/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.48043.13725115215816430.52c0485c-e473-409c-907c-c3240124bda3.c8534a16-f835-44ea-9128-43a86d506309?q=90&w=177&h=265",
       "platforms": [
         "xbox"
       ],
-      "dateLeaving": "2026-01-18"
+      "dateLeaving": "2026-02-22"
     },
     {
-      "name": "EA SPORTS™ College Football 26",
-      "date": "2026-01-15",
-      "url": "https://www.xbox.com/es-ES/games/store/ea-sports-college-football-26/9NLKS78C4F3Z/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.38319.13705897253211932.75581845-85e1-4e95-91f1-bcbfcf60e078.24ffce14-86c2-4d88-95f3-776ff3fbf249?q=90&w=177&h=265",
+      "name": "Sunderfolk",
+      "date": "2026-02-19",
+      "url": "https://www.xbox.com/es-ES/games/store/sunderfolk/9NKT0W32RM3K/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.25309.13654665046959384.df020ac8-b391-48be-af22-4d9c1c64ee2a.6c8b3d62-8acf-4830-8718-28b2172089db?q=90&w=177&h=265",
       "platforms": [
         "xbox"
       ],
-      "dateLeaving": "2026-01-18"
+      "dateLeaving": "2026-02-22"
     },
     {
-      "name": "NHL 26 Edición Estándar",
-      "date": "2026-01-15",
-      "url": "https://www.xbox.com/es-ES/games/store/nhl-26-edicion-estandar-para-xbox-series-xs/9N5KC05F95XM/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.9361.14036865830677680.e3b49c32-835f-4209-adb5-b25cddfb1586.6616099b-9d55-4f00-98f4-79dda32fd6b6?q=90&w=177&h=265",
+      "name": "Polterguys: Possession Party",
+      "date": "2026-02-19",
+      "url": "https://www.xbox.com/es-ES/games/store/polterguys-possession-party/9NPQR5GSZV3F/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.5573.13784155691468416.07d1cd9e-85db-45bd-bcb1-b0fe09dca485.98b3af9e-24b3-42b1-84c1-ce307e46bcb6?q=90&w=177&h=265",
       "platforms": [
         "xbox"
       ],
-      "dateLeaving": "2026-01-18"
+      "dateLeaving": "2026-02-22"
     },
     {
-      "name": "F1® 25",
-      "date": "2026-01-15",
-      "url": "https://www.xbox.com/es-ES/games/store/f1-25/9NWPW7F19FS5/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.15088.14440852722460694.8e2c0727-2c64-434e-9a33-2ef751fed0b8.a5a86328-5160-4b43-b83a-1359de26c5f8?q=90&w=177&h=265",
+      "name": "Jujutsu Kaisen Cursed Clash",
+      "date": "2026-02-19",
+      "url": "https://www.xbox.com/es-ES/games/store/jujutsu-kaisen-cursed-clash/9N1T03Q2J6NH/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.36584.13965211066101112.5461a737-b473-4ef5-94c7-1976f473c1c1.b0516656-69bd-4b69-85e5-5b68118b6be9?q=90&w=177&h=265",
       "platforms": [
         "xbox"
       ],
-      "dateLeaving": "2026-01-18"
-    },
-    {
-      "name": "UFC™ 5",
-      "date": "2026-01-15",
-      "url": "https://www.xbox.com/es-ES/games/store/ufc-5/9NH8K4B707H0/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.43296.13630336651997545.a96b0d89-5d07-42df-a32b-c465113ff69c.180cb40d-58f2-48a5-829f-bf309187f337?q=90&w=177&h=265",
-      "platforms": [
-        "xbox"
-      ],
-      "dateLeaving": "2026-01-18"
-    },
-    {
-      "name": "EA SPORTS™ PGA TOUR™",
-      "date": "2026-01-15",
-      "url": "https://www.xbox.com/es-ES/games/store/ea-sports-pga-tour/9P822XLW9PB8/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.19163.14096393311858391.003b64c1-1a3b-4b4e-9c47-80d6ec287ead.a28c0902-668d-4ace-b0c6-970d0df10b7e?q=90&w=177&h=265",
-      "platforms": [
-        "xbox",
-        "cloud"
-      ],
-      "dateLeaving": "2026-01-18"
+      "dateLeaving": "2026-02-22"
     }
   ]
 }
