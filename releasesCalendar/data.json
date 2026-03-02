@@ -299,6 +299,69 @@
         "xbox",
         "cloud"
       ]
+    },
+    {
+      "name": "He is Coming (Game Preview)",
+      "date": "2026-03-15",
+      "url": "https://www.xbox.com/es-ES/games/store/he-is-coming-game-preview/9N86QX607TMR/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.23863.14054902319068378.1242797e-f749-4908-8275-ba478258f0e3.3152133e-a131-4f39-9658-a9d4addc9868?q=90&w=177&h=265",
+      "platforms": [
+        "pc"
+      ]
+    },
+    {
+      "name": "Enter The Gungeon",
+      "date": "2026-03-15",
+      "url": "https://www.xbox.com/es-ES/games/store/enter-the-gungeon/9NB65S6LFZRT/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.13557.13523638002129104.cc876367-b7e1-4567-bb7d-ed2e240c0376.06accfbe-2a57-4ecc-b2e4-15061b6eb1cf?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Mythwrecked: Ambrosia Island",
+      "date": "2026-03-15",
+      "url": "https://www.xbox.com/es-ES/games/store/mythwrecked-ambrosia-island/9NC4X3LP87TN/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.51540.13575080298091081.91d559b5-de7b-447c-a5ad-20a1479f41a4.110b1d08-4098-4743-86b4-69f3928b9a6b?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Lightyear Frontier (Versión preliminar del juego)",
+      "date": "2026-03-15",
+      "url": "https://www.xbox.com/es-ES/games/store/lightyear-frontier-version-preliminar-del-juego/9NDX2927SND9/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.3998.13610342535970070.fb34dfda-5ccd-4768-9a7b-0f0c468853e1.d8bf2915-cd81-479d-98e8-3f596a4fd88f?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Bratz® Ritmo y Estilo",
+      "date": "2026-03-15",
+      "url": "https://www.xbox.com/es-ES/games/store/bratz-ritmo-y-estilo/9P76MMJG50DS/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.2018.14610100357079967.1f0836d7-725e-4273-9b48-ccbe466f455c.5c83184e-3420-41f5-bb60-4d5197707cf3?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "F1® 23",
+      "date": "2026-03-15",
+      "url": "https://www.xbox.com/es-ES/games/store/f1-23/9MTK0S8CQ0QV/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.59851.13807378106780361.8a115783-cbb5-4535-8490-7cd4bfae3e22.3b8029b5-5051-41b5-929f-0aa95482cb28?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "cloud"
+      ]
     }
   ],
   "freePlayDays": [
