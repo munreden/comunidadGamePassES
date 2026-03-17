@@ -97,6 +97,123 @@
         "xbox",
         "cloud"
       ]
+    },
+    {
+      "name": "South of Midnight [PREMIUM]",
+      "date": "2026-03-18",
+      "url": "https://www.xbox.com/es-ES/games/store/south-of-midnight/9NJCVGS6T30K/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.45547.13678609147241298.c742bfe1-6624-4d6a-800e-503c12872c58.e240d226-a024-4880-9c66-0f0f15b8a378?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "The Alters [PREMIUM]",
+      "date": "2026-03-18",
+      "url": "https://www.xbox.com/es-ES/games/store/the-alters/9N0P25WJHM8C/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.7753.13917104365848520.a4bd4730-c578-4118-a439-d16f88dde25a.b8d20204-e6cf-4c18-a714-53e1fbb53591?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Disco Elysium",
+      "date": "2026-03-19",
+      "url": "https://www.xbox.com/es-es/games/store/disco-elysium-the-final-cut/9ntrs771l8hl",
+      "cover": "https://store-images.s-microsoft.com/image/apps.39372.14408364206805299.40b2a513-7cef-4e75-8752-fd34ccd32aee.5311087f-37bc-45fd-ade6-86a3ad0274b7?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Like a Dragon: Infinite Wealth",
+      "date": "2026-03-24",
+      "url": "https://www.xbox.com/es-ES/games/store/like-a-dragon-infinite-wealth/9P00SVGWDJCP/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.52365.14465728597087432.6e0f939a-1434-4a25-b368-df8616b251aa.e89504d8-6e5f-456f-bbb3-64d1970f0f8f?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Absolum",
+      "date": "2026-03-25",
+      "url": "https://store.steampowered.com/app/1904480/Absolum/",
+      "cover": "https://cdn2.steamgriddb.com/thumb/976699af1e3341cc7e924bea66905c0b.jpg",
+      "platforms": [
+        "pc"
+      ]
+    },
+    {
+      "name": "Nova Roma",
+      "date": "2026-03-26",
+      "url": "https://www.xbox.com/es-ES/games/store/nova-roma-version-preliminar-del-juego/9NBNFBQ546DT/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.17605.13514288515095406.faaf3901-45ae-44fa-b5ce-72e47689e8a0.f234ac83-081a-4be7-b117-71fd3047d096?q=90&w=177&h=265",
+      "platforms": [
+        "pc"
+      ]
+    },
+    {
+      "name": "The Long Dark",
+      "date": "2026-03-30",
+      "url": "https://www.xbox.com/es-ES/games/store/the-long-dark/C41ZDFQ82M1G/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.28995.66934420265726607.97919c5c-edc3-4ec4-a441-ca3d129949d8.c25d9682-7a67-449e-9f24-fba0216ba0d9?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "RESIDENT EVIL 7 biohazard",
+      "date": "2026-03-31",
+      "url": "https://www.xbox.com/es-ES/games/store/resident-evil-7-biohazard/BVFDTJ1XF6CS/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.38644.71433286839923669.1250138a-286b-4b3f-8367-3d201ae45ae9.a08b2cbe-68eb-4c9e-a196-78097193172f?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Barbie™ Rutas a caballo",
+      "date": "2026-04-02",
+      "url": "https://www.xbox.com/es-ES/games/store/barbie-rutas-a-caballo/9N21ZCV0JW6V/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.50779.13960600887743581.ba328299-e217-4554-95d0-597345e02b27.f85003ac-7ed2-4be1-b92a-7b0de0182df0?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Clair Obscur: Expedition 33",
+      "date": "2026-04-02",
+      "url": "https://www.xbox.com/es-ES/games/store/clair-obscur-expedition-33/9PPT8K6GQHRZ/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.55260.14322280443288156.27788484-2760-47f7-be0d-dd693682e016.c7b2322a-d6b0-4051-a58b-d0b11aa37b20?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "FINAL FANTASY IV",
+      "date": "2026-04-07",
+      "url": "https://www.xbox.com/es-ES/games/store/final-fantasy-iv/9N8C07SS8C9D/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.35225.14047651100003233.0972ca9a-2a5a-40da-ab16-debd2d97175b.7917c828-ff31-422c-a8ca-140f8b0bf337?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
     }
   ],
   "leavingGames": [
