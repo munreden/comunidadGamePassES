@@ -279,6 +279,28 @@
         "xbox",
         "cloud"
       ]
+    },
+    {
+      "name": "Peppa Pig: Un mundo de aventuras",
+      "date": "2026-03-31",
+      "url": "https://www.xbox.com/es-ES/games/store/peppa-pig-un-mundo-de-aventuras/9P0P58R3NQDS/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.20709.14523056830753135.0f821659-b4b7-49e6-ae3a-dcc2319454d6.43fc4d54-7753-4ef6-adc3-bcc69ada8eff?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Mad Streets",
+      "date": "2026-03-31",
+      "url": "https://www.xbox.com/es-ES/games/store/mad-streets/9pffbt24pbm0",
+      "cover": "https://store-images.s-microsoft.com/image/apps.33258.14201660839599389.a29a939b-9db1-48e8-b2b4-0075c6f39349.0fb66d59-027e-4b54-8476-ac5c7982c988?q=90&w=177&h=265",
+      "platforms": [
+        "xbox",
+        "pc",
+        "cloud"
+      ]
     }
   ],
   "freePlayDays": [
