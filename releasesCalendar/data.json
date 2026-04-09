@@ -173,10 +173,10 @@
   ],
   "leavingGames": [
     {
-      "name": "Peppa Pig: Un mundo de aventuras",
-      "date": "2026-03-31",
-      "url": "https://www.xbox.com/es-ES/games/store/peppa-pig-un-mundo-de-aventuras/9P0P58R3NQDS/0010",
-      "cover": "https://store-images.s-microsoft.com/image/apps.20709.14523056830753135.0f821659-b4b7-49e6-ae3a-dcc2319454d6.43fc4d54-7753-4ef6-adc3-bcc69ada8eff?q=90&w=177&h=265",
+      "name": "Ashen",
+      "date": "2026-04-15",
+      "url": "https://www.xbox.com/es-ES/games/store/ashen/BNXLPPCVS0HN/0001",
+      "cover": "https://store-images.s-microsoft.com/image/apps.39596.67644652336133489.b3703282-21c5-4da4-9f47-ba53b33b37b5.569189bd-72c6-4e18-bae2-96f3542515b3?q=90&w=177&h=265",
       "platforms": [
         "xbox",
         "pc",
@@ -184,14 +184,45 @@
       ]
     },
     {
-      "name": "Mad Streets",
-      "date": "2026-03-31",
-      "url": "https://www.xbox.com/es-ES/games/store/mad-streets/9pffbt24pbm0",
-      "cover": "https://store-images.s-microsoft.com/image/apps.33258.14201660839599389.a29a939b-9db1-48e8-b2b4-0075c6f39349.0fb66d59-027e-4b54-8476-ac5c7982c988?q=90&w=177&h=265",
+      "name": "Eiyuden Chronicle: Hundred Heroes",
+      "date": "2026-04-15",
+      "url": "https://www.xbox.com/es-ES/games/store/eiyuden-chronicle-hundred-heroes/9N8Z1ZL33LM9/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.36865.13556919803691894.87ef516e-a908-4d0f-8db2-ac932ea8385c.8d013640-8b04-4a46-a437-b5a3f77bdd2e?q=90&w=177&h=265",
       "platforms": [
-        "xbox",
         "pc",
+        "xbox",
         "cloud"
+      ]
+    },
+    {
+      "name": "Grand Theft Auto V",
+      "date": "2026-04-15",
+      "url": "https://www.xbox.com/es-ES/games/store/grand-theft-auto-v-xbox-series-xs/9NXMBTB02ZSF/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.25111.14171925115759792.46ff70c5-7760-41a8-9ced-d2de5ae78f17.a595ad6c-5ee2-4d5f-96ed-96c2c62c46e0?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Little Pony: Misterio en los Altos de Céfiro",
+      "date": "2026-04-15",
+      "url": "https://www.xbox.com/es-es/games/store/my-little-pony-misterio-en-los-altos-de-céfiro/9pmcmr52j1b5",
+      "cover": "https://store-images.s-microsoft.com/image/apps.36671.14300494031996818.c15e6de0-6f08-463f-8420-37eee926402c.80041110-537d-4f61-b8dc-876ca0098829?q=90&w=177&h=265",
+      "platforms": [
+        "pc",
+        "xbox",
+        "cloud"
+      ]
+    },
+    {
+      "name": "Terra Invicta",
+      "date": "2026-04-15",
+      "url": "https://www.xbox.com/es-ES/games/store/terra-invicta/9PB0GLGXQZ83/0010",
+      "cover": "https://store-images.s-microsoft.com/image/apps.15179.14128659347127760.ef7aff29-92b5-4960-a613-ef7c4fe07abc.620e3cf0-9adc-430e-a962-9c34c540bbaf?q=90&w=177&h=265",
+      "platforms": [
+        "pc"
       ]
     }
   ],
